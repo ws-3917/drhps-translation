@@ -18,8 +18,8 @@ def convert_zh_to_tw(path, format):
                     f.write(content_tw)
 
 
-# 递归读取文件夹tmpgui中的所有JSON文件
-def read_json_files(directory, textkeylist):
+# 递归读取文件夹中的所有JSON文件，并导出
+def initialize_translation_json(directory, textkeylist, output_file):
     translation_dict = {}  # 用来存储所有的m_text值
     translation_set = set()
     it = list([1])
@@ -69,10 +69,6 @@ def read_json_files(directory, textkeylist):
                             recursive_search(data, key)
                     except json.JSONDecodeError:
                         print(f"文件 {file_path} 解析错误")
-    return translation_dict
-
-
-def save_translation_dict(translation_dict, output_file):
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(translation_dict, f, ensure_ascii=False, indent=4)
 
@@ -231,12 +227,13 @@ if __name__ == "__main__":
         "controls",
     ]
 
-    save_translation_dict(
-        read_json_files("text/en_US", translation_key_mtext),
+    initialize_translation_json(
+        "text/en_US",
+        translation_key_mtext,
         "strings/mtext.json",
     )
-    save_translation_dict(
-        read_json_files("text/en_US", ["Text", "Array"]), "strings/dialogue.json"
+    initialize_translation_json(
+        "text/en_US", ["Text", "Array"], "strings/dialogue.json"
     )
     update_translation_json(
         "translation-tools/weblate/dialogue/en.json",
