@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "Livingroom_comicbook_read",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 226
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 224
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（几个骷髅站在悬崖边。）",
+            "（一个戴着紫色兜帽的\n骷髅把拳头挥向空中。）",
+            "（大战一触即发！）",
+            "（刀剑交锋，魔法飞舞！）",
+            "打断一下，伙计。",
+            "...下一页可老生动了。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 216
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 215
+            }
+          ]
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

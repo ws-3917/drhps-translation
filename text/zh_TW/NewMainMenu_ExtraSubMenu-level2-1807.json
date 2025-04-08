@@ -1,0 +1,116 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 319
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 122
+  },
+  "m_Name": "",
+  "BackgroundTextLines": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1567
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1539
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1602
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1529
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1618
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1598
+      }
+    ]
+  },
+  "MainText": {
+    "m_FileID": 0,
+    "m_PathID": 1509
+  },
+  "BackgroundTextMaxCount": {
+    "Array": []
+  },
+  "ExtraContent": {
+    "Array": [
+      {
+        "ExtraName": "...返回",
+        "Item": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "ExtraType": 0
+      },
+      {
+        "ExtraName": "舊圖標和舊Logo",
+        "Item": {
+          "m_FileID": 2,
+          "m_PathID": 507
+        },
+        "ExtraType": 1
+      },
+      {
+        "ExtraName": "《傳說之下嘉年華》2024 幕後花絮",
+        "Item": {
+          "m_FileID": 2,
+          "m_PathID": 508
+        },
+        "ExtraType": 1
+      },
+      {
+        "ExtraName": "開發洞察 第1部分",
+        "Item": {
+          "m_FileID": 2,
+          "m_PathID": 503
+        },
+        "ExtraType": 1
+      },
+      {
+        "ExtraName": "開發洞察 第2部分",
+        "Item": {
+          "m_FileID": 2,
+          "m_PathID": 504
+        },
+        "ExtraType": 1
+      },
+      {
+        "ExtraName": "開發洞察 第3部分",
+        "Item": {
+          "m_FileID": 2,
+          "m_PathID": 505
+        },
+        "ExtraType": 1
+      },
+      {
+        "ExtraName": "遊戲趣聞",
+        "Item": {
+          "m_FileID": 2,
+          "m_PathID": 506
+        },
+        "ExtraType": 1
+      }
+    ]
+  },
+  "ConsoleMenu": {
+    "m_FileID": 0,
+    "m_PathID": 441
+  },
+  "ExtraContextMenu": {
+    "m_FileID": 0,
+    "m_PathID": 1841
+  },
+  "AllowInput": 0
+}

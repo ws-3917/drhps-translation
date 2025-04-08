@@ -1,0 +1,297 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 40
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 336
+  },
+  "m_Name": "",
+  "CutsceneIndex": 0,
+  "PlayerCamera": {
+    "m_FileID": 0,
+    "m_PathID": 317
+  },
+  "LevelTransition": {
+    "m_FileID": 0,
+    "m_PathID": 305
+  },
+  "Kris": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "JigsawJoe": {
+    "m_FileID": 0,
+    "m_PathID": 202
+  },
+  "Tasque": {
+    "m_FileID": 0,
+    "m_PathID": 260
+  },
+  "TasqueManager": {
+    "m_FileID": 0,
+    "m_PathID": 41
+  },
+  "TasqueMoveSprite": {
+    "m_FileID": 2,
+    "m_PathID": 177
+  },
+  "Rudinn_Dojo": {
+    "m_FileID": 0,
+    "m_PathID": 265
+  },
+  "Rudinn_Lancer": {
+    "m_FileID": 0,
+    "m_PathID": 284
+  },
+  "Lancer": {
+    "m_FileID": 0,
+    "m_PathID": 217
+  },
+  "Werewire": {
+    "m_FileID": 0,
+    "m_PathID": 148
+  },
+  "Ralsei": {
+    "m_FileID": 0,
+    "m_PathID": 192
+  },
+  "Cafe": {
+    "m_FileID": 0,
+    "m_PathID": 228
+  },
+  "Cafe_Open": {
+    "m_FileID": 2,
+    "m_PathID": 192
+  },
+  "KrisWalkPositions": {
+    "Array": [
+      {
+        "x": 0.0,
+        "y": 11.5,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 15.5,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 21.5,
+        "z": 0.0
+      },
+      {
+        "x": 1.0,
+        "y": 22.5,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 23.5,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 30.0,
+        "z": 0.0
+      }
+    ]
+  },
+  "SusieWalkPositions": {
+    "Array": [
+      {
+        "x": 0.0,
+        "y": 10.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 14.5,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 21.5,
+        "z": 0.0
+      },
+      {
+        "x": -1.0,
+        "y": 22.5,
+        "z": 0.0
+      },
+      {
+        "x": 0.475,
+        "y": 25.45,
+        "z": 0.0
+      },
+      {
+        "x": 0.475,
+        "y": 25.45,
+        "z": 0.0
+      },
+      {
+        "x": 1.0,
+        "y": 25.45,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 30.0,
+        "z": 0.0
+      }
+    ]
+  },
+  "KrisWalkIndex": 0,
+  "TargetKrisWalkIndex": 1,
+  "SusieWalkIndex": 0,
+  "TargetSusieWalkIndex": 1,
+  "JJWalkPositions": {
+    "Array": [
+      {
+        "x": -6.244,
+        "y": 10.5,
+        "z": 0.0
+      },
+      {
+        "x": -1.5,
+        "y": 10.5,
+        "z": 0.0
+      },
+      {
+        "x": -1.5,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ]
+  },
+  "JJWalkIndex": 0,
+  "JJHasBegunDelay": 0,
+  "TasqueWalkPositions": {
+    "Array": [
+      {
+        "x": 4.5,
+        "y": 20.0,
+        "z": 0.0
+      },
+      {
+        "x": -10.0,
+        "y": 20.0,
+        "z": 0.0
+      }
+    ]
+  },
+  "TasqueManagerWalkPositions": {
+    "Array": [
+      {
+        "x": 4.5,
+        "y": 20.0,
+        "z": 0.0
+      },
+      {
+        "x": -10.0,
+        "y": 20.0,
+        "z": 0.0
+      }
+    ]
+  },
+  "TasqueWalkIndex": 0,
+  "TargetTasqueWalkIndex": 2,
+  "TasqueManagerWalkIndex": 0,
+  "TargetTasqueManagerWalkIndex": 1,
+  "RudinnWalkPositions": {
+    "x": 0.0,
+    "y": 29.5,
+    "z": 0.0
+  },
+  "CutsceneChatter": {
+    "m_FileID": 0,
+    "m_PathID": 304
+  },
+  "CutsceneChats": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 267
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 275
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 274
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 273
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 269
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 268
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 270
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 271
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 272
+      }
+    ]
+  },
+  "CutsceneSource": {
+    "m_FileID": 0,
+    "m_PathID": 189
+  },
+  "CutsceneSounds": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 72
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 70
+      },
+      {
+        "m_FileID": 5,
+        "m_PathID": 252
+      },
+      {
+        "m_FileID": 6,
+        "m_PathID": 95
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 71
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 74
+      }
+    ]
+  },
+  "MusicCastleTown": {
+    "m_FileID": 2,
+    "m_PathID": 75
+  },
+  "MusicLancer": {
+    "m_FileID": 2,
+    "m_PathID": 73
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "PapyrusRoom_DoubleDoor",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 608
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Choice": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Text": {
+          "Array": [
+            "那是我的衣柜！",
+            "无论是什么场合，\n我都有合适的衣服！",
+            "家庭派对？#;西装安排上。",
+            "外出聚餐？#;便装准备好。",
+            "世界末日？#;铠甲披在肩！",
+            "（衣柜里除了T恤，\n啥都没有。）"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 19
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1667
+  },
+  "m_Name": "",
+  "battleSystem": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Dialogue_RandomRudinnText": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 51
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 52
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 53
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 54
+      }
+    ]
+  },
+  "Dialogue_IntroFlavorText": {
+    "m_FileID": 0,
+    "m_PathID": 55
+  },
+  "Dialogue_RandomFlavorText": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 56
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 57
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 58
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 59
+      }
+    ]
+  },
+  "CurrentAliveEnemies": {
+    "Array": []
+  },
+  "DialogueBubble_Default": {
+    "m_FileID": 4,
+    "m_PathID": 2148
+  },
+  "Attack_DiamondDrop": {
+    "m_FileID": 0,
+    "m_PathID": 62
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 182
+  },
+  "m_Name": "PapyrusRoom_PapyrusChoice",
+  "DefaultSelectedChoice": 0,
+  "Choices": {
+    "Array": [
+      "是",
+      "否"
+    ]
+  },
+  "CanBackOut": 1,
+  "ShowOnTextScrollFinish": 1,
+  "ChoiceCharacterReference": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ChoiceTextResults": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 10
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    ]
+  },
+  "ChoicePositions": {
+    "Array": [
+      {
+        "x": -253.4,
+        "y": -82.5
+      },
+      {
+        "x": 46.6,
+        "y": -82.5
+      }
+    ]
+  }
+}

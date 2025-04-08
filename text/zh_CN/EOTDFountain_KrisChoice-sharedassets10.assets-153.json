@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 182
+  },
+  "m_Name": "EOTDFountain_KrisChoice",
+  "DefaultSelectedChoice": 0,
+  "Choices": {
+    "Array": [
+      "是",
+      "否",
+      "承认"
+    ]
+  },
+  "CanBackOut": 0,
+  "ShowOnTextScrollFinish": 1,
+  "ChoiceCharacterReference": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ChoiceTextResults": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 157
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 156
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 155
+      }
+    ]
+  },
+  "ChoicePositions": {
+    "Array": [
+      {
+        "x": -253.4,
+        "y": -82.5
+      },
+      {
+        "x": 46.6,
+        "y": -82.5
+      }
+    ]
+  }
+}

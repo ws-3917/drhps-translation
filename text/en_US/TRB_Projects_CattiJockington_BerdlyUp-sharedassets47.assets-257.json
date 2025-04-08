@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1517
+  },
+  "m_Name": "TRB_Projects_CattiJockington_BerdlyUp",
+  "PlaySound": 0,
+  "PossibleSounds": {
+    "Array": []
+  },
+  "RunComponentFunction": 1,
+  "TargetComponentGameObjectName": "CattiJockington",
+  "TargetComponentClassname": "TRB_Projects_CattiJockington",
+  "FunctionName": "BerdlyUp",
+  "SubActions": {
+    "Array": []
+  },
+  "RunActionOnChatEnd": 0
+}

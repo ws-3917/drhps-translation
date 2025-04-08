@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "ICE-EPizza_Drop",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Choice": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Text": {
+          "Array": [
+            "(You dropped the pizza slice.)",
+            "(It splats on the ground, leaving a nasty yellow stain.)"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 255
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

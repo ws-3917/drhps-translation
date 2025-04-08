@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDTown_SusieTasque",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 233
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 241
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "...？！",
+            "接下来...会发生什么？"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 276
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

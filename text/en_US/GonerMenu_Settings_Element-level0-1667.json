@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 261
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1199
+  },
+  "m_Name": "",
+  "SettingsElementName": "Dyslexic Fonts",
+  "SettingsDescription": "Switch most text to the OpenDyslexic font for improved readability.\n\n(There may be occasional weird text wrapping)",
+  "CurrentlySelected": 0,
+  "CanBeCanceled": 1,
+  "RawImages_AffectedByColor": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1647
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1749
+      }
+    ]
+  },
+  "TMP_AffectedByColor": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1481
+      }
+    ]
+  }
+}

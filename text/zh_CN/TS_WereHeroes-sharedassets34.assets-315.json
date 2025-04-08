@@ -1,0 +1,199 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "TS_WereHeroes",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "...",
+            "我...",
+            "那些冒险...",
+            "诚然，它们会让我害怕...\n#让我不安...#~但同时...",
+            "也很快乐。",
+            "我们一同经历了那么多...\n@封印黑暗喷泉，@踏入陌生世界...",
+            "但...@危机仍未解除。",
+            "呼啸...@仍会到来。",
+            "尽管如此，你仍相信我。",
+            "...@那么...@听好。",
+            "如果我们要一同拯救世界，\n我会尽力完成使命。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 318
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 280
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 287
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 319
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 281
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

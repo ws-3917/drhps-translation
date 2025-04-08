@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 97
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 638
+  },
+  "m_Name": "",
+  "ContainsKris": 1,
+  "ResetKrisHealth": 1,
+  "KrisStartingState": 0,
+  "IsDarkworld": 1,
+  "PlayerStartPosition": {
+    "m_FileID": 0,
+    "m_PathID": 132
+  },
+  "PlayerStartRotation": {
+    "x": 0.0,
+    "y": 1.0
+  },
+  "ClearAllMembers": 0,
+  "ReplaceMembers": 1,
+  "NewPartyMembers": {
+    "Array": [
+      {
+        "m_FileID": 4,
+        "m_PathID": 2572
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 2569
+      }
+    ]
+  },
+  "ReplaceCalls": 0,
+  "ClearCalls": 1,
+  "NewCalls": {
+    "Array": []
+  },
+  "CallNames": {
+    "Array": []
+  },
+  "FadeIn": 1,
+  "DisableGonerMenu": 0,
+  "PlaySongOnLevelLoad": 1,
+  "Song": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "RoomHasMultipleEntrances": 0,
+  "RoomContainsPartyMembers": 0,
+  "RoomPositions": {
+    "DefaultStartPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DefaultKrisRotation": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DefaultCameraStartPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "SpawnPositions": {
+      "Array": []
+    }
+  },
+  "SetNewActivity": 1,
+  "LargeImage": "hypotheticalicon_fd",
+  "LargeImageText": "DELTARUNE - Hypothesis",
+  "State": "ICE-E's Darkworld Pizzeria",
+  "Details": "In Hypothetical: Free Drinks",
+  "VesselText": "* (A vessel, it's thirsty.)"
+}

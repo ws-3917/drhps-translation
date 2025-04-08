@@ -1,0 +1,287 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "Papyrus_PrepareIntroduction",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 615
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 600
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 230
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 608
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 607
+            }
+          ]
+        },
+        "Choice": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Text": {
+          "Array": [
+            "我先做個自我介紹！",
+            "我叫PAPYRUS，\n能力平平！",
+            "那，呃...\n@我叫Susie...\n@我旁邊的是Kris。",
+            "好！\n看來這次自我介紹\n很順利！",
+            "見到你們，\n我真是太開心了！",
+            ". . .",
+            ". . .",
+            "我好像...\n沒啥聊的了。",
+            "你看...\n我在這裡算不上@\n多受歡迎...@所以...",
+            "我還是第一次做\n自我介紹！",
+            "呃，@要不...@你...\n@帶我們四處轉轉吧？",
+            "帶你們轉轉...？",
+            "這主意太妙了！@;哇，你簡直\n是個天才！",
+            "普通的人類！\n紫色的人類！\n你們將踏上一場...",
+            "嘿，慢著！\n我可不是-£",
+            "踏上一場——\n環遊我家的\n冒險之旅！",
+            "不過開始之前...\n我得警告你倆，\n前方危機四伏！",
+            "危機...比如？",
+            "邪惡的怪物，#\n無法阻擋的恐懼，#\n還有呆呆的裝飾物！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 23
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 482
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 24
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 22
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 25
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 24
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 25
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 12
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

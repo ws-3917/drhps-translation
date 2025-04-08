@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 21
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 863
+  },
+  "m_Name": "",
+  "Spamtong": {
+    "m_FileID": 0,
+    "m_PathID": 75
+  },
+  "Jevil": {
+    "m_FileID": 0,
+    "m_PathID": 77
+  },
+  "Carousel": {
+    "m_FileID": 0,
+    "m_PathID": 78
+  },
+  "CarouselChatter": {
+    "m_FileID": 0,
+    "m_PathID": 114
+  }
+}

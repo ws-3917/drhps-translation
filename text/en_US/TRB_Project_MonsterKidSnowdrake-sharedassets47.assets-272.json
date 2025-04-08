@@ -1,0 +1,1051 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "TRB_Project_MonsterKidSnowdrake",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Yo! So, like... ;Uh...@ me an' Snowy are gonna answer...@ a scientific question.",
+            "The most important question of all time...",
+            "What makes things cool?"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 267
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 266
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 265
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 269
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Right!! ;So, uh, we researched... a lot.",
+            "And we found that coolness is, like, measurable.",
+            "See, coolness evolves over time.",
+            "Like, one day, somethin' is cool.@ And the next day it's, uh...@ not.",
+            "But some things are always cool. ;Like ice."
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 267
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 265
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 270
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 269
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 327
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "This is giving me, secondhand, UNcoolness....",
+            "Wait, wait, wait!! ;We've plotted everything that's cool!!",
+            "Look at our elite lineup, hours of research went into this!"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 265
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 267
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 270
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 269
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "S-So, starting from the bottom of our graph...",
+            "Stuff that isn't cool includes:# uh...",
+            "Homework.",
+            "Yeah, big not cool! ;And, getting called inside when you're playin' outside!",
+            "Oh, brutal.@ What about when you wave at someone and they don't wave back?",
+            "I- uh... ;Y-Yea! @Painfully uncool, I think!",
+            "Moving onto stuff that's, like, moderate cool.",
+            "There's, uh, roller skates?",
+            "Only if you actually know how to use 'em.",
+            "Oh, oh!@ Knowing exactly when to say \"no worries\" after someone apologizes!",
+            "Oooh, power move. ;Mid-tier cool.",
+            "Next is, uh...@ stickers?",
+            "Depends. ;Holographic stickers? Pretty cool.",
+            "Yeah, facts."
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 270
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 267
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 268
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 271
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 267
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 268
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 270
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 267
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Alright, now we're hittin' the real cool zone.",
+            "Stuff that's ALWAYS cool!",
+            "Snowy, you mind..@ uh.",
+            "Oh, yeah!"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 265
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 269
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 267
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 270
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 241
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Using our scientifically sound methods, we've determined the top 5 coolest things ever!",
+            "Number 5! ;Casually knowing a weird fact at the perfect time!!",
+            "Like, someone's like, \"Woah, how do magnets work?\" and BAM, you just know!",
+            "Number 4! ;Laughing at a joke no one else got!",
+            "Extra points if you don't explain it.",
+            "Number 3! ;Dinosaurs!",
+            "Who doesn't like giant scary monsters??",
+            "(Why are they staring RIGHT AT ME??)",
+            "Number 2! ;Walking away from a conversation at the perfect moment.",
+            "Right after saying something cool, no looking back!",
+            "And the number 1 coolest thing of all time...",
+            "You wanna do the honors?",
+            "Yeah! ;The coolest thing of all time is...",
+            "Totally whiping out, but making it look intentional!!",
+            "W-What? ;That's not what it says in the script!"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 267
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 270
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 265
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 269
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 270
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 319
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "...'Cause we saw you fall outside.",
+            "Nuh uh!! ;You wouldn't understand being cool like us!",
+            "Anyway, uh, that's our presentation done.",
+            "Heed our tips... and maybe one day, you could be cool too!!"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 265
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 269
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 266
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 270
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 265
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 269
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 15,
+              "m_PathID": 152
+            },
+            {
+              "m_FileID": 15,
+              "m_PathID": 153
+            },
+            {
+              "m_FileID": 15,
+              "m_PathID": 149
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "T-That was great! ;You two must've put a lot of time into this.",
+            "I-I think a...@ B+ for both of you makes sense.",
+            "Head back to your seats... @s-so the next pair can set up."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 291
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 292
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 288
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 289
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Heh, now THAT was cool."
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Aha!! ;Y-You said it yourself, we are cool!",
+            "As you can see, our research was valid!!",
+            "Yo...@ was that a, Tactical Faceplant??",
+            "Respect."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 271
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 269
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 288
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 287
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "I think I chipped a tooth..."
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 288
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 271
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

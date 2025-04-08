@@ -1,0 +1,87 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 421
+  },
+  "m_Name": "Asgore_Darkworld",
+  "PartyMemberPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 176
+  },
+  "PartyMemberName": "Asgore",
+  "PartyMemberColor": {
+    "r": 1.0,
+    "g": 0.39462656,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "PartyMemberColor_Highlighted": {
+    "r": 0.8,
+    "g": 0.6969446,
+    "b": 0.6,
+    "a": 1.0
+  },
+  "MaximumHealth": 250,
+  "HasMagic": 1,
+  "ATK": 35,
+  "DF": 10,
+  "MAGIC": 5,
+  "PartyMemberBattleAnimator": {
+    "m_FileID": 4,
+    "m_PathID": 1072
+  },
+  "PartyMember_DefaultSpells": {
+    "Array": []
+  },
+  "StartFromPlayer": 0,
+  "BattleEffect_AnimationName": "BattleEffect_SusieAttack",
+  "PartyMemberBattle_NameIcon": {
+    "m_FileID": 0,
+    "m_PathID": 143
+  },
+  "PartyMemberBattleIcon_CMenuOffset": {
+    "x": -15.0,
+    "y": 5.0
+  },
+  "PartyMemberBattleIcon": {
+    "m_FileID": 0,
+    "m_PathID": 144
+  },
+  "PartyMemberBattleHurtIcon": {
+    "m_FileID": 0,
+    "m_PathID": 160
+  },
+  "PartyMemberBattleDefeatedIcon": {
+    "m_FileID": 0,
+    "m_PathID": 101
+  },
+  "PartyMemberBattleAttack": {
+    "m_FileID": 0,
+    "m_PathID": 146
+  },
+  "PartyMemberBattleAct": {
+    "m_FileID": 0,
+    "m_PathID": 148
+  },
+  "PartyMemberBattleMagic": {
+    "m_FileID": 0,
+    "m_PathID": 162
+  },
+  "PartyMemberBattleItem": {
+    "m_FileID": 0,
+    "m_PathID": 171
+  },
+  "PartyMemberBattleDefend": {
+    "m_FileID": 0,
+    "m_PathID": 99
+  },
+  "PartyMemberBattleSpare": {
+    "m_FileID": 0,
+    "m_PathID": 91
+  }
+}

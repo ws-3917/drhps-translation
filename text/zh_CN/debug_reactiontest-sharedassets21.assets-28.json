@@ -1,0 +1,120 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "debug_reactiontest",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 593
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 596
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 55
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "美人鱼战士和企鹅男孩合为一体！",
+            " ",
+            "怎么有一种写作文凑字数的感觉（汗",
+            "不不不 作文写这些老师能打死我（笑",
+            "18. (2.5分) 马铃薯是由地下匍匐茎膨大形成的。马铃薯芽眼萌发会产生毒素，因此，长芽的马铃薯不宜食用。为了更好地储藏马铃薯，减少浪费，我区某中学生物小组设计实验，探究温度对某种食用马铃薯储藏期的影响，实验方案及结果如下表所示。请回答下列问题：",
+            " ",
+            "| 组别 | 马铃薯数量(个) | 实验处理 | 芽眼开始萌发所需时间(天)\n|  A  |     20       |   常温  |            12       \n|  B  |     20       |   低温  |            22       ",
+            "(1)本实验探究的问题是：_________\n",
+            "(2)本实验的变量是起对照作用的是_____组"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 48
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 44
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 45
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 46
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 47
+            }
+          ]
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

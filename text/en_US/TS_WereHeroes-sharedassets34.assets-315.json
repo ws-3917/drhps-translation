@@ -1,0 +1,199 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "TS_WereHeroes",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "...",
+            "I'm...",
+            "These past adventures...",
+            "They've been terrifying... #overwhelming... #but also...",
+            "Fun.",
+            "I mean... @we've already faced so much.@ Dark fountains, strange worlds...",
+            "And yet... @the worst is probably still ahead.",
+            "The Roaring... @It could come.",
+            "Even so, you believe in me.",
+            "...@ Okay... @listen.",
+            "If we're going to save the world, then I'll do my part."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 318
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 280
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 287
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 319
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 281
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

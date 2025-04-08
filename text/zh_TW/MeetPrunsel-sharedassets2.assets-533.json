@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 179
+  },
+  "m_Name": "MeetPrunsel",
+  "HypothesisName": "遇見Sans的兄弟",
+  "HypothesisStartingScene": 6,
+  "HypothesisTagline": "",
+  "HypothesisDescription": "嗨，各位乾淨的白客，不好意思，這個猜想被砍掉了。因為這個猜想跟另一個太像了，還比那個無聊。\n這有點像「哎呀當猜想看也錯得沒邊啦」！！哈人。\n而且在這裡面，sans的兄弟不是papyrus，而是prunsel（這是個外網梗），太離譜了！\n我不到這做得有多爛，懶得測試了。這是在開發初期製作的，比整個模擬和假星系的部分早多了。",
+  "HypothesisMenuSprite": {
+    "m_FileID": 0,
+    "m_PathID": 245
+  },
+  "HypothesisGoals": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 535
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 534
+      }
+    ]
+  },
+  "TimeWhenWritten": "該猜想編寫於三角符文\n第三章第四章發售之前",
+  "HypotheticalReleased": 0,
+  "LogRewardedOnCompletion": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "LogRewardedOnGoalsCompleted": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

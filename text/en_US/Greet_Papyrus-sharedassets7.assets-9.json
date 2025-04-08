@@ -1,0 +1,248 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "Greet_Papyrus",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 601
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 226
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 231
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 599
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 225
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 232
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 231
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 224
+            }
+          ]
+        },
+        "Choice": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Text": {
+          "Array": [
+            "SANS! HOW DARE YOU INTERUPT MY FORAGING!",
+            "my bad bro, but some people are here to see you.",
+            "WHAT?!",
+            "...",
+            "I'M NOT DUE TO RETURN THIS COMPUTER TO THE LIBRARY YET?",
+            "What?# Thats not why we're here!",
+            "PHEW!",
+            "WELL UHH..@ WHO ARE THEY SANS?",
+            "you've needed somebody to talk to right?",
+            "HMM.. PRECISELY..",
+            "FOR YOU SEE, I NEED HELP TAKING OVER THE WORLD!!",
+            "!?",
+            "IN.. DRAGON BLAZERS..",
+            "Hmph.",
+            "welp, i'll leave you three to scheme your evil plans.",
+            "y'know where to find me if you need anything."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 18
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 19
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 25
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 20
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 21
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 20
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 19
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 14
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

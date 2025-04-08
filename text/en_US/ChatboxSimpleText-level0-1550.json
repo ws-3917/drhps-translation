@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 37
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1243
+  },
+  "m_Name": "",
+  "TextboxObject": {
+    "m_FileID": 0,
+    "m_PathID": 946
+  },
+  "TextUI": {
+    "m_FileID": 0,
+    "m_PathID": 1458
+  },
+  "TextVoiceEmitter": {
+    "m_FileID": 0,
+    "m_PathID": 524
+  },
+  "CurrentTextIndex": 0,
+  "CurrentAdditionalTextIndex": 0,
+  "PauseCounter": 0,
+  "storedchatboxtext": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ChatIsCurrentlyRunning": 0,
+  "DefaultFont": {
+    "m_FileID": 2,
+    "m_PathID": 2559
+  },
+  "DefaultSpeakSound": {
+    "m_FileID": 2,
+    "m_PathID": 1019
+  },
+  "DefaultIcon": {
+    "m_FileID": 2,
+    "m_PathID": 1456
+  }
+}

@@ -1,0 +1,969 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "TS_Kris",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "..."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 319
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "不..."
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "求求你..."
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "再... @给我一点时间。",
+            "我还得缓一会。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 288
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 282
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "我还不想走。",
+            "因为自打我们\n那么做的一刹那...",
+            "我就不复存在了。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 282
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "我已然消失这么久了。",
+            "然而...;甚至没人注意到...",
+            "...就好像我\n从未出现过一般。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "你懂那种感觉吗？",
+            "你懂被抛弃之后...\n@又瞬间被代替的感觉吗？",
+            "...",
+            "不。;你当然不懂。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 282
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "我恨这一切。",
+            "我恨无力地看着\n这个世界在运转...",
+            "我恨眼睁睁看着那些\n我在乎的人们...",
+            "...",
+            "...@继续前行，\n却独留我一人。",
+            "稍有转瞬，\n就跟不上队了。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 280
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 288
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 282
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "很好笑，不是吗？",
+            "你出现了之后...",
+            "我的...@;你的...@ 人生就变得\\n美妙多了。",
+            "你有了新朋友。;还有了一个可以逃避\n现实的奇妙世界。",
+            "...你甚至还能跟你那\n蠢驴哥哥搭上话。",
+            "..."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 280
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 314
+            }
+          ]
+        },
+        "Text": {
+          "Array": [
+            "你有没有想过，\n如果让我做回自己，\n会发生什么？",
+            "...大家又会有什么反应？",
+            "如果他们不喜欢我呢？;如果他们想你了呢？",
+            "他们就开始问了，;“Kris怎么了？”;“为什么Kris的举止又如此奇怪？”",
+            " ",
+            "少跟我扯淡！;别跟我摆出一副\n你没注意到的样子。",
+            "比起我，他们更喜欢你。;...永远都是。",
+            "我不是那个\n拯救世界的英雄。~我甚至不是任何人的英雄。",
+            " "
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 280
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 282
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 296
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 290
+            }
+          ]
+        },
+        "Text": {
+          "Array": [
+            "旅途中我唯一所做的\n就是让一切变得更糟。",
+            "我差点因为开个喷泉\n把我老妈害死。",
+            "...据我所知，\n我本可以毁天灭地。",
+            "我一直以来都是个累赘...",
+            " ",
+            "为什么？;你想让我离开，然后我就能\n再次变成你的木偶了吗？！",
+            " "
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 280
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 282
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "...@没关系的...",
+            "你想让我消失。",
+            "但...这是第一次\n我能自己掌控身体。",
+            "让我在这待着吧。;反正外面也没人等我。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 282
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "走开..."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 319
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 285
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 282
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "..."
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

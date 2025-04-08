@@ -1,0 +1,462 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDRehabRoom_SpamtonNPC",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 315
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 315
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 305
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2586
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 137
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 10,
+              "m_PathID": 213
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 314
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 138
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "KRIS！！@\n我們真是【相別甚久】！！！",
+            "你從來都沒有【慷慨】過\n我的交易！！",
+            "別想【狡辯】，\n我可會【識人術】。",
+            "【哦天哪】我可有【故事】\n要講了！！！",
+            "多虧了您的【毛絨枕頭】朋友...",
+            "...我和我的新【夥計】\n有一個可以【打給家】\n的地方了！！！",
+            "可悲的是，\n我們仍然被囚禁著，\n被囚禁著，",
+            "王子聲稱我們，<br>「對群眾有很大威脅」。",
+            "啥-啥？！;我沒有啊！",
+            "【淨扯，淨扯】\n撒謊【爛嘴丫子】！！！",
+            "放我們出去吧！;我們改邪歸正了！\n改邪歸正了！",
+            "我相信你！;就是...",
+            "Spamton，你上次把\n我的整個城堡都賣給\nLancer那事我記著呢！",
+            "他是個\n【連哄帶騙入門教程】！！",
+            "他甚至跟我說\n「【求】你了，讓我幹啥都行！」",
+            "我怎麼不知道我的城堡\n正在低價大甩賣啊？",
+            "【我忘了】@.@.@.",
+            "還有Jevil，\n關於你的那場節目...",
+            "呃嘿嘿，那可是一場奇觀，\n奇觀！",
+            "那可是為所有人公開\n的雜技表演，你們應該\n尊敬我才對！",
+            "那哪是馬戲表演！\n只有你一味的攻擊\n觀眾而已！",
+            "哪有那麼嚴重嘛，\n就是點混沌而已！",
+            "你們這些小孩\n應該了解了解\n自由是多麼的有趣！",
+            "【接招】！！！;\n我有個【我是農民，\n這就是甜菜】的想法！！",
+            "RALSEI@夥計@寶貝@小親親，@\n我給【泥】準備了\n一個【特殊交易】！！",
+            "為什麼【末日逼近】，\n還要【判處】我們\n【無期徒刑】？？",
+            "【求求你，求求你！】，\n讓我再聞聞【多麼美好\n的一天】的空氣吧！！",
+            "呃嘿嘿，奇妙的樂趣即將爆發。",
+            "你不會以為我不讓\n你們出屋吧？",
+            "【看來勝負一份！！】",
+            "聽著，我知道你們倆與皇室\n都有過不愉快的經歷...",
+            "但是這裡不是皇室，\n你們想離開的話\n就請自便吧！",
+            "這兒又不是監獄。;我敢保證。",
+            "...",
+            "...",
+            "哈哈哈。亂了套了，\n亂了套了！",
+            "但至少，結局是圓滿的！",
+            "我簡直【404錯誤】我的眼睛！！！;我一定是在【甜蜜的夢】！！！",
+            "RALSEI你個\n【可愛的毛絨玩具】！！",
+            "我真的可以-@ 我真的可以-@\n我真的可以-@ 我真的可以-@\n我真的可以-@ 我真的可以-",
+            "讓他緩緩。",
+            "我真的可以-@ 我真的可以-@\n我真的可以-@ 我真的可以-\n【免費親吻】你了！",
+            "我們自己的【斯是陋室】\n已經完全【人人為我，\n我為人人】了？！？！",
+            "對！;至少我是這麼認為的。",
+            "我要【賴著不走了】！！\n呃哈哈哈哈哈哈哈哈！！",
+            "我們太懼怕外面的世界了。",
+            "但在我們的小家裡，\n我們是最完美的，\n最完美的！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 128
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 127
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 131
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 127
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 132
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 122
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 120
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 118
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 133
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 117
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 124
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 127
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 129
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 135
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 131
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 120
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 122
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 117
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 125
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 129
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 130
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 135
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 128
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 117
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 124
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 121
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 135
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 117
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 129
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 130
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 133
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 122
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 118
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 127
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 133
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 117
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 125
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

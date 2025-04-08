@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 14
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 324
+  },
+  "m_Name": "",
+  "targetPos": {
+    "x": 4.35,
+    "y": -5.2,
+    "z": 0.0
+  }
+}

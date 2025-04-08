@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 38
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1269
+  },
+  "m_Name": "",
+  "TrashCanSounds": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 1050
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 255
+      }
+    ]
+  },
+  "TrashCanSource": {
+    "m_FileID": 0,
+    "m_PathID": 157
+  },
+  "TrashCanRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 209
+  },
+  "TrashCanOpenSprite": {
+    "m_FileID": 4,
+    "m_PathID": 285
+  },
+  "TrashCanClosedSprite": {
+    "m_FileID": 4,
+    "m_PathID": 387
+  }
+}

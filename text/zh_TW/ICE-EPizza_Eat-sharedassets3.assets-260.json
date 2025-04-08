@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1517
+  },
+  "m_Name": "ICE-EPizza_Eat",
+  "PlaySound": 1,
+  "PossibleSounds": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 91
+      }
+    ]
+  },
+  "RunComponentFunction": 0,
+  "TargetComponentGameObjectName": "",
+  "TargetComponentClassname": "",
+  "FunctionName": "",
+  "SubActions": {
+    "Array": []
+  },
+  "RunActionOnChatEnd": 0
+}

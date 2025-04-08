@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "RouxlsRoom_WarningSign",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 8,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 11,
+              "m_PathID": 137
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 306
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "“开山重业，不可大意”？",
+            "Rouxls一直都在挖墙？！",
+            "...行吧，\n我佩服他的决心。"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

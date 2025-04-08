@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTD_Town_TheHacker",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 314
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 301
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "喷泉要被封印了？;哈！@这就是谣言。",
+            "全是骗局！@阴谋！@诡计！\n@“耍阴招”的同义语！",
+            "呃... @黑客先生？",
+            "不是谣言的...@\n待会儿，Kris和Susie\n真的要封印喷泉。",
+            "...",
+            "草！;我的游戏晚会\n又要推迟了！"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

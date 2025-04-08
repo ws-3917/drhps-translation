@@ -1,0 +1,1706 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "TRB_Projects_SusieKris",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 615
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 15,
+              "m_PathID": 149
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 614
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "So this is our project. ;It's a, uh...# book.",
+            "It's about...@ like...@ some heroes and their...@ adventures.",
+            "O-oh, that's exciting! ;Did anyone help you two write it?",
+            "Yeah, Ralsei did!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 305
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 299
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 304
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 291
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 298
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 289
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 15,
+              "m_PathID": 151
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 615
+            },
+            {
+              "m_FileID": 15,
+              "m_PathID": 150
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "R-Ralsei?",
+            "Uh! ;He's from...@ a different school!@ Y-Yeah!",
+            "O-Okay...?# Well, go ahead and start when you're...@ ready."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 299
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 299
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 305
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 298
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 238
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Alright, so. ;One day, these two kids, uh...",
+            "Susira and Krisos. ;They fall down a hole. ;Real original, right?"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 297
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 300
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 303
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 304
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 615
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Uh, yeah... ;Like that, except Susira landed on her feet.",
+            "Anyways, turns out the hole lead to some weird underground castle.",
+            "And before they could  even figure out where the hell they were..."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 238
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "This fluffy geek greets them at the castles entrance.",
+            "He's a prince who's, like, weirdly nice.@ ~Too nice.",
+            "He tells the two that they're some kind of@ \"chosen heroes\".",
+            "And that they gotta save the world from, y'know, eternal darkness.",
+            "No pressure, right?"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 239
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 238
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Suddenly, they get attacked by another prince, \"Lancer\"!!",
+            "He's all evil and stuff, but deep down he's cool.@ Trust me.",
+            "Susira and Krisos manage to beat him, and are given their first task.",
+            "They gotta seal some \"fountain\" at this evil kings castle.",
+            "Or else they won't be able to return home... ~So the trio set off!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 612
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 241
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 324
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 592
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 241
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "The journey to the castle was, rough...@ to say the least.",
+            "Like, there were tons of bad guys trying to stop the heroes.",
+            "Didn't help that Susira refused to believe that she was a chosen hero.",
+            "She ran off ahead, thinking she could get home on her own.",
+            "How stupid, what was she thinking??",
+            "I pray the rest of the party are smart enough to think before acting!",
+            "...@ Yeah."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 298
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 297
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 298
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 303
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 301
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 302
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 255
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 255
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 294
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 254
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 295
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 238
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 236
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 238
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Lancer kept showing up, messing with the party.",
+            "Like, blocking the road, throwing out lame enemies...",
+            "He had no clue how to be a villain.@ Was kinda funny, actually.",
+            "But the more they ran into each other, the more they talked.",
+            "And it turns out, Lancer's just a goof who wants to be friends.",
+            "Susira and Lancer even share a, uh...@ \"friendship lunch\".",
+            "And before she knew it, she didn't wanna fight him anymore."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 300
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 611
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 236
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 238
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Meanwhile, Krisos and the prince?@ They're trying to catch up.",
+            "When they finally do, Susira and Lancer are already pals.",
+            "But Lancer's still acting all evil-ish. ~It's real awkward.",
+            "Eventually, he caves. ;He wants to help the heroes.",
+            "So now, the trio turns into a, uh...# quartet?"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 300
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 305
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 231
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 612
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 240
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "The bad guys ain't happy about this news, especially the king.",
+            "See, Lancer? ;He's the evil kings kid.",
+            "And, well...@ that makes things complicated."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 302
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 236
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 240
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 241
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 610
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "After a long journey, they finally reach the castle.",
+            "But something feels...@ off.",
+            "The place is quiet. ;Way too quiet.",
+            "And right when they let their guard down...",
+            "They get ambushed by a bunch of enemies and locked in prison!!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 300
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 301
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 239
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "But the party doesn't stay locked up for long...",
+            "They bust out, ready to take down the king!!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 301
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 333
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Except, uh...@ they got a little sidetracked.",
+            "Somewhere in the castle, they found this hidden basement."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 240
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Inside was this...@ clown dude.",
+            "He wanted to play some game, just ended up being another fight.",
+            "It was a tense battle, but the party did manage to make him chill out."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 240
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 238
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 610
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 241
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Anyways, uh, back on track.",
+            "Susira, Krisos, and the prince advance.@ Lancer's nowhere to be found.",
+            "They make it to the top of the castle, it was time for the big fight.",
+            "They charge into the throne room, ready to battle!",
+            "The prince, the nice one, tries to talk it out with the evil king.",
+            "Doesn't work. ;So it's a full-on boss battle!!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 296
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 301
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 240
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 241
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "The king was like, real powerful.@ Had tons of weird attacks too.",
+            "I'll, uh, spare you all the details... ",
+            "Even with the party's combined strength, they were...@ losing."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 305
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 612
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "All hope seemed lost...@ ;Until."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 239
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Whilst the party was fighting, Lancer had built an army!!",
+            "All those bad guys from earlier came back to overthrow the king!!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 300
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 236
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 240
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 238
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "With the evil king defeated, there was only one thing left to do...",
+            "Susira and Krisos said their goodbyes, for now...",
+            "... and made their way to the fountain, the final hurdle.",
+            "Krisos did# something...@ ;Then magically the fountain was sealed!",
+            "They woke up not far from where their journey had began, their home.",
+            "And that was the end of their first adventure."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 300
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 291
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 241
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "(Who the hell is throwing flowers??)"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 302
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 15,
+              "m_PathID": 152
+            },
+            {
+              "m_FileID": 15,
+              "m_PathID": 153
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 15,
+              "m_PathID": 154
+            },
+            {
+              "m_FileID": 15,
+              "m_PathID": 152
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 316
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 333
+            },
+            {
+              "m_FileID": 15,
+              "m_PathID": 153
+            },
+            {
+              "m_FileID": 15,
+              "m_PathID": 152
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 232
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "W-Wow, that was...@ amazing!@ I-I was really invested!",
+            "I-I'd definitely read more if there was a sequel.",
+            "There's more... ;That was just the first chapter of the story.",
+            "O-Oh!@ W-Well, um... ;I don't think we have time for the rest...",
+            "H-Have you two thought about possibly publishing this?",
+            "I-I can see this being a bestselling novel!",
+            "Pfft, yeah, like anyone'd buy our book.",
+            "I-I would! ;A-Anyway, great job you two.",
+            "A++!@ ;For the creativity and the e-execution!",
+            "...Wait, what?! ;We actually got a good grade??",
+            "Guess being a dork pays off, huh Kris?"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 292
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 288
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 287
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 288
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 306
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 301
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 305
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 297
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 298
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 297
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 298
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 287
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 298
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

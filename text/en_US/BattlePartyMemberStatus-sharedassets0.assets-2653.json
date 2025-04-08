@@ -1,0 +1,228 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2244
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1628
+  },
+  "m_Name": "",
+  "CurrentlySelected": 0,
+  "StatusTabOpened": 0,
+  "HasActAbility": 0,
+  "Buttons": {
+    "Array": [
+      {
+        "ButtonName": "Fight",
+        "Renderer": {
+          "m_FileID": 0,
+          "m_PathID": 2652
+        },
+        "Deselected": {
+          "m_FileID": 0,
+          "m_PathID": 1952
+        },
+        "Selected": {
+          "m_FileID": 0,
+          "m_PathID": 1191
+        },
+        "HasAct_Deselected": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "HasAct_Selected": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "ButtonName": "ACT/Magic",
+        "Renderer": {
+          "m_FileID": 0,
+          "m_PathID": 2633
+        },
+        "Deselected": {
+          "m_FileID": 0,
+          "m_PathID": 1930
+        },
+        "Selected": {
+          "m_FileID": 0,
+          "m_PathID": 1955
+        },
+        "HasAct_Deselected": {
+          "m_FileID": 0,
+          "m_PathID": 1269
+        },
+        "HasAct_Selected": {
+          "m_FileID": 0,
+          "m_PathID": 1126
+        }
+      },
+      {
+        "ButtonName": "Item",
+        "Renderer": {
+          "m_FileID": 0,
+          "m_PathID": 2668
+        },
+        "Deselected": {
+          "m_FileID": 0,
+          "m_PathID": 1226
+        },
+        "Selected": {
+          "m_FileID": 0,
+          "m_PathID": 1145
+        },
+        "HasAct_Deselected": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "HasAct_Selected": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "ButtonName": "Spare",
+        "Renderer": {
+          "m_FileID": 0,
+          "m_PathID": 2594
+        },
+        "Deselected": {
+          "m_FileID": 0,
+          "m_PathID": 1222
+        },
+        "Selected": {
+          "m_FileID": 0,
+          "m_PathID": 1210
+        },
+        "HasAct_Deselected": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "HasAct_Selected": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "ButtonName": "Defend",
+        "Renderer": {
+          "m_FileID": 0,
+          "m_PathID": 2637
+        },
+        "Deselected": {
+          "m_FileID": 0,
+          "m_PathID": 1215
+        },
+        "Selected": {
+          "m_FileID": 0,
+          "m_PathID": 1270
+        },
+        "HasAct_Deselected": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "HasAct_Selected": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      }
+    ]
+  },
+  "TargetPartyMember": {
+    "PartyMemberInBattle": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "ActiveMemberInBattle": {
+      "PartyMemberDescription": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "PartyMemberTransform": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "PartyMemberFollowSettings": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "CurrentHealth": 0
+    },
+    "PartyMemberInBattle_Gameobjects": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMemberInBattle_Animator": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMemberInBattle_MainSpriteRenderer": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMemberInBattle_AfterImageParticleRenderer": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "StoredPartyMembePositions": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "StoredOriginalOverworldPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "PartyMemberStatus": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMember_Health": 0.0,
+    "PartyMember_MaxHealth": 0.0,
+    "IsDefending": 0,
+    "SkippingTurn": 0,
+    "PartyMemberAction": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "SelectedIndex": 0,
+  "MemberIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2605
+  },
+  "MemberNameIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2624
+  },
+  "BoxOutline": {
+    "m_FileID": 0,
+    "m_PathID": 2671
+  },
+  "SpecialLines1": {
+    "m_FileID": 0,
+    "m_PathID": 2678
+  },
+  "SpecialLines2": {
+    "m_FileID": 0,
+    "m_PathID": 2660
+  },
+  "HealthBar": {
+    "m_FileID": 0,
+    "m_PathID": 2654
+  },
+  "Text_Health": {
+    "m_FileID": 0,
+    "m_PathID": 2632
+  },
+  "Text_MaxHealth": {
+    "m_FileID": 0,
+    "m_PathID": 2635
+  },
+  "StatusTransform": {
+    "m_FileID": 0,
+    "m_PathID": 2480
+  }
+}

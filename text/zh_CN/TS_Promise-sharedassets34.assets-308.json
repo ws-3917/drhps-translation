@@ -1,0 +1,362 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "TS_Promise",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 300
+            }
+          ]
+        },
+        "Text": {
+          "Array": [
+            "只要... @答应我一件事。",
+            "如果我永远无法做回自己...",
+            "请你照顾好爸爸，@@妈妈，\n@@还有大家。",
+            "这段日子里，大家的心情\n都不太好...",
+            "然而，就算如此...;就算整个世界\n已然陷入水深火热之中...",
+            "你也一直心怀希望。",
+            "我相信，\n你既然能向我传递希望...\n@一定也能向所有人传递希望。",
+            "...",
+            "为了他们的安危...\n@我会尽量听你的。",
+            "最后... @还有一件事...",
+            "别忘了，时不时来看看我。",
+            "这样就...@够了。",
+            " "
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 283
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 284
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 283
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 284
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 283
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 284
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 283
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 319
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 283
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "谢谢你。",
+            "谢谢你...@所做的一切。",
+            "我都不知道没了你\n我将身处何方。",
+            "...",
+            "但现在，我已经准备好了。;准备好离开了。",
+            "还有很多世界\n等着我们去拯救呢，\n不是吗？"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 319
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

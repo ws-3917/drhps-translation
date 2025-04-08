@@ -1,0 +1,161 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "MP_PapyrusRoom_KnightSpeech",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 602
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 602
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 602
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 602
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "FOR MILLENNIA, I'VE LAID IN REST..",
+            "WAITING FOR THIS VERY DAY..",
+            "THE DAY I SET OFF ON MY QUEST FOR RICHES AND POWER!!",
+            "MY FATE IS ALREADY DECIDED, AND IT STATES I WILL BE THE GREATEST!!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 444
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 602
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 602
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 602
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 602
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 602
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 602
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 602
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "FOR I AM THE ONE AND ONLY..",
+            "GREAT KNIGHT OF VARROCK!!",
+            "PREPARE TO SAY KNIGHTY-NIGHT BEASTS, AS YOU'LL BE DEAD BY DAYLIGHT!",
+            "NYEH HEH HEH!!",
+            "HEH...",
+            "WAIT A MINUTE.. ;KNIGHTY-NIGHT...?",
+            "... YOU MADE THE LAST LINE OF MY INTRODUCTION A PUN?!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 452
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 450
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 448
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 450
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 449
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 444
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

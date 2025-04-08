@@ -1,0 +1,134 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDRehabRoom_Carousel",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 238
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 315
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 316
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "这是一个回忆用的纪念品！",
+            "会转吗？",
+            "唉呀，它已经年久失修了，\n年久失修了。",
+            "啊？;怎么了？",
+            "得投一枚...@黑暗币...@\n才能转！",
+            "就这啊？;我投一枚就是。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 120
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 118
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 123
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 119
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 114
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "哔哔，来玩旋转木马吧！",
+            "（我觉着我应该\n坐不上去...）"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 117
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 119
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

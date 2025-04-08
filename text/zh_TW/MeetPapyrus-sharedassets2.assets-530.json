@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 179
+  },
+  "m_Name": "MeetPapyrus",
+  "HypothesisName": "萬千世界與食人巨魔",
+  "HypothesisStartingScene": 3,
+  "HypothesisTagline": "結識一位新朋友，開啟一場宏大的冒險之旅！",
+  "HypothesisDescription": "如果Papyrus並非邪惡反派，那麼在另一個遊戲內與他互動會是什麼樣的呢？",
+  "HypothesisMenuSprite": {
+    "m_FileID": 0,
+    "m_PathID": 227
+  },
+  "HypothesisGoals": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 531
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 532
+      }
+    ]
+  },
+  "TimeWhenWritten": "該猜想編寫於三角符文\n第三章第四章發售之前",
+  "HypotheticalReleased": 1,
+  "LogRewardedOnCompletion": {
+    "m_FileID": 0,
+    "m_PathID": 512
+  },
+  "LogRewardedOnGoalsCompleted": {
+    "m_FileID": 0,
+    "m_PathID": 519
+  }
+}

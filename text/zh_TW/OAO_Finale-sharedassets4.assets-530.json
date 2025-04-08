@@ -1,0 +1,505 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "OAO_Finale",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 609
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 609
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 601
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "探險小隊進入了一間\n皇家殿堂。\n華麗的裝飾鋪滿四壁。",
+            "一條紅色地毯從腳下\n延伸至遠方。~神秘古董，就擺在盡頭。",
+            "然而，susira突然踩到了@£",
+            "停！！;別往前走了！！",
+            "我朝前方的地毯\n扔了一枚硬幣。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 556
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 553
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 578
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 566
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 566
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 226
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 599
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 609
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 609
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 588
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 599
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 600
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 585
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 225
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 226
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 601
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 225
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 229
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "1。",
+            "幸運女神是這般\n冷酷無情。~我們死定了！！",
+            "susira踩到了一個\n壓力板。「咔嚓」，\n機關觸發了。",
+            "一片寂靜，\n似乎無事發生。~突然...",
+            "一塊巨石掉了下來，\n只砸中了蔚藍獵鷹。",
+            "憑-憑啥只砸我啊？！",
+            "呼...\n好險啊...！",
+            "向烈士致敬，\n蔚藍獵鷹...",
+            "這分明是作弊！\n我要復活！",
+            "小隊終於抵達\n宮殿的盡頭。",
+            "在他們面前，\n正是那件神秘的\n古老神器...",
+            "SANS，不會有啥\n貓膩吧？",
+            "沒有。",
+            "這就是貨真價實的\n古董？",
+            "嗯吶。",
+            "確定不是什麼會\n置我們於死地的\n奪命符咒？",
+            "不是。",
+            "東西沒問題，\n那是不是...\n空氣有毒？",
+            "嘿嘿，我要是\n早點想到這招就好了。~不過這就是真的古董。",
+            "恭喜kris，varrock，\nsusira。~你們完成了冒險。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 565
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 558
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 551
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 553
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 564
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 556
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 569
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 578
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 531
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

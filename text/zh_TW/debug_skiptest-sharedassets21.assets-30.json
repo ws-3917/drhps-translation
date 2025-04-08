@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "debug_skiptest",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 601
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 308
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（3）每組選取20個馬鈴薯，觀察記錄每個馬鈴薯上的第一個芽眼開始萌發所需時間，統\n計並計算各組的平均值，得出上述實驗結果，這樣做的目的是：_________",
+            "(4)根據實驗結果可知，__條件下馬鈴薯的儲藏期更長。",
+            "該死的spr打字機 我恨吶"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

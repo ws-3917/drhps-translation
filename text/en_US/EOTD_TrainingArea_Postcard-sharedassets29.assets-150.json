@@ -1,0 +1,170 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTD_TrainingArea_Postcard",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 170
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 171
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 236
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 169
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 614
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 138
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 306
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 168
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 175
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Oh Susie Deary I Almost Forgot Something",
+            "Lancer Wanted To Give You This Before Falling Into His Slumber",
+            "What is it?",
+            "A goodbye postcard. ;I helped him write it.",
+            "Aw, sweet!",
+            "This has been nice, however as you are probably aware...",
+            "... We, uh, have business to attend to.",
+            "Yes, well, I suppose we cannot postpone the inevitable.",
+            "I'm Saving This Moment To My Clips Folder For Keepsakes",
+            "(You got the <color=yellow><gradient=\"DarkworldYellow\">Postcard</color></gradient>.)"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 154
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 155
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 144
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 157
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 147
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 152
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

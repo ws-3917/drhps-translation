@@ -1,0 +1,175 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 182
+  },
+  "m_Name": "testchoice6",
+  "DefaultSelectedChoice": -1,
+  "Choices": {
+    "Array": [
+      "啥",
+      "啥",
+      "為啥",
+      "為啥",
+      "咋",
+      "咋",
+      "幾點",
+      "幾點",
+      "是",
+      "是",
+      "否",
+      "否",
+      "不知道",
+      "不知道",
+      "紫砂吧",
+      "紫砂吧"
+    ]
+  },
+  "CanBackOut": 0,
+  "ShowOnTextScrollFinish": 0,
+  "ChoiceCharacterReference": {
+    "m_FileID": 8,
+    "m_PathID": 609
+  },
+  "ChoiceTextResults": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 26
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 26
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    ]
+  },
+  "ChoicePositions": {
+    "Array": [
+      {
+        "x": -384.4,
+        "y": 67.9
+      },
+      {
+        "x": -402.8,
+        "y": 1.07
+      },
+      {
+        "x": -143.8,
+        "y": 70.8
+      },
+      {
+        "x": -158.7,
+        "y": 1.14
+      },
+      {
+        "x": 160.1,
+        "y": 71.1
+      },
+      {
+        "x": 140.5,
+        "y": 1.89
+      },
+      {
+        "x": 412.8,
+        "y": 70.7
+      },
+      {
+        "x": 387.4,
+        "y": 1.53
+      },
+      {
+        "x": -394.3,
+        "y": -109.7
+      },
+      {
+        "x": -411.4,
+        "y": 1.91
+      },
+      {
+        "x": -145.5,
+        "y": -100.4
+      },
+      {
+        "x": -155.0,
+        "y": 0.99
+      },
+      {
+        "x": 158.4,
+        "y": -92.5
+      },
+      {
+        "x": 136.8,
+        "y": 1.19
+      },
+      {
+        "x": 412.3,
+        "y": -87.2
+      },
+      {
+        "x": 389.8,
+        "y": 0.4
+      }
+    ]
+  }
+}

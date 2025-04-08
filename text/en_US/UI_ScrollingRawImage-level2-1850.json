@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 414
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1065
+  },
+  "m_Name": "",
+  "_img": {
+    "m_FileID": 0,
+    "m_PathID": 1851
+  },
+  "_x": 0.0,
+  "_y": 0.0,
+  "AffectedBySimplifyVFX": 0,
+  "SlowlyRandom": 1,
+  "_xMin": -0.4,
+  "_yMin": -0.4,
+  "_xMax": 0.4,
+  "_yMax": 0.4,
+  "RandomSpeed": 3.0
+}

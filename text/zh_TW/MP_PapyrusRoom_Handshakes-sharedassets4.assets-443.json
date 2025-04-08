@@ -1,0 +1,125 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "MP_PapyrusRoom_Handshakes",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 232
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 608
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "你好哇，\n我叫PAPYRUS。",
+            "我-我-我叫S-S-Susie。",
+            "很高興見到你啊！\nS-S-SUSIE！！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 444
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "那你肯定是KRIS，\n沒錯吧？",
+            "SANS跟我說了很多\n你的趣事！",
+            "其中有不少...\n毫無邏輯...",
+            "（人類真的\n能飛嗎...？）"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 444
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

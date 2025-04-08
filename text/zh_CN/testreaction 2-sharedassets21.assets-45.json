@@ -1,0 +1,192 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1002
+  },
+  "m_Name": "testreaction 2",
+  "Reaction": {
+    "Array": [
+      {
+        "Character": {
+          "m_FileID": 9,
+          "m_PathID": 296
+        },
+        "Text": "1",
+        "Offset": {
+          "x": -360.0,
+          "y": 50.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 9,
+          "m_PathID": 302
+        },
+        "Text": "2",
+        "Offset": {
+          "x": -260.0,
+          "y": 50.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 8,
+          "m_PathID": 610
+        },
+        "Text": "3",
+        "Offset": {
+          "x": -160.0,
+          "y": 50.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 8,
+          "m_PathID": 591
+        },
+        "Text": "4",
+        "Offset": {
+          "x": -60.0,
+          "y": 50.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 8,
+          "m_PathID": 601
+        },
+        "Text": "5",
+        "Offset": {
+          "x": 40.0,
+          "y": 50.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 8,
+          "m_PathID": 609
+        },
+        "Text": "6",
+        "Offset": {
+          "x": 140.0,
+          "y": 50.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 7,
+          "m_PathID": 244
+        },
+        "Text": "6",
+        "Offset": {
+          "x": 240.0,
+          "y": 50.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 10,
+          "m_PathID": 232
+        },
+        "Text": "7",
+        "Offset": {
+          "x": 340.0,
+          "y": 50.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 10,
+          "m_PathID": 232
+        },
+        "Text": "8",
+        "Offset": {
+          "x": -360.0,
+          "y": -80.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 0,
+          "m_PathID": 54
+        },
+        "Text": "9",
+        "Offset": {
+          "x": -260.0,
+          "y": -80.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 9,
+          "m_PathID": 300
+        },
+        "Text": "10",
+        "Offset": {
+          "x": -160.0,
+          "y": -80.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 8,
+          "m_PathID": 607
+        },
+        "Text": "11",
+        "Offset": {
+          "x": -60.0,
+          "y": -80.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 7,
+          "m_PathID": 224
+        },
+        "Text": "12",
+        "Offset": {
+          "x": 40.0,
+          "y": -80.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 7,
+          "m_PathID": 243
+        },
+        "Text": "13",
+        "Offset": {
+          "x": 140.0,
+          "y": -80.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 8,
+          "m_PathID": 589
+        },
+        "Text": "14",
+        "Offset": {
+          "x": 240.0,
+          "y": -80.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 5,
+          "m_PathID": 2586
+        },
+        "Text": "15",
+        "Offset": {
+          "x": 340.0,
+          "y": -80.0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 222
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 517
+  },
+  "m_Name": "",
+  "BackgroundTextLines": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1486
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1531
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1550
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1552
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1633
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1627
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1646
+      }
+    ]
+  },
+  "MainText": {
+    "m_FileID": 0,
+    "m_PathID": 1543
+  },
+  "BackgroundTextMaxCount": {
+    "Array": []
+  },
+  "creditAreas": {
+    "Array": [
+      {
+        "CreditNames": "...返回",
+        "CreditCharacterAnimationName": "",
+        "CreditSound": {
+          "m_FileID": 4,
+          "m_PathID": 1019
+        },
+        "Title": 0,
+        "CreditDescription": ""
+      },
+      {
+        "CreditNames": "uprank",
+        "CreditCharacterAnimationName": "CreditChar_Uprank",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 166
+        },
+        "Title": 0,
+        "CreditDescription": "导演、作曲、程序、编剧、2D/3D艺术\n\n“我好怀念我的低多边\n形ps1复古艺术独立恐怖\n游戏...”"
+      },
+      {
+        "CreditNames": "puzzlerat",
+        "CreditCharacterAnimationName": "CreditChar_Ratcastles",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 150
+        },
+        "Title": 0,
+        "CreditDescription": "曲师、编剧助理、游戏测试员\n\n“我记得你是个\n<color=green>游戏开发者</color>”"
+      },
+      {
+        "CreditNames": "MagicFroge",
+        "CreditCharacterAnimationName": "CreditsChar_MagicFroge",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 150
+        },
+        "Title": 0,
+        "CreditDescription": "<size=32>作曲</size>\n<size=24>（角色贴图由Sooski创作）</size>\n\n“为这个项目作曲能让\n更多人听到我的音乐。\n这是是我的荣幸。\n继续做你喜欢的事情吧，\n感谢你的聆听！”"
+      },
+      {
+        "CreditNames": "Sooski",
+        "CreditCharacterAnimationName": "CreditsChar_Sooski",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 150
+        },
+        "Title": 0,
+        "CreditDescription": "<size=32>作曲</size>\n<size=24>（角色贴图由Sooski创作）</size>\n\n“这种形态— 这种可怕的形态... \n我总有一天会挣脱的！！\n\n同时，我诚挚的感谢你，\n感谢你给了我们这个小世界\n一个机会——这里的景色和声音，\n这里的高潮和低谷。\n有时间一定要再回来哦...\n\n我们创造、创造、再创造，\n永不停歇！！”"
+      },
+      {
+        "CreditNames": "trashei",
+        "CreditCharacterAnimationName": "CreditChar_Trashei",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 146
+        },
+        "Title": 0,
+        "CreditDescription": "游戏测试员\n\n“猹在鳝丝的房间里显灵了”"
+      },
+      {
+        "CreditNames": "Fillow",
+        "CreditCharacterAnimationName": "CreditChar_Fillow",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 161
+        },
+        "Title": 0,
+        "CreditDescription": "游戏测试员\n\n“第一法则是有氧运动？原来如此...\n...........”"
+      },
+      {
+        "CreditNames": "Abbie Gonzalez",
+        "CreditCharacterAnimationName": "CreditChar_AbbieGonzalez",
+        "CreditSound": {
+          "m_FileID": 4,
+          "m_PathID": 1019
+        },
+        "Title": 0,
+        "CreditDescription": "OpenDyslexic字体制作人\n\n社交账号：\nabbiegonzalez.com"
+      }
+    ]
+  },
+  "CreditTypes": {
+    "Array": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "ConsoleMenu": {
+    "m_FileID": 0,
+    "m_PathID": 441
+  },
+  "CreditName": {
+    "m_FileID": 0,
+    "m_PathID": 1609
+  },
+  "CreditDescription": {
+    "m_FileID": 0,
+    "m_PathID": 1577
+  },
+  "CreditIcon": {
+    "m_FileID": 0,
+    "m_PathID": 610
+  }
+}

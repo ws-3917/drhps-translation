@@ -1,0 +1,401 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 15
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1651
+  },
+  "m_Name": "",
+  "CutsceneIndex": 0,
+  "PlayerCamera": {
+    "m_FileID": 0,
+    "m_PathID": 184
+  },
+  "StoryCutscene": {
+    "m_FileID": 0,
+    "m_PathID": 177
+  },
+  "SmokeCloudParticle": {
+    "m_FileID": 0,
+    "m_PathID": 35
+  },
+  "CharacterRenderers": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 128
+      }
+    ]
+  },
+  "MiddleCameraTrigger": {
+    "m_FileID": 0,
+    "m_PathID": 11
+  },
+  "Kris": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Ralsei": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "RalseiShadow": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "KrisWalkPositions": {
+    "Array": [
+      {
+        "x": -8.0,
+        "y": -2.5,
+        "z": 0.0
+      },
+      {
+        "x": 3.0,
+        "y": -2.5,
+        "z": 0.0
+      },
+      {
+        "x": 3.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 3.0,
+        "y": -2.75,
+        "z": 0.0
+      },
+      {
+        "x": 2.0,
+        "y": -2.75,
+        "z": 0.0
+      }
+    ]
+  },
+  "SusieWalkPositions": {
+    "Array": [
+      {
+        "x": -8.0,
+        "y": -2.5,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": -2.5,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      {
+        "x": -1.5,
+        "y": -2.5,
+        "z": 0.0
+      },
+      {
+        "x": 0.25,
+        "y": -2.5,
+        "z": 0.0
+      },
+      {
+        "x": 1.05,
+        "y": -2.5,
+        "z": 0.0
+      }
+    ]
+  },
+  "RalseiWalkPositions": {
+    "Array": [
+      {
+        "x": 1.5,
+        "y": -2.5,
+        "z": 0.0
+      },
+      {
+        "x": 1.5,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 1.5,
+        "y": -2.5,
+        "z": 0.0
+      }
+    ]
+  },
+  "KrisWalkDirections": {
+    "Array": [
+      {
+        "x": 0.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      {
+        "x": -1.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ]
+  },
+  "SusieWalkDirections": {
+    "Array": [
+      {
+        "x": 0.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      {
+        "x": -1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ]
+  },
+  "RalseiWalkDirections": {
+    "Array": [
+      {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": -1.0,
+        "z": 0.0
+      }
+    ]
+  },
+  "KrisWalkIndex": 0,
+  "SusieWalkIndex": 0,
+  "RalseiWalkIndex": 0,
+  "TargetKrisWalkIndex": 2,
+  "TargetSusieWalkIndex": 2,
+  "TargetRalseiWalkIndex": 2,
+  "CutsceneChatter": {
+    "m_FileID": 0,
+    "m_PathID": 172
+  },
+  "CutsceneChats": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 180
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 159
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 158
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 181
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 197
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 200
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 196
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 198
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 185
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 199
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 149
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 147
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 154
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 182
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 195
+      }
+    ]
+  },
+  "CutsceneSource": {
+    "m_FileID": 0,
+    "m_PathID": 116
+  },
+  "CutsceneSounds": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 78
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 1050
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 1020
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 73
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 76
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 1045
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 72
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 1042
+      }
+    ]
+  },
+  "MusicFinalFountain": {
+    "m_FileID": 6,
+    "m_PathID": 148
+  },
+  "MusicGroupHug": {
+    "m_FileID": 2,
+    "m_PathID": 80
+  },
+  "SmokeCloudSounds": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 79
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 999
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 1005
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 75
+      },
+      {
+        "m_FileID": 7,
+        "m_PathID": 91
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 1045
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 73
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 77
+      },
+      {
+        "m_FileID": 5,
+        "m_PathID": 260
+      }
+    ]
+  }
+}

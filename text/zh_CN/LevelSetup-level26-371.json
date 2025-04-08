@@ -1,0 +1,139 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 14
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 638
+  },
+  "m_Name": "",
+  "ContainsKris": 1,
+  "ResetKrisHealth": 0,
+  "KrisStartingState": 0,
+  "IsDarkworld": 1,
+  "PlayerStartPosition": {
+    "m_FileID": 0,
+    "m_PathID": 112
+  },
+  "PlayerStartRotation": {
+    "x": 0.0,
+    "y": -1.0
+  },
+  "ClearAllMembers": 0,
+  "ReplaceMembers": 1,
+  "NewPartyMembers": {
+    "Array": [
+      {
+        "m_FileID": 5,
+        "m_PathID": 2572
+      },
+      {
+        "m_FileID": 5,
+        "m_PathID": 2570
+      }
+    ]
+  },
+  "ReplaceCalls": 0,
+  "ClearCalls": 1,
+  "NewCalls": {
+    "Array": []
+  },
+  "CallNames": {
+    "Array": []
+  },
+  "FadeIn": 1,
+  "DisableGonerMenu": 0,
+  "PlaySongOnLevelLoad": 1,
+  "Song": {
+    "m_FileID": 8,
+    "m_PathID": 157
+  },
+  "RoomHasMultipleEntrances": 1,
+  "RoomContainsPartyMembers": 1,
+  "RoomPositions": {
+    "DefaultStartPosition": {
+      "x": 0.0,
+      "y": 16.0
+    },
+    "DefaultKrisRotation": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "DefaultCameraStartPosition": {
+      "x": 0.0,
+      "y": 16.0
+    },
+    "SpawnPositions": {
+      "Array": [
+        {
+          "PreviousSceneIndex": 25,
+          "StartPosition": {
+            "x": 0.0,
+            "y": 28.75
+          },
+          "KrisStartRotation": {
+            "x": 0.0,
+            "y": -1.0
+          },
+          "CameraStartPosition": {
+            "x": 0.0,
+            "y": 29.0
+          }
+        },
+        {
+          "PreviousSceneIndex": 27,
+          "StartPosition": {
+            "x": 0.0,
+            "y": -1.60641
+          },
+          "KrisStartRotation": {
+            "x": 0.0,
+            "y": 1.0
+          },
+          "CameraStartPosition": {
+            "x": 0.0,
+            "y": 2.96219
+          }
+        },
+        {
+          "PreviousSceneIndex": 28,
+          "StartPosition": {
+            "x": -17.0,
+            "y": 4.5
+          },
+          "KrisStartRotation": {
+            "x": 1.0,
+            "y": 0.0
+          },
+          "CameraStartPosition": {
+            "x": -10.335,
+            "y": 4.5
+          }
+        },
+        {
+          "PreviousSceneIndex": 29,
+          "StartPosition": {
+            "x": 17.0,
+            "y": 4.5
+          },
+          "KrisStartRotation": {
+            "x": -1.0,
+            "y": 0.0
+          },
+          "CameraStartPosition": {
+            "x": 10.335,
+            "y": 4.5
+          }
+        }
+      ]
+    }
+  },
+  "SetNewActivity": 0,
+  "LargeImage": "",
+  "LargeImageText": "",
+  "State": "",
+  "Details": "",
+  "VesselText": ""
+}

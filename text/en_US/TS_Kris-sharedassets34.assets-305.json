@@ -1,0 +1,969 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "TS_Kris",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "..."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 319
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "No..."
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Please..."
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Just...@ a little more time.",
+            "I need to take a minute."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 288
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 282
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "I don't want to leave.",
+            "Because the second we do...",
+            "I stop existing."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 282
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "I've been gone for so long now.",
+            "And yet... ;Nobody even noticed..",
+            "... It's like I was never there."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Do you know what that feels like?",
+            "To be tossed aside...@ replaced?",
+            "...",
+            "No. ;Of course you don't."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 282
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "I hate this.",
+            "Watching the world move on...",
+            "Watching everyone I care about...",
+            "... ",
+            "...@ Just keep going without me.",
+            "It's hard to keep up."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 280
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 288
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 282
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "It's funny, isn't it?",
+            "Ever since you showed up...",
+            "My...@ ;Your...@ life has gotten so much better.",
+            "New friends. ;A whole magical world to escape to.",
+            "... Even your own dorky brother to talk to.",
+            "..."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 280
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 314
+            }
+          ]
+        },
+        "Text": {
+          "Array": [
+            "Do you ever think about what happens if you let me be myself again?",
+            "... How everyone would react?",
+            "What if they don't like it? ;What if they miss you?",
+            "They'd start asking, ;\"What's wrong with Kris?\" ;\"Why's Kris acting weird again?\"",
+            " ",
+            "Of course it's true! ;Don't act like you haven't noticed.",
+            "They like you more than me. ;...Always have.",
+            "I'm not the one saving the world. ~I'm not anyone's hero.",
+            " "
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 280
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 282
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 296
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 290
+            }
+          ]
+        },
+        "Text": {
+          "Array": [
+            "All I've done on this adventure is make things worse.",
+            "I almost got Mom killed by opening that fountain, remember?",
+            "... For all I know, I could've ended the world.",
+            "I've always been a burden...",
+            " ",
+            "Why? ;Do you want me to leave so I can be your puppet again?!",
+            " "
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 280
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 282
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "It...@ doesn't matter...",
+            "You need me gone.",
+            "... For the first time, I'm in control.",
+            "I'm going to stay here. ;It's not like anyone's waiting for me out there anyway."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 282
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Go away..."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 319
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 285
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 282
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 51
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "..."
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

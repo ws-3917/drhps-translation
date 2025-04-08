@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 26
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 135
+  },
+  "m_Name": "",
+  "TargetChat": {
+    "m_FileID": 0,
+    "m_PathID": 152
+  },
+  "TargetAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 100
+  },
+  "TalkAnimationName": "BallWig_Talk",
+  "IdleAnimationName": "BallWig_Idle",
+  "UseTalkBool": 0,
+  "TalkBoolName": "",
+  "ListenDialogueGlobally": 0,
+  "CharactersToListen": {
+    "Array": []
+  }
+}

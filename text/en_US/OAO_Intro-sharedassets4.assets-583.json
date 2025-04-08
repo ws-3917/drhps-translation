@@ -1,0 +1,549 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "OAO_Intro",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 609
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 226
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 593
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 225
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 595
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 597
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "varrock, azure falcon, susira and kris embark on a grand adventure.",
+            "an ancient ruin that holds a mystical artifact calls for them.",
+            "will they triumpth the dangers inside or forever rot in its walls?",
+            "I WILL EQUIP MY MIGHTY BLADE AND TRUSTY SHIELD!",
+            "My Halbird blessed by the Aves Gods will be accompanying me.",
+            "I'll bring a cool stick that looks like a staff.",
+            "(You'll be bringing a |0.)",
+            "the party set off on their adventure.",
+            "varrock enters first, stepping on a£",
+            "Wait!!",
+            "I pick up a stone and toss it into the doorway of the ruins."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 556
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 553
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 551
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 555
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 552
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 554
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 551
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 579
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 593
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 609
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "12@, a boulder drops where you would've stood.",
+            "WOWIE! SUCH CLEVER FORSIGHT!",
+            "Adventuring 101, watch out for booby traps!",
+            "the party enters the ancient ruin, a smell of damp moss fills the air.",
+            "deeper within, they come upon a large pile of golden coins.",
+            "PERFECT, WE'VE FOUND OUR LOOT ALREADY!",
+            "That isn't the mystical artifact we came for, Varrock.",
+            "AH YES, I ALMOST FORGOT...",
+            "SURELY POCKETING A FEW COINS WOULDN'T HURT, RIGHT?",
+            "ROLL FOR HOW MANY GOLDEN COINS I TAKE."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 556
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 551
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 556
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 550
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 553
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 554
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 580
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 584
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 225
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 600
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 226
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 599
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 595
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 610
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 599
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 604
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "varrock puts 2 coins in his bag.",
+            "THAT'S GOOD.. MORE ROOM FOR OTHER GOODIES!",
+            "do you wanna roll for more coins?",
+            "HMM.. I SHOULDN'T LET GREED OVERWHELM ME.",
+            "WHAT'S THE CATCH?",
+            "an odd number will wake up the giant goblin sleeping ontop of the pile.",
+            "GIANT GOBLIN?!",
+            "Varrock, fight the urges, don't do it!",
+            "You'll get us all killed, again!",
+            "OH NO, I'M CONFLICTED!",
+            "BUT ALAS, I WILL BE THE BIGGER MAN.",
+            "AND KNOCK ON LADY LUCKS DOOR ONCE MORE!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 457
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 569
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 457
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 554
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 504
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 558
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 553
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 556
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 581
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 582
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 225
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 599
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 609
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 617
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 585
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "7@, you drop a coin and the goblin wakes up.",
+            "I'D LIKE TO APOLOGIZE IN ADVANCE.",
+            "the goblin rolls over, and spots the party stealing his beloved gold.",
+            "MAYBE WE COULD TALK IT OUT?",
+            "No time for that!;We've got to fight this beast!",
+            "Brace yourselves!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 569
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 556
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 554
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 555
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 557
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

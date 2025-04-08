@@ -1,0 +1,93 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDFountain_SusieSob",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 225
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 226
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 225
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 225
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 302
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "RALSEI I'M SO SORRY DUDE!!!!!!£",
+            "REALLY MAN I'M SO SO SO SORRY!!!!!!!£",
+            "I WAS ALL ANGRY AND STUFF AND I TOOK IT OUT ON YOU!!!!!£",
+            "PLEASE FORGIVE ME PLEASE PLEASE!!!!!!!£",
+            "(Kris, Help!)",
+            ""
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 146
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 151
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 380
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 428
+  },
+  "m_Name": "",
+  "BackgroundTextLines": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1555
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1496
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1620
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1524
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1591
+      }
+    ]
+  },
+  "BackgroundTextMaxCount": {
+    "Array": []
+  },
+  "extrasSubMenu": {
+    "m_FileID": 0,
+    "m_PathID": 1807
+  },
+  "optionText": {
+    "m_FileID": 0,
+    "m_PathID": 1546
+  },
+  "prefabHolder": {
+    "m_FileID": 0,
+    "m_PathID": 164
+  },
+  "CurrentExtraContent": {
+    "ExtraName": "",
+    "Item": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "ExtraType": 0
+  },
+  "commentaryAudioSource": {
+    "m_FileID": 0,
+    "m_PathID": 605
+  },
+  "ExtrasTitle": {
+    "m_FileID": 0,
+    "m_PathID": 1565
+  },
+  "ExtrasDescription": {
+    "m_FileID": 0,
+    "m_PathID": 1572
+  },
+  "CommentaryButton": {
+    "m_FileID": 0,
+    "m_PathID": 1846
+  },
+  "PlaySprite": {
+    "m_FileID": 2,
+    "m_PathID": 210
+  },
+  "PauseSprite": {
+    "m_FileID": 2,
+    "m_PathID": 211
+  },
+  "NoIconSprites": {
+    "m_FileID": 4,
+    "m_PathID": 1456
+  }
+}

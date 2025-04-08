@@ -1,0 +1,659 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-11 08:21+0000\n"
+"PO-Revision-Date: 2025-03-31 04:46+0000\n"
+"Last-Translator: ws3917 <ws3917@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"translate.ws3917.space/projects/deltarune-hypothesis/0-cs-header/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
+msgid "- Overworld -"
+msgstr "- 主世界 -"
+
+msgid "- Stats -"
+msgstr "- 统计 -"
+
+msgid "- Setup -"
+msgstr "- 设置 -"
+
+msgid "Warning! Must match PartyMembers"
+msgstr "注意！必须要匹配PartyMembers"
+
+msgid "Warning! Must match Enemies"
+msgstr "注意！必须要匹配Enemies"
+
+msgid ""
+"Will choose a random dialogue, or use the default if none are present\n"
+"Try add dialogues that fit whos in the party"
+msgstr ""
+"将选择随机对话，若没有对话则使用默认对话\n"
+"试着添加适合小队成员的对话吧"
+
+msgid "NOTE, Kris acts always have blank descriptions"
+msgstr "注意，Kris的行为描述应保持空白"
+
+msgid "What this action targets"
+msgstr "此次行动的目标"
+
+msgid "This is the function that the battle script will run"
+msgstr "这是战斗脚本将运行的函数"
+
+msgid "Use > in function name to call method in BattleSystem instead"
+msgstr "在函数名称中使用“>”来调用BattleSystem中的method"
+
+msgid "Keep empty to not require any"
+msgstr "留空就好"
+
+msgid "-- References --"
+msgstr "-- 参考 --"
+
+msgid "- References -"
+msgstr "- 参考 -"
+
+msgid "- Dialogue -"
+msgstr "- 对话 -"
+
+msgid "-= Movement =-"
+msgstr "-= 移动 =-"
+
+msgid "-= Lifetime =-"
+msgstr "-= 终身 =-"
+
+msgid "-= Arc Utility =-"
+msgstr "-= Arc 实用程序 =-"
+
+msgid "- Enemy Settings -"
+msgstr "- 敌人设定 -"
+
+msgid "when the player uses \\\"Spare\\\" when the enemy isn't sparable yet"
+msgstr "敌人未黄名时玩家使用“饶恕”"
+
+msgid "- Enemy Visuals -"
+msgstr "- 敌人视觉效果 -"
+
+msgid "- Animations -"
+msgstr "- 动画 -"
+
+msgid "- Attack Settings -"
+msgstr "- 攻击设置 -"
+
+msgid ""
+"-1 will make the attack last forever, allowing the battle script to take "
+"over."
+msgstr "当值为-1将使攻击永不停止，由战斗脚本接管。"
+
+msgid "Will fade away all enemies and party members, good for wide attacks"
+msgstr "会使所有敌人和队员消失，适合进行大范围攻击。"
+
+msgid "Will destroy every child in bullet holder on attack end"
+msgstr "将会消灭弹幕目录中的每个子项"
+
+msgid "UI"
+msgstr "UI"
+
+msgid "Battle Numbers"
+msgstr "战斗编号"
+
+msgid "Bottom Bar"
+msgstr "底部栏"
+
+msgid "TP Bar"
+msgstr "TP栏"
+
+msgid "Prefabs"
+msgstr "预制件"
+
+msgid "Holders"
+msgstr "支架"
+
+msgid "Backgrounds"
+msgstr "背景"
+
+msgid "UI Windows"
+msgstr "UI窗口"
+
+msgid "- Sounds -"
+msgstr "- 音效 -"
+
+msgid "- Default Spell Sounds -"
+msgstr "- 默认法术音效 -"
+
+msgid "- Effects -"
+msgstr "- 效果 -"
+
+msgid "- Battle Settings -"
+msgstr "- 战斗设置 -"
+
+msgid "- Stored Values -"
+msgstr "- 存储值 -"
+
+msgid "- Temporary Debug -"
+msgstr "- 临时除错 -"
+
+msgid "-- Choices --"
+msgstr "-- 选项 --"
+
+msgid "-- Sounds --"
+msgstr "-- 音效 --"
+
+msgid "- Settings -"
+msgstr "- 设置 -"
+
+msgid "-= References =-"
+msgstr "-= 参考 =-"
+
+msgid "Computer Screen"
+msgstr "电脑屏幕"
+
+msgid "BIOS loading Text"
+msgstr "BIOS加载文本"
+
+msgid "Logo Glitched"
+msgstr "Logo故障"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "Play a sound during this action, add multiple to the list for random"
+msgstr "在此操作期间播放声音，将多个添加到列表中以供随机"
+
+msgid "Run a function in a certain component."
+msgstr "运行某个函数中的某个功能。"
+
+msgid "WARNING! Will fail if two objects have the same name"
+msgstr "警告！如果两个对象同名则会失败"
+
+msgid ""
+"Runs everything this action will do when the players ends the chat that this"
+" action is on"
+msgstr "当玩家结束此操作所处的聊天时，运行此操作将执行的所有操作"
+
+msgid "Edit monospace StyleSheet in font folder to add"
+msgstr "编辑字体文件夹中的等宽字体样式表以添加"
+
+msgid "1 = Default Speed | 2 = 50% slower | 0.5 = 50% faster"
+msgstr "1 = 默认速度 | 2 = 慢50% | 0.5 = 快50%"
+
+msgid ""
+"0 - ChoiceCount | Default selected (OOB values = No default selection, soul "
+"in center)"
+msgstr "0 - 选项数量（ChoiceCount） | 默认选项（OOB值 = 无默认选项，灵魂在中心）"
+
+msgid "Use < br> for new lines, slash N doesn't work for some reason"
+msgstr "使用< br>换行，斜杠后面跟个N不知道为啥不好使"
+
+msgid "Player can press X to prematurely exit dialogue"
+msgstr "玩家可以按 X 提前退出对话"
+
+msgid "Only show and allow input from options at end of Text running"
+msgstr "仅显示并允许文本运行结束时的选项输入"
+
+msgid "For customizing text size, font and color"
+msgstr "用于自定义文本大小、字体和颜色"
+
+msgid "- Some Default Choice Position Values -"
+msgstr "- 一些默认选择位置值 -"
+
+msgid ""
+"2 choice positions\\r\n"
+"\\r\n"
+"option1 -253.4, -82.5\\r\n"
+"option2 46.6, -82.5\\r\n"
+"\\r\n"
+"3 choice positions\\r\n"
+"\\r\n"
+"option1 -230, -82.5\\r\n"
+"option2 -30, -82.5\\r\n"
+"option3 170, -82.5\\r\n"
+"\\r\n"
+"4 choice positions\\r\n"
+"\\r\n"
+"option1 -400, -82.5\\r\n"
+"option2 -150, -82.5\\r\n"
+"option3 150, -82.5\\r\n"
+"option4 400, -82.5"
+msgstr ""
+"2 个选择位置\\r\n"
+"\\r\n"
+"选项1 -253.4，-82.5\\r\n"
+"选项2 46.6，-82.5\\r\n"
+"\\r\n"
+"3 个选择位置\\r\n"
+"\\r\n"
+"选项1 -230，-82.5\\r\n"
+"选项2 -30，-82.5\\r\n"
+"选项3 170，-82.5\\r\n"
+"\\r\n"
+"4 个选择位置\\r\n"
+"\\r\n"
+"选项1 -400，-82.5\\r\n"
+"选项2 -150，-82.5\\r\n"
+"选项3 150，-82.5\\r\n"
+"选项4 400，-82.5"
+
+msgid "- Text inner workings -"
+msgstr "- 文本内部工作原理 -"
+
+msgid "- Text Settings -"
+msgstr "- 文本设置 -"
+
+msgid "Each reaction is shown in sequential order, starting from the top."
+msgstr "每个反应都按顺序显示，从最上面开始。"
+
+msgid ""
+"# = 0.5 second pause\n"
+"@ = 0.125 second pause\n"
+"; = new line in dialogue\n"
+"~ = new line in dialogue but bulletpoint is one below than normal\n"
+"£ = Forcefully end chat, useful for when rich text is used"
+msgstr ""
+"# = 停顿0.5秒\n"
+"@ = 停顿0.125秒\n"
+"; = 换行，第二行带星号\n"
+"~ = 换行，第三行带星号\n"
+"£ = 强制结束文本"
+
+msgid ""
+"WARNING FOR RICH TEXT! Only use ONE per dialogue, and try avoid pausing "
+"characters."
+msgstr "富文本警告！每个对话只能使用一个，并尽量避免停顿符。"
+
+msgid ""
+"Battle Specific - use Empty text to continue dialogue but show no bubble."
+msgstr "战斗特定 - 使用空文本继续对话但不显示气泡。"
+
+msgid "Intro Disclaimer"
+msgstr "免责声明"
+
+msgid "Credits Intro"
+msgstr "创作者名单"
+
+msgid "Ending Cutscene"
+msgstr "终场动画"
+
+msgid "Debug"
+msgstr "除错"
+
+msgid "Before Cutscene Stuff"
+msgstr "过场动画前"
+
+msgid "Cutscene Stuff"
+msgstr "过场动画内容"
+
+msgid "- Shared References -"
+msgstr "- 共享参考 -"
+
+msgid "Item used on Kris"
+msgstr "给Kris使用物品"
+
+msgid "Item used on Susie"
+msgstr "给Susie使用物品"
+
+msgid "Item used on Ralsei"
+msgstr "给Ralsei使用物品"
+
+msgid "-- Variables --"
+msgstr "-- 变量 --"
+
+msgid "Menu States and SubStates"
+msgstr "菜单状态与副状态"
+
+msgid "-- Animations --"
+msgstr "-- 动画 --"
+
+msgid "-- Top and Bottom Row References --"
+msgstr "-- 顶行和底行参考 --"
+
+msgid "-- Item Menu References --"
+msgstr "-- 物品菜单参考 --"
+
+msgid "References"
+msgstr "参考"
+
+msgid "Panel Settings"
+msgstr "面板设置"
+
+msgid "Fade Settings"
+msgstr "淡入淡出设置"
+
+msgid "Misc"
+msgstr "杂项"
+
+msgid "-- Cutscene References --"
+msgstr "-- 过场动画参考 --"
+
+msgid "Landing from the fall"
+msgstr "从坠落处着陆"
+
+msgid "-- Cutscene Audio --"
+msgstr "-- 过场动画音效 --"
+
+msgid "Characters"
+msgstr "角色"
+
+msgid "-- Character Move Positions --"
+msgstr "-- 角色移动位置 --"
+
+msgid "Kris and Susie"
+msgstr "Kris和Susie"
+
+msgid "Jigsaw Joe"
+msgstr "拼版乔"
+
+msgid "Tasque and Tasque Manager"
+msgstr "Tasque与Tasquue Manager"
+
+msgid "Rudinn"
+msgstr "Rudinn（注：这是方钻）"
+
+msgid "-- Cutscene Chats --"
+msgstr "-- 过场动画对话 --"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Cutscene References"
+msgstr "过场动画参考"
+
+msgid "Cutscene Chats"
+msgstr "过场动画对话"
+
+msgid "Cutscene Sounds"
+msgstr "过场动画音效"
+
+msgid "Character Positions"
+msgstr "角色位置"
+
+msgid "-- Cutscene Settings --"
+msgstr "-- 过场动画设置 --"
+
+msgid "Kris, Susie and Ralsei"
+msgstr "Kris，Susie与Ralsei"
+
+msgid "Cutscene"
+msgstr "过场动画"
+
+msgid "Dialogue"
+msgstr "对话"
+
+msgid "Character Animations"
+msgstr "角色动画"
+
+msgid "- Walk Positions -"
+msgstr "- 移动位置 -"
+
+msgid "- Cutscene Info -"
+msgstr "- 过场动画资讯 -"
+
+msgid "Base Menu References"
+msgstr "基本菜单参考"
+
+msgid "Settings Menu References"
+msgstr "设置菜单参考"
+
+msgid "Return Menu References"
+msgstr "返回菜单参考"
+
+msgid "Restart Menu References"
+msgstr "重启菜单参考"
+
+msgid "-= Main =-"
+msgstr "-= 主要 =-"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "-= Sounds =-"
+msgstr "-= 音效 =-"
+
+msgid "-= Dyslexic Font Setup -="
+msgstr "-= 阅读困难字体设置 =-"
+
+msgid ""
+"Only used for the main menu settings, keep null to use global reference"
+msgstr "仅用于主菜单设置，留空以使用全局引用"
+
+msgid "-= Settings =-"
+msgstr "-= 设置 =-"
+
+msgid "Is saved as Setting_<KeyBinding>"
+msgstr "保存为Setting_<KeyBinding>"
+
+msgid "Is saved as Setting_<SettingName>"
+msgstr "保存为Setting_<SettingName>"
+
+msgid "Will start as \\\"HypothesisGoal_\\\""
+msgstr "将会以“HypothesiGoal_”开始"
+
+msgid "Hypothetical this goal will be in, used for tracking logs"
+msgstr "Hypothetical这个目标将在其中，用于追踪日志"
+
+msgid "Below are saved flags that will be reset upon loading this scene"
+msgstr "以下是已保存的标志，将在加载此场景时重置"
+
+msgid "Choose to reset the player inventory to a specific set of items"
+msgstr "选择将玩家库存重置为一组特定的物品"
+
+msgid "For text that requires the player to interact multiple times"
+msgstr "对于需要玩家多次互动的文本"
+
+msgid "WARNING! This component is removed once ran"
+msgstr "警告！此组件一旦运行就会被删除"
+
+msgid "Chat Variables"
+msgstr "对话变量"
+
+msgid "Generic component used for detecting player interactions."
+msgstr "用于检测玩家互动的通用组件。"
+
+msgid ""
+"When interacted, Interacted will be the opposite of what it currently is"
+msgstr "互动时，互动将与当前相反"
+
+msgid "-= Variables =-"
+msgstr "-= 变量 =-"
+
+msgid "Used for more basic NPCs, that don't usually move"
+msgstr "用于基本NPC，通常不会移动"
+
+msgid "For more advanced NPCs like Papyrus or Toriel"
+msgstr "对于更高级的NPC，如Papyrus和Toriel"
+
+msgid "-- Base Variables --"
+msgstr "-- 基础变量 --"
+
+msgid "-- Darkworld Specific Variables --"
+msgstr "-- 暗世界特定变量 --"
+
+msgid "-- Item Attributes --"
+msgstr "-- 物品属性 --"
+
+msgid "Leave Empty to continue previous panel"
+msgstr "留空以继续上一面板"
+
+msgid "For if RoomHasMultipleEntrances is false"
+msgstr "如果RoomHasMultipleEntrances为假"
+
+msgid "Range: -1,1"
+msgstr "范围：-1,1"
+
+msgid "-= Party System =-"
+msgstr "-= 队伍系统 =-"
+
+msgid "-= Calls =-"
+msgstr "-= 呼叫 =-"
+
+msgid ""
+"Make sure this matches current queued call amount, keep empty to not change"
+msgstr "确保与当前排队呼叫数量相符，留空则不变"
+
+msgid "Use a # to not have the \\\"Call\\\" text added to name"
+msgstr "使用#以避免将“呼叫”文本添加到名称中"
+
+msgid "-= Music =-"
+msgstr "-= 音效 =-"
+
+msgid "Keep empty to stop the current song, if previous bool is true"
+msgstr "如果上一个布尔值为真，留空则会停止当前歌曲"
+
+msgid "-= Room spawn Positions =-"
+msgstr "-= 房间生成位置 =-"
+
+msgid "-= Discord RPC =-"
+msgstr "-= Discord RPC =-"
+
+msgid "Spacing for if SelectionMode is 1"
+msgstr "如果SelectionMode为1，则有间距"
+
+msgid "Selection Index 1, Scene Transition"
+msgstr "选择索引1，场景转换"
+
+msgid "Selection Mode 1 Specific"
+msgstr "选择模式1具体"
+
+msgid "Selection Mode 2 Specific"
+msgstr "选择模式2具体"
+
+msgid "Whether to preload (True) or unload (False)"
+msgstr "是否预加载(True)或卸载(False)"
+
+msgid "-= Slot Settings =-"
+msgstr "-= 槽位设定 =-"
+
+msgid "-= Slot Sound =-"
+msgstr "-= 槽位音效 =-"
+
+msgid "-= Symbols =-"
+msgstr "-= 符号 =-"
+
+msgid "Range : -1 to 1"
+msgstr "范围：-1至1"
+
+msgid "Sounds"
+msgstr "音效"
+
+msgid "-- Settings --"
+msgstr "-- 设置 --"
+
+msgid "-- Cutscene Sounds --"
+msgstr "-- 过场动画音效 --"
+
+msgid "-- Debug --"
+msgstr "-- 除错 --"
+
+msgid "-- OAO Shared --"
+msgstr "-- 万食共享 --"
+
+msgid "-- Goblin Fight --"
+msgstr "-- 哥布林战斗 --"
+
+msgid "-- 3 Door Choice --"
+msgstr "-- 三个门选项 --"
+
+msgid "-- After OAO --"
+msgstr "-- 万食之后 --"
+
+msgid "-- Walking Stuff --"
+msgstr "-- 移动内容 --"
+
+msgid "Stats"
+msgstr "统计"
+
+msgid "Battle"
+msgstr "战斗"
+
+msgid "-= Stats =-"
+msgstr "-= 状态 =-"
+
+msgid "-= Default PartyMembers =-"
+msgstr "-= 默认队伍成员 =-"
+
+msgid "Game,Cutscene,NoPlayerMovement"
+msgstr "游戏，过场动画，无玩家移动"
+
+msgid "Player Variables"
+msgstr "玩家变量"
+
+msgid ""
+"If the previous scene index doesnt match any Spawn positions, will go to "
+"default"
+msgstr "如果前一个场景索引与任何生成（Spawn）位置不匹配，将转为默认"
+
+msgid "-- Player Specific --"
+msgstr "-- 特定玩家 --"
+
+msgid "-- Optional --"
+msgstr "-- 可选 --"
+
+msgid "0 - 1 | Higher the number the more distance from camera"
+msgstr "0 - 1 | 数字越大，距离摄像机越远"
+
+msgid "Sort by Y position (basically its like negative y pos * 6 rounded)"
+msgstr "按Y位置排序（基本就是负的y位置乘上6，然后四舍五入）"
+
+msgid "Arc Utility"
+msgstr "Arc实用工具"
+
+msgid "1 = Susie | 1.125 = Ralsei"
+msgstr "1 = Susie | 1.125 = Ralsei"
+
+msgid "Multiplier, 1 = normal | 0.5 = half speed"
+msgstr "乘数，1 = 正常 | 0.5 = 半速"
+
+msgid "-= Audio =-"
+msgstr "-= 音频 =-"
+
+msgid "WARNING! This can only run once!"
+msgstr "警告！只能运行一次！"
+
+msgid "Idle Sprites"
+msgstr "空闲贴图"
+
+msgid "Walk Sprites"
+msgstr "移动贴图"
+
+msgid "Walk2 Sprites"
+msgstr "移动2贴图"
+
+msgid "- Camera Controls -"
+msgstr "- 摄像机控制 -"
+
+msgid "- Shelter -"
+msgstr "- 遮蔽 -"
+
+msgid "-- Cutscene --"
+msgstr "-- 过场动画 --"
+
+msgid "- Sound and Music -"
+msgstr "- 音效与音乐 -"
+
+msgid "-- Vessel Randomizer --"
+msgstr "-- 容器随机发生器 --"
+
+msgid "-- Custom Colors --"
+msgstr "-- 自定义颜色 --"
+
+msgid "-- Additional Settings --"
+msgstr "-- 附加设置 --"
+
+msgid ""
+"True clone copies the target texts position, bounds and maxvisible "
+"characters"
+msgstr "真的复制目标文本的位置、边界和最大可见字符"
+
+msgid "Use sparingly, can be quite performance intenstive"
+msgstr "谨慎使用，可能会对性能造成很大影响"
+
+msgid "Doesn't disable rich text itself, but removes the <> tags"
+msgstr "不会禁用富文本本身，但会删除<>标签"
+
+msgid "Random Controls"
+msgstr "随即控制"

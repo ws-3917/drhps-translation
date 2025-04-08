@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 251
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1199
+  },
+  "m_Name": "",
+  "SettingsElementName": "确认",
+  "SettingsDescription": "用于确认及交互。\n比如，可以按下该键\n与指示牌进行交互。",
+  "CurrentlySelected": 0,
+  "CanBeCanceled": 0,
+  "RawImages_AffectedByColor": {
+    "Array": []
+  },
+  "TMP_AffectedByColor": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1595
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1484
+      }
+    ]
+  }
+}

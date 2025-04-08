@@ -1,0 +1,197 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDFountain_RealiseGoodbyes",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 8,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2588
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 316
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 213
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 214
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 306
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 221
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 611
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "噢！我们最后要和所有人告别！",
+            "...镇里所有人\n知道发生什么吗？",
+            "当然，我跟他们说过了。",
+            "最后说这个...@\n有点难。",
+            "但幸好，Lancer去让各位冷静下来了。",
+            "...我相信他的乐观，能抚平他们的情绪。",
+            "这消息他怎么知道的？",
+            "一开始他觉得我在开玩笑。",
+            "...直到我开始哭..",
+            "不久后，他意识到不对，\n便加入了进来..",
+            "不管怎样，@有次我告诉他，\n这会拯救光世界..",
+            "...他立马就加入，\n说着想要帮忙呢！",
+            "对，Lancer没错！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 179
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 174
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 173
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 175
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 173
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 177
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 174
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 175
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 166
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 173
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 174
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 152
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 213
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 306
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "对了Kris，",
+            "...最后再带个路吧！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 173
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 152
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 182
+  },
+  "m_Name": "TS_IntroBunker_OpenChoice",
+  "DefaultSelectedChoice": 0,
+  "Choices": {
+    "Array": [
+      "是",
+      "否"
+    ]
+  },
+  "CanBackOut": 1,
+  "ShowOnTextScrollFinish": 0,
+  "ChoiceCharacterReference": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ChoiceTextResults": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 18
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    ]
+  },
+  "ChoicePositions": {
+    "Array": [
+      {
+        "x": -418.0,
+        "y": 0.0
+      },
+      {
+        "x": 320.0,
+        "y": 0.0
+      }
+    ]
+  }
+}

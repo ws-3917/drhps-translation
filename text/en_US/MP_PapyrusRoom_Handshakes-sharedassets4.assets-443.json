@@ -1,0 +1,125 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "MP_PapyrusRoom_Handshakes",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 232
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 608
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "GREETINGS, MY NAME IS PAPYRUS.",
+            "A-A-and I-I-I'm S-S-Susie.",
+            "IT IS A PLEASURE TO MEET YOU S-S-SUSIE!!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 444
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "AND YOU MUST BE KRIS, CORRECT?",
+            "SANS HAS TOLD ME MANY INTERESTING FACTS ABOUT YOU!",
+            "MANY OF THEM.. NONSENSICAL..",
+            "(IS IT TRUE HUMANS CAN FLY..?)"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 444
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

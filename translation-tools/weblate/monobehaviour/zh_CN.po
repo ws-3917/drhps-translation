@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-12 09:13+0000\n"
+"PO-Revision-Date: 2025-03-31 04:46+0000\n"
+"Last-Translator: ws3917 <ws3917@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"translate.ws3917.space/projects/deltarune-hypothesis/2-cs-monobehaviour/"
+"zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
+msgid "setup new bar positon"
+msgstr "设置新的栏位"
+
+msgid "Dice Equal = "
+msgstr "骰子总合 = "
+
+msgid "did you forget to make the method public?"
+msgstr "忘记将method（方法）公开了吗？"
+
+msgid "Couldn't find Component named: "
+msgstr "无法找到组件："
+
+msgid "test"
+msgstr "测试"
+
+msgid "DETECTED"
+msgstr "检测到"
+
+msgid "SUCCESS!"
+msgstr "成功！"
+
+msgid "subscribed to battle events"
+msgstr "订阅战斗事件"
+
+msgid "how?"
+msgstr "怎么？"
+
+msgid "null"
+msgstr "空"
+
+msgid "Battle has begun"
+msgstr "战斗开场了"
+
+msgid "Error whilst grazing! Bullet_Generic not found in collider?"
+msgstr "擦弹时出错！Bullet_Generic在collider中不存在？"
+
+msgid "currently on "
+msgstr "此时处于 "
+
+msgid "max visible characters: {text.maxVisibleCharacters}"
+msgstr "最大可见字符（Max visible characters）：{text.maxVisibleCharacters}"
+
+msgid "text length: {text.text.Length}"
+msgstr "文本长度：{text.text.Length}"
+
+msgid "Susie Missing?"
+msgstr "Susie丟了？"
+
+msgid "Ralsei Missing?"
+msgstr "Ralsei丟了？"
+
+msgid "all text shown"
+msgstr "显示所有文字"
+
+msgid "FOUND YOU FUCKER"
+msgstr "混账，逮到你了"
+
+msgid "Disabled Disclaimer skip because currently in editor"
+msgstr "已禁用免责声明跳过因为当前在编辑器中"
+
+msgid "Column {columnIndex + 1}: {symbolFromImage.sprite.name}"
+msgstr "列{columnIndex + 1}：{symbolFromImage.sprite.name}"
+
+msgid "Payout awarded: {triplepayout}$"
+msgstr "获得奖励：{triplepayout}$"
+
+msgid "done"
+msgstr "完毕"
+
+msgid "running"
+msgstr "正运行"
+
+msgid "Last Level was "
+msgstr "上一等级为 "

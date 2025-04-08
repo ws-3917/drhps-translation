@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1517
+  },
+  "m_Name": "OAO_3DoorChoice_Sword",
+  "PlaySound": 0,
+  "PossibleSounds": {
+    "Array": []
+  },
+  "RunComponentFunction": 1,
+  "TargetComponentGameObjectName": "OAOCutscene",
+  "TargetComponentClassname": "PapyrusRoom_OverworldsAndOgres",
+  "FunctionName": "OAODoorChoice_Sword",
+  "SubActions": {
+    "Array": []
+  },
+  "RunActionOnChatEnd": 0
+}

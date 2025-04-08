@@ -1,0 +1,86 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 137
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 680
+  },
+  "m_Name": "",
+  "angle": 0,
+  "angleF": 0.0,
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 172
+  },
+  "sprites": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 133
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 133
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 119
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 119
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 100
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 115
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 115
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 98
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 98
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 129
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 125
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 125
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 128
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 128
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 89
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 89
+      }
+    ]
+  }
+}

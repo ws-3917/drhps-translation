@@ -1,0 +1,871 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "OAO_SwordDoor",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 614
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 593
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 596
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 236
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Alright! Another fight it is!",
+            "Susira, would you be so kind as to heal all of us with a spell?",
+            "Just so we're all prepared beforehand, of course.",
+            "Yeah sure, I cast a healing spell on everyone."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 555
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 551
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 556
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 579
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 518
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 610
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "the party is healed for 12 health.",
+            "WE'RE FULLY PREPARED NOW, LET US MOVE FORWARD!",
+            "the party enters the door with a sword icon. they are immediately met by an ogre.",
+            "Quick, let's attack before it notices us!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 556
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 578
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 604
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 590
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 241
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 227
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 227
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 227
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 227
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 227
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 599
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 227
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 601
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 601
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 227
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 227
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 227
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 597
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 227
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 227
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 604
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 595
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "WAIT!!!!!!!!!!!!!",
+            "... Yes?",
+            "WE DON'T HAVE TO ENGAGE LIKE THIS!",
+            "PERHAPS I COULD SWEET TALK US OUT OF A FIGHT?",
+            "How would you achieve that? They only speak in their native tongue.",
+            "Ogres have their own language?",
+            "INDEED, IT IS VERY INTRICATE AND DIFFICULT..",
+            "BUT IT JUST SO HAPPENS I HAVE AN OGRE BUDDY!",
+            "SO FRET NOT, FOR I HAVE MASTERED THE OGRE TONGUE!",
+            "EHM..",
+            "GREETINGS OGRE! CAN YOU UNDERSTAND ME?",
+            "\"i can understand you, strange knight.\"",
+            "PERFECT!",
+            "YOU, UHH, WOULDN'T WANT TO SQUISH US.. WOULD YOU?",
+            "\"i'm not too sure...\"",
+            "\"i haven't squished a puny mortal in a long time.\"",
+            "B-BUT THINK ABOUT THE MESS!!",
+            "YOU'D HAVE TO CLEAN UP OUR SPILLED GUTS.",
+            "\"good point, maybe i won't squish you under my boot.\"",
+            "PHEW, THAT'S A RELIEF.",
+            "\"although i am feeling rather peckish.\"",
+            "THAT'S EVEN WORSE, AND GROSS!!",
+            "\"foolish adventurers are part of our diet.\"",
+            "FOOLISH?!",
+            "I'LL HAVE YOU KNOW ME AND MY PALS ARE ANYTHING BUT!",
+            "WE BESTED THE GIANT GOBLIN IN THE ROOM BEFORE!",
+            "\"oh really? ;thanks, i hated that guy.\"",
+            "\"every night he would try to steal my golden tooth whilst i was asleep.\"",
+            "\"guess i owe you all a favor in return?\"",
+            "What is it saying??",
+            "IT'S GIVING US A FAVOR FOR BEATING THAT GOBLIN!",
+            "Here's our favor, let us past or we'll barge through anyway!",
+            "OGRE, OUR FAVOR IS TO WALK PAST UNINTERRUPTED!",
+            "\"hmm...\"",
+            "\"just this once, i'll let you adventurers past unscathed.\"",
+            "YES!! ;IT SAID WE CAN GO PAST!",
+            "R-Really?! That.. worked?!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 553
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 562
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 555
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 553
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 564
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 563
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 569
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 563
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 565
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 566
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 566
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 556
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 569
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 556
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 578
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 525
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 565
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 563
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 564
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 563
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

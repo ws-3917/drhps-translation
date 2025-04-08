@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1002
+  },
+  "m_Name": "testreaction 4",
+  "Reaction": {
+    "Array": [
+      {
+        "Character": {
+          "m_FileID": 8,
+          "m_PathID": 605
+        },
+        "Text": "今天不打出一吨土豆泥绝不罢休！！",
+        "Offset": {
+          "x": -480.0,
+          "y": -80.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 11,
+          "m_PathID": 139
+        },
+        "Text": "馋炸薯条了...算了还是找薯片吧。",
+        "Offset": {
+          "x": -80.0,
+          "y": -80.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 0,
+          "m_PathID": 50
+        },
+        "Text": "土豆威武土豆最棒土豆爽口土豆超赞我要是啥时候能像土豆一样厉害就好了555",
+        "Offset": {
+          "x": 105.0,
+          "y": 50.0
+        }
+      }
+    ]
+  }
+}

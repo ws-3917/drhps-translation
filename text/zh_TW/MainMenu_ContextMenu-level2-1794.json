@@ -1,0 +1,88 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 292
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1232
+  },
+  "m_Name": "",
+  "MenuOpen": 0,
+  "AllowInput": 1,
+  "WaitingUntilZUnpressed": 0,
+  "ContextMenuAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 627
+  },
+  "PreviousSection": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "LevelTransition": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ContextText": {
+    "m_FileID": 0,
+    "m_PathID": 1563
+  },
+  "ContextTitleText": {
+    "m_FileID": 0,
+    "m_PathID": 1632
+  },
+  "ControlsText": {
+    "m_FileID": 0,
+    "m_PathID": 1517
+  },
+  "ContextGoals": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 230
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 337
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 258
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 211
+      }
+    ]
+  },
+  "InputControlText": {
+    "m_FileID": 0,
+    "m_PathID": 263
+  },
+  "ContextIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1848
+  },
+  "ContextSource": {
+    "m_FileID": 0,
+    "m_PathID": 603
+  },
+  "Sound_Confirm": {
+    "m_FileID": 4,
+    "m_PathID": 1008
+  },
+  "Sound_Return": {
+    "m_FileID": 2,
+    "m_PathID": 155
+  },
+  "GonerText": {
+    "m_FileID": 0,
+    "m_PathID": 1830
+  },
+  "ChatboxText": {
+    "m_FileID": 2,
+    "m_PathID": 540
+  },
+  "RanText": 0
+}

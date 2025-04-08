@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 16
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1102
+  },
+  "m_Name": "",
+  "ComicbookChat": {
+    "m_FileID": 0,
+    "m_PathID": 219
+  },
+  "NewChat": {
+    "m_FileID": 3,
+    "m_PathID": 194
+  },
+  "ComicBookRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 171
+  },
+  "FoldedSprite": {
+    "m_FileID": 3,
+    "m_PathID": 123
+  },
+  "Source": {
+    "m_FileID": 0,
+    "m_PathID": 159
+  },
+  "FoldSound": {
+    "m_FileID": 2,
+    "m_PathID": 1042
+  }
+}

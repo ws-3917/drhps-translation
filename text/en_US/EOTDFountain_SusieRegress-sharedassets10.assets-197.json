@@ -1,0 +1,228 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDFountain_SusieRegress",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 616
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 227
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 223
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 313
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 616
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 616
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 228
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 218
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 217
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 230
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 228
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 222
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 616
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 313
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 223
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 228
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 313
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 228
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 229
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "...",
+            "Why.. didn't you tell us earlier?",
+            "Susie I-..",
+            "I couldn't..",
+            "...",
+            "You.. couldn't..?",
+            "..",
+            "What do you mean you couldn't?!",
+            "We were having so much fun..",
+            "I didn't want it to affect our adventures..!",
+            "That's so selfish! What about US dude?!",
+            "You ever think about how we'd feel?!",
+            "Susie!? Of course I have!~I always have!",
+            "Just to then tell us we gotta kill you all right at the end?",
+            "...",
+            "Please, Susie, let me-£",
+            "Stop.",
+            "...",
+            "I-I..@ didn't-£",
+            "SHUT UP!!",
+            "I don't care!!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 191
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 175
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 178
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 189
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 191
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 189
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 188
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 191
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 176
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 186
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 188
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 161
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 194
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 178
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 191
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 186
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 152
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

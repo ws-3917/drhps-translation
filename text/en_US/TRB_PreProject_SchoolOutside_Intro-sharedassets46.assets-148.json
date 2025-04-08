@@ -1,0 +1,334 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "TRB_PreProject_SchoolOutside_Intro",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 617
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 610
+            },
+            {
+              "m_FileID": 11,
+              "m_PathID": 507
+            },
+            {
+              "m_FileID": 11,
+              "m_PathID": 502
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 596
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 593
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "He chucked the dice, and just so happened to roll two, again!",
+            "I'm telling you, it @HAD@ to be rigged or something!!!",
+            "So it's either magical powers or bad luck then?",
+            "Say, you haven't smashed any mirrors recently, have you?",
+            "Your attention, please!",
+            "Kris and their mother have arrived."
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 245
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 589
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 238
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 242
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 245
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 615
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 242
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Good morning, everyone! ;I hope you all have your group projects ready!",
+            "Of course, the early bird does catch the worm after all!",
+            "You eat worms? ;Cool.",
+            "I've heard many things about your project with Kris, Susie.",
+            "They have expressed how much this project means to you both.",
+            "Yeah! ;Just, uh, trying to get a good grade is all.",
+            "That's wonderful to hear, I'm sure you'll accomplish your goal!"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 146
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 597
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 597
+            },
+            {
+              "m_FileID": 11,
+              "m_PathID": 513
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Noelle, while I may pride myself in being a humble gentlebird...",
+            "Uh...@ this display board is...@ quite heavy.",
+            "Would you mind if we headed inside and began to set it up?",
+            "Oh! ;Sure.@ Guess we'll meet you two inside?"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 597
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 592
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 597
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "You, uh, need help with that?",
+            "No thanks...@ I-...@ I've got it...@ under...@ control!",
+            "A courageous student...@ such as...@ myself...",
+            "Can...@ carry...@ their own...@ future A++!"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 233
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Oh shoot, I almost forgot!"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 617
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 245
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 243
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 615
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Kris, PLEASE tell me you remembered to get those supplies we needed!",
+            "Now, now, no need to worry.@ We made a quick stop on the way.",
+            "But you two really should have been more prepared beforehand.",
+            "Uh, Sorry about that. ;Thanks for getting the stuff we needed though."
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Guess we should head inside and prepare then, huh?"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

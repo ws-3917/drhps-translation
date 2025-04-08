@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 11
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 884
+  },
+  "m_Name": "",
+  "SavedFloatsToReset": {
+    "Array": []
+  },
+  "SavedStringsToReset": {
+    "Array": []
+  },
+  "SavedIntsToReset": {
+    "Array": []
+  },
+  "ResetLightworldInventory": 1,
+  "ResetDarkworldInventory": 1,
+  "NewLightworldInventory": {
+    "Array": []
+  },
+  "NewDarkworldInventory": {
+    "Array": [
+      {
+        "m_FileID": 3,
+        "m_PathID": 514
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 514
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 514
+      },
+      {
+        "m_FileID": 10,
+        "m_PathID": 256
+      },
+      {
+        "m_FileID": 10,
+        "m_PathID": 256
+      }
+    ]
+  },
+  "NewDarkworldKeyItems": {
+    "Array": [
+      {
+        "m_FileID": 11,
+        "m_PathID": 12
+      }
+    ]
+  },
+  "AllowShowTipText": 1
+}

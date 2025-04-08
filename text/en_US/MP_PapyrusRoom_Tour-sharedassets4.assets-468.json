@@ -1,0 +1,763 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "MP_PapyrusRoom_Tour",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "KRIS, SUSIE, LET US BEGIN OUR GRAND TOUR!!",
+            "THROUGH.. MY.. BEDROOM."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 445
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 604
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "FIRST IMPORTANT STOP ON THE JOURNEY...",
+            "BEHOLD, MY TRASH CAN!!",
+            "NOW, YOU MAY BE INCLINED TO THINK I USE IT..",
+            "YOU'D BE WRONG, AS A NOTE HERE READS..",
+            "\"CLOSED FOR RENOVATIONS\"",
+            "SO I'LL HAVE TO WAIT UNTIL THOSE ARE DONE.",
+            "Who's renovating your trash can?",
+            "GREAT QUESTION... THE ANSWER REMAINS A MYSTERY.."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 458
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 459
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 462
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 445
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 617
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 226
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "HERE IS MY RADICAL BED, PERFECT FOR SNOOZE CRUISES!",
+            "Whoa, is that thing... able to drive?",
+            "YOU HAVE A KEEN EYE! SADLY, IT DOESN'T DRIVE...",
+            "gas prices are too high around here."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 457
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 445
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 240
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 604
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 599
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "NEXT, FEAST YOUR EYES ON THIS ART PIECE!",
+            "SANS SCORED IT AT A GARAGE SALE RECENTLY.",
+            "\"Live, Laugh, Love\" ;What's that supposed to mean?",
+            "I BELIEVE IT TO HOLD A DEEPER MEANING..",
+            "THE SUN IS ALIVE AND IT LOVES LAUGHING!!!",
+            "perhaps it's just an inspirational message?",
+            "SHOULD I LOVE LAUGHING EVERY MOMENT I LIVE?!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 445
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 601
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "THIS IS WHERE ALL THE MAGIC HAPPENS, MY COMPUTER!",
+            "I'D LOVE TO SHOW ALL THE ADVENTURES I'VE BEEN ON..",
+            "BUT THE INTERNET IS OUT, I CAN'T LOG IN!!",
+            "(SANS MUST'VE FORGOTTEN TO PAY THE BILL!)"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 461
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 473
+            }
+          ]
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 604
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 474
+            }
+          ]
+        },
+        "Text": {
+          "Array": [
+            "AND THIS MY NEW FRIENDS, IS THE ONE AND ONLY..",
+            "WONDERFUL TABLE OF WACKY WHIMSICAL WONDERS!!",
+            "A VAST LAND FULL OF WHATEVER YOU IMAGINE!!",
+            "AND BEST OF ALL? ;YOU CAN BE WHOEVER YOU WISH!!",
+            "I DO HAVE AN.. UNRELATED QUESTION FOR YOU TWO.",
+            "WHAT FANTASY CLASSES WOULD YOU TWO BE?",
+            "Fantasy classes... ;Uh, maybe one that could do magic?",
+            "A MAGE! MASTER OF THE ARCANE ARTS, GREAT PICK!",
+            "AND YOU, KRIS? WHAT CLASS WOULD YOU BE?",
+            " "
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 617
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 604
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 604
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "WELL, THAT BRINGS US TO THE END OF THE TOUR!!",
+            "Hey, wait, what about the rest of the stuff on the table?",
+            "Y-YOU WANT TO KNOW MORE??",
+            "Yeah... it sounded kinda cool, and I like fantasy stuff.",
+            "... ONE... MOMENT."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 458
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 495
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 446
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "SUSIE. ;KRIS.",
+            "HOW WOULD YOU LIKE TO LEARN THE AGE-OLD GAME OF..."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 445
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 604
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 236
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 604
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "OVERWORLDS@;AND@;OGRES!!!!!",
+            "Eh, we've got time to kill. ~Sure, why not!",
+            "WONDERFUL! GATHER ROUND THE TABLE!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 445
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 604
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "ARE YOU FREE? @;;PERFECT!",
+            "YOU SHOULD COME OVER FOR A LITTLE O-A-O.",
+            "THERE ARE SOME NEW RECRUITS JOINING US!!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 445
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "APOLOGIES FOR THAT, BUT I HAVE GOOD NEWS.",
+            "A LEGENDARY WARRIOR, ALMOST AS GREAT AS ME..",
+            "... WILL BE JOINING US VERY SHORTLY.",
+            "IN THE MEAN TIME, YOU TWO HAVE A LOT TO LEARN!",
+            "BUT FRET NOT! ME AND SANS ARE WELL EQUIPPED TO TEACH."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 459
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 457
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 447
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

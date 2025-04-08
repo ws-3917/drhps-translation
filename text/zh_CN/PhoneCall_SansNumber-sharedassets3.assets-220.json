@@ -1,0 +1,375 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "PhoneCall_SansNumber",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（嘀嘀嘀，嘀嘀嘀...）",
+            "您好。",
+            "智障儿童热线现在正忙，\n请稍候再拨。",
+            "在您前面还有933人，\n请耐心等待。",
+            "（嘀...）"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（嘀嘀嘀，嘀嘀嘀...）",
+            "贵安。",
+            "智障儿童热线现在正忙，\n请稍候再拨。",
+            "在您前面还有932人，\n请耐心等待。",
+            "（嘀...）"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（嘀嘀嘀，嘀嘀嘀...）",
+            "哈喽。",
+            "智障儿童热线现在正忙，\n请稍候再拨。",
+            "在您前面还有931人\n请耐心等待。",
+            "（嘀...）"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（嘀嘀嘀，嘀嘀嘀...）",
+            "泥嚎。",
+            "智障儿童热线现在正忙，\n请稍候再拨。",
+            "在您前面还有930人，\n请耐心等待。",
+            "（嘀...）"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（嘀嘀嘀，嘀嘀嘀...）",
+            "嗨呀。",
+            "智障儿童热线现在正忙，\n请稍候再拨。",
+            "在您前面还有929人，\n请耐心等待。",
+            "（嘀...）"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（嘀嘀嘀，嘀嘀嘀...）",
+            "...",
+            "智障儿童热线现在正忙，\n请稍候再拨。",
+            "在您前面还有928人，\n请耐心等待。",
+            "（嘀...）"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（嘀嘀嘀，嘀嘀嘀...）",
+            "喂-喂...？",
+            "喂喂，听得见吗？",
+            "呃...@;这是给各位来电者的留言。",
+            "不得不告诉各位\n一个噩耗。",
+            "由于来电人数过多，\n智障儿童热线服务过载，\n被迫停止服务。",
+            "话费开销已经\n突破天际了...",
+            "我明白，这听着\n不是什么好事。",
+            "但是，真的不用担心。",
+            "说不定...\n我们跟不少智障儿童\n交上了朋友呢。",
+            "（嘀...）"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

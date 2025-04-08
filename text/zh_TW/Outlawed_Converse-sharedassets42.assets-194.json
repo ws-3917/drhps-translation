@@ -1,0 +1,279 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "Outlawed_Converse",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 8,
+              "m_PathID": 306
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 241
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 231
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 208
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 221
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 220
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 215
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 214
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 219
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "So, what are we saying everyone?",
+            "Should we help Sheriff Longshot with his troubles?",
+            "I don't know...@ something feels...@@ off.",
+            "Don't think I've forgotten about what he said a second ago!",
+            "In all fairness, he did apologize and he seems to be quite bothered.",
+            "What do you think, Kris?",
+            "Don't go worryin' yourself, pal.@ I see how this might seem.",
+            "Heh, ain't nobody trustin' some old coot pickin' locks neither!",
+            "I assure you folk, I ain't no outlaw.",
+            "Take a look over yonder, I'm the feller on that poster!"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 8,
+              "m_PathID": 314
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 208
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 240
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "I guess that proves his authenticity?",
+            "So there should be no cause for concern then, correct?",
+            "(Good guy or not, this dude is still weird.)"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 8,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 218
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 214
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 219
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 215
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Well...@ how can we help, Sheriff?",
+            "This door's locked up tighter than a cowboy's boot on a long trek!",
+            "If I ain't mistaken, the key shouldn't be too far off from here.",
+            "If ya can slip past the guards in the production lot...",
+            "You'll have no trouble pinchin' the master key from the main office!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 203
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 200
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 204
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 205
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 5,
+              "m_PathID": 241
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 306
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 221
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 219
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 214
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 215
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "What do we get out of this?",
+            "It being the right thing to do should be enough, Susie.",
+            "Well I'll be!@ Almost forgot to mention....",
+            "There's a shortcut to the Dark Fountain runnin' through here!",
+            "That'll wrap up yer trouble faster than a tumbleweed in a storm!",
+            "Should've said that in the first place. ~Let's go rob that key!",
+            "Yeehaw! ;Lead the way, Partners!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 200
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 201
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 204
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 201
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 205
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

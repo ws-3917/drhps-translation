@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 531
+  },
+  "m_Name": "Dark Candy",
+  "ItemName": "Dark Candy",
+  "InfoText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DropText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "UseText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Useable": 1,
+  "IsSharedItem": 0,
+  "RemoveOnUse": 1,
+  "TopbarInfo": "Heals 40 HP. A red-and-black star that tastes like marshmellows.",
+  "BattleInfo": "Heals 40HP",
+  "ItemUseSound": {
+    "m_FileID": 4,
+    "m_PathID": 1023
+  },
+  "CharacterDialogue": {
+    "KrisItemUsed_SusieDialogue": "",
+    "KrisItemUsed_RalseiDialogue": "",
+    "KrisItemUsed_NoelleDialogue": "",
+    "SusieItemUsed_SusieDialogue": "Yeahh!! That's good!",
+    "SusieItemUsed_RalseiDialogue": "",
+    "SusieItemUsed_NoelleDialogue": "",
+    "RalseiItemUsed_SusieDialogue": "Hey, feed ME!",
+    "RalseiItemUsed_RalseiDialogue": "Yummy!!! Marshmallows!!",
+    "RalseiItemUsed_NoelleDialogue": ""
+  },
+  "HealthAddition": 40
+}

@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 279
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1219
+  },
+  "m_Name": "",
+  "walkingSpeed": 15.0,
+  "runningSpeed": 15.0,
+  "jumpSpeed": 8.0,
+  "gravity": 20.0,
+  "playerCamera": {
+    "m_FileID": 0,
+    "m_PathID": 836
+  },
+  "lookSpeed": 2.0,
+  "lookXLimit": 45.0,
+  "Health": 100,
+  "ShotgunBobber": {
+    "m_FileID": 0,
+    "m_PathID": 1412
+  },
+  "ShotgunAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 1414
+  },
+  "CanFire": 1,
+  "SFX_Fire": {
+    "m_FileID": 2,
+    "m_PathID": 78
+  },
+  "SFX_Reload": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "SFX_Heal": {
+    "m_FileID": 2,
+    "m_PathID": 74
+  },
+  "DamageScreen": {
+    "m_FileID": 0,
+    "m_PathID": 1835
+  },
+  "UIHP_Hundreds": {
+    "m_FileID": 0,
+    "m_PathID": 1607
+  },
+  "UIHP_Tens": {
+    "m_FileID": 0,
+    "m_PathID": 1684
+  },
+  "UIHP_Digits": {
+    "m_FileID": 0,
+    "m_PathID": 1671
+  },
+  "UIHP_NumberSprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 116
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 118
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 92
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 124
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 88
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 97
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 95
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 99
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 132
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 114
+      }
+    ]
+  },
+  "NoSprite": {
+    "m_FileID": 5,
+    "m_PathID": 1456
+  },
+  "canMove": 1
+}

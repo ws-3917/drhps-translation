@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "debug_shaketest",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 52
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 52
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 55
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "俯看，俯看\n别正视他们眼\n俯看，俯看\n你在此到死前",
+            "老天呐，我干了啥？\n当个贼月黑风高，\n像条狗连滚带爬。\n难道我堕落太久，\n难道我已经没救？",
+            "看他们乱跑，\n等他们摔倒，\n天上馅饼掉，\n全看你捞多少，\n这里抓一把，\n那里刮一下，\n反正他们死啦，\n他们不牵挂！",
+            "如果说，落入法网，\n如果我沉默，良心丧！",
+            "数百个工人都在为我工作，\n都在指望我。\n我怎么能抛弃大伙儿，\n如果没有我\n他们怎么活？",
+            "去骗人？\n我要如何面对身边人们？\n我又该如何面对我自身？",
+            "我是谁？我是谁？\n是Jean Valjean！",
+            "我是谁？\n24601！"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

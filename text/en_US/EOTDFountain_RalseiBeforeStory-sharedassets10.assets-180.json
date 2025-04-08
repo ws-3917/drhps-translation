@@ -1,0 +1,129 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDFountain_RalseiBeforeStory",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 615
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 312
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 306
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 313
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 223
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 612
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 312
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Hey hold on, If this is the top of the castle...",
+            "... Where's your room?",
+            "...",
+            "Susie, This is my room.",
+            "Doesn't..@ look like a bedroom..",
+            "Well, I haven't had time to decorate it yet.",
+            "...",
+            "I apologize for sharing this so suddenly..",
+            "...?",
+            ""
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 173
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 173
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 177
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 173
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 178
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 150
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

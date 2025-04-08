@@ -1,0 +1,198 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 214
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1288
+  },
+  "m_Name": "",
+  "SettingsMenuOpen": 0,
+  "CurrentMenuState": 0,
+  "CurrentSelectedTab": 0,
+  "SelectableTabs": {
+    "Array": [
+      {
+        "Tab": {
+          "m_FileID": 0,
+          "m_PathID": 326
+        },
+        "TabBackground": {
+          "m_FileID": 0,
+          "m_PathID": 1812
+        },
+        "TabIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1736
+        },
+        "TabText": {
+          "m_FileID": 0,
+          "m_PathID": 1656
+        },
+        "Tabs_TargetSize": 0.0,
+        "TabToOpen": 0,
+        "SettingSection": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "Tab": {
+          "m_FileID": 0,
+          "m_PathID": 402
+        },
+        "TabBackground": {
+          "m_FileID": 0,
+          "m_PathID": 1847
+        },
+        "TabIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1733
+        },
+        "TabText": {
+          "m_FileID": 0,
+          "m_PathID": 1578
+        },
+        "Tabs_TargetSize": 0.0,
+        "TabToOpen": 1,
+        "SettingSection": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "Tab": {
+          "m_FileID": 0,
+          "m_PathID": 47
+        },
+        "TabBackground": {
+          "m_FileID": 0,
+          "m_PathID": 1681
+        },
+        "TabIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1734
+        },
+        "TabText": {
+          "m_FileID": 0,
+          "m_PathID": 1467
+        },
+        "Tabs_TargetSize": 0.0,
+        "TabToOpen": 2,
+        "SettingSection": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "Tab": {
+          "m_FileID": 0,
+          "m_PathID": 40
+        },
+        "TabBackground": {
+          "m_FileID": 0,
+          "m_PathID": 1674
+        },
+        "TabIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1797
+        },
+        "TabText": {
+          "m_FileID": 0,
+          "m_PathID": 1605
+        },
+        "Tabs_TargetSize": 0.0,
+        "TabToOpen": 3,
+        "SettingSection": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      }
+    ]
+  },
+  "Soul": {
+    "m_FileID": 0,
+    "m_PathID": 1100
+  },
+  "SettingSections": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1707
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1718
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1705
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1686
+      }
+    ]
+  },
+  "GonerMenu": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "NewMainMenu_ConsoleMenu": {
+    "m_FileID": 0,
+    "m_PathID": 441
+  },
+  "NewMainMenu_SettingsParentGameobject": {
+    "m_FileID": 0,
+    "m_PathID": 45
+  },
+  "CurrentSelectedTitle": {
+    "m_FileID": 0,
+    "m_PathID": 1643
+  },
+  "CurrentSelectedDescription": {
+    "m_FileID": 0,
+    "m_PathID": 1634
+  },
+  "source": {
+    "m_FileID": 0,
+    "m_PathID": 606
+  },
+  "SettingSound_Move": {
+    "m_FileID": 2,
+    "m_PathID": 168
+  },
+  "SettingSound_Select": {
+    "m_FileID": 2,
+    "m_PathID": 164
+  },
+  "SettingSound_Tick": {
+    "m_FileID": 4,
+    "m_PathID": 1050
+  },
+  "SettingSound_Blip": {
+    "m_FileID": 4,
+    "m_PathID": 1012
+  },
+  "SettingSound_BackOut": {
+    "m_FileID": 2,
+    "m_PathID": 149
+  },
+  "SettingSound_Explosion": {
+    "m_FileID": 4,
+    "m_PathID": 1007
+  },
+  "FontsAffectedByDyslexic": {
+    "Array": []
+  },
+  "defaultFont": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "dyslexicFont": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

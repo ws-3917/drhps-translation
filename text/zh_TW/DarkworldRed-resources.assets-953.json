@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 568
+  },
+  "m_Name": "DarkworldRed",
+  "colorMode": 2,
+  "topLeft": {
+    "r": 0.58431375,
+    "g": 0.37249452,
+    "b": 0.36862746,
+    "a": 1.0
+  },
+  "topRight": {
+    "r": 0.58431375,
+    "g": 0.37249452,
+    "b": 0.36862746,
+    "a": 1.0
+  },
+  "bottomLeft": {
+    "r": 1.0,
+    "g": 0.019191489,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "bottomRight": {
+    "r": 1.0,
+    "g": 0.019191489,
+    "b": 0.0,
+    "a": 1.0
+  }
+}

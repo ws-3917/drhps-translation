@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 179
+  },
+  "m_Name": "CH3Opening",
+  "HypothesisName": "幕後瑣事",
+  "HypothesisStartingScene": 45,
+  "HypothesisTagline": "Kris和Susie突然在暗世界醒來，聽到了觀眾們的竊竊私語。",
+  "HypothesisDescription": "根據我們收集到的開發情報，《三角符文》第三章開場將會如何呈現呢？",
+  "HypothesisMenuSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "HypothesisGoals": {
+    "Array": []
+  },
+  "TimeWhenWritten": "該猜想編寫於三角符文\n第三章第四章發售之前",
+  "HypotheticalReleased": 1,
+  "LogRewardedOnCompletion": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "LogRewardedOnGoalsCompleted": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

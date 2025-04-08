@@ -1,0 +1,412 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "OAO_Bridge",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 609
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 604
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 587
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 238
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 609
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 230
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 601
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 601
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 597
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 615
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 604
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "探險小隊繼續前進。\n走著走著，他們上了\n一座搖搖欲墜的木橋。",
+            "每個人都信心滿滿，\n他們就要到終點了。",
+            "我能感覺到，\n咱們就要成功了！",
+            "這麼一想，咱們的冒險\n有點太簡單了吧。",
+            "（Kris，\n我有不祥的預感。）",
+            "木橋開始搖晃，\n某個龐然大物\n正在靠近。",
+            "（你看，我就說嘛！）",
+            "我們能裝備武器\n準備迎戰嗎？？",
+            "不能。\n橋晃得太厲害了，\n站都站不穩。",
+            "那要不...撤退？？",
+            "那怎麼行！\n我們費了好大勁\n才到這裡呢！",
+            "不管前面是啥，\n我們都不怕。",
+            "大聲告訴我，\n你的名字是什麼！",
+            "我是—— 蔚藍獵鷹？",
+            "正是。\n那麼你呢，SUSIE？",
+            "我是\n神秘的Susira...",
+            "而KRIS...\n就是KRIS自己。",
+            "我呢，則是偉大的\n至聖騎士VARROCK！",
+            "不論前方還有\n什麼艱難險阻...",
+            "齊心協力，\n最終必有神跡！！！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 556
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 564
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 500
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 574
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 554
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 558
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 569
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 569
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 556
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 551
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 555
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 573
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 552
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 553
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 578
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 560
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 577
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 560
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 572
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 576
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 566
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 566
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 576
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 564
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 570
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 229
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "一條巨龍飛至上空，\n突然朝橋上猛衝下來。\n第一回合，是它的。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 578
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 558
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

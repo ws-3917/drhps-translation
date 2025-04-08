@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 178
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 473
+  },
+  "m_Name": "",
+  "DebugModeEnabled": 0,
+  "DebugCanvas": {
+    "m_FileID": 0,
+    "m_PathID": 143
+  },
+  "DebugConsoleOutput": {
+    "m_FileID": 0,
+    "m_PathID": 1448
+  },
+  "SpeedUpIcon": {
+    "m_FileID": 0,
+    "m_PathID": 458
+  },
+  "controls": "\n---------------------------------------\n<color=yellow>DEBUG CONTROLS</color>\n\nB+D+Enter = Debug mode (Toggleable)\nB+D+P = Toggle Output Log (Toggleable)\nB+D+G = 100x Speed (Toggleable)\nB+D+H = 0.1x Speed (Toggleable)\nF8 = Save previous error to TXT file\nALT+F4 = Unlock all secrets and logs\nKey_Up = Refresh Current Chatbox\nKey_Left = Advance Backwards in Chatbox",
+  "DebugFPSCounter": {
+    "m_FileID": 0,
+    "m_PathID": 1475
+  },
+  "debugSource": {
+    "m_FileID": 0,
+    "m_PathID": 528
+  },
+  "sfx_fiddlesticks": {
+    "m_FileID": 2,
+    "m_PathID": 1051
+  }
+}

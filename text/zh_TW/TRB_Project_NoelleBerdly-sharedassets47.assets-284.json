@@ -1,0 +1,590 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "TRB_Project_NoelleBerdly",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 592
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 587
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 593
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 596
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Ahem!@ Fellow students, esteemed educator, and...@ uh...@ others.",
+            "Today we shall unveil a report so revolutionary...",
+            "... It will change the way you view society itself!",
+            "Video games...@ make@ you@ SMARTER!!!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 275
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 274
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 273
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 281
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 280
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 281
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 13,
+              "m_PathID": 501
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 330
+            },
+            {
+              "m_FileID": 13,
+              "m_PathID": 512
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 596
+            },
+            {
+              "m_FileID": 13,
+              "m_PathID": 503
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 587
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Um, what Berdly means to say is...",
+            "Video games can actually improve cognitive skills in a variety of ways!",
+            "For example, action games boost hand-eye coordination.",
+            "Such as precisely aiming at enemies on the battlefield!",
+            "Gaming can also help reaction speed and spatial awareness.",
+            "In the real world, we could dodge attacks much easier than in-game!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 280
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 274
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 275
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 278
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 275
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 281
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 280
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 281
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 586
+            },
+            {
+              "m_FileID": 15,
+              "m_PathID": 149
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 331
+            },
+            {
+              "m_FileID": 13,
+              "m_PathID": 503
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 593
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Ack!! ;I-I was distracted, that was an unfair test!!",
+            "N-No throwing duct tape across the classroom, Susie!",
+            "...Back on track.@ Games also teach problem solving and logic.",
+            "Strategy games require planning, patience, and adaptation.",
+            "Exactly! @You analyze, predict, and make the best choice!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 274
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 287
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 288
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 275
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 280
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 274
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 13,
+              "m_PathID": 507
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 593
+            },
+            {
+              "m_FileID": 13,
+              "m_PathID": 501
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 591
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 332
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 589
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 588
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Even puzzle games teach pattern recognition and reasoning.",
+            "And RPGs require managing resources and decision-making!",
+            "There are also social benefits. @Multiplayer games teach teamwork!",
+            "Like a soldier, you must work as a team to defend your fortress, together!",
+            "It can even help shy people feel more comfortable talking.",
+            "And sometimes, players form REAL friendships online!!",
+            "Of course, some still refuse to listen to an expert's advice..."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 280
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 275
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 274
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 277
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 274
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 273
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 280
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 13,
+              "m_PathID": 508
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 13,
+              "m_PathID": 503
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 587
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Berdly.",
+            "Yes, dear Noelle?",
+            "Not every player needs your \"expert\" advice.",
+            "Incorrect. ;But alas, we shall continue."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 275
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 274
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 283
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

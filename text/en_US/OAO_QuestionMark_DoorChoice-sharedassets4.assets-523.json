@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 182
+  },
+  "m_Name": "OAO_QuestionMark_DoorChoice",
+  "DefaultSelectedChoice": 0,
+  "Choices": {
+    "Array": [
+      "Left Door",
+      "Right Door"
+    ]
+  },
+  "CanBackOut": 0,
+  "ShowOnTextScrollFinish": 0,
+  "ChoiceCharacterReference": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ChoiceTextResults": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 521
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 521
+      }
+    ]
+  },
+  "ChoicePositions": {
+    "Array": [
+      {
+        "x": -400.0,
+        "y": -82.5
+      },
+      {
+        "x": 100.0,
+        "y": -82.5
+      }
+    ]
+  }
+}

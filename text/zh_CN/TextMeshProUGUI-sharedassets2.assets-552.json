@@ -1,0 +1,173 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 303
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1632
+  },
+  "m_Name": "",
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_RaycastTarget": 1,
+  "m_RaycastPadding": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_Maskable": 1,
+  "m_OnCullStateChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "m_text": "实验初期，我们中不少人认为，这次实验模拟的世界只是对故乡的简单复刻。尽管彼此的记忆联系比较微弱，但模拟特定实体时，却会一同产生强烈的思乡之情。\n\n实验一切正常。为了保证宿主KRIS能够受到持续控制，我们严格遵照KRIS原本的生活作息。\n\n某日，KRIS照例进入教室，并被安排与“SUSIE”一同前往储物间取粉笔。\n\n正常来说，KRIS会前往储物间，取走一支粉笔。而SUSIE则会独吞剩余的粉笔，全身蒙尘，使自己的怪癖暴露无遗。\n\n可这次，意外发生了。\n\n进入储物间后，二人突然坠落。他们似乎跌到了“视界”之外，无法观测。视觉信号在此中断，过了许久才恢复，随后...\n\n模拟系统突然崩溃。\n\n最后的残像中，只剩一片被黑暗笼罩的阴森怪石。",
+  "m_isRightToLeft": 0,
+  "m_fontAsset": {
+    "m_FileID": 0,
+    "m_PathID": 509
+  },
+  "m_sharedMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 2
+  },
+  "m_fontSharedMaterials": {
+    "Array": []
+  },
+  "m_fontMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_fontMaterials": {
+    "Array": []
+  },
+  "m_fontColor32": {
+    "rgba": 4278190080
+  },
+  "m_fontColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "m_enableVertexGradient": 0,
+  "m_colorMode": 3,
+  "m_fontColorGradient": {
+    "topLeft": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "topRight": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "bottomLeft": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "bottomRight": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    }
+  },
+  "m_fontColorGradientPreset": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_spriteAsset": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_tintAllSprites": 0,
+  "m_StyleSheet": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_TextStyleHashCode": -1183493901,
+  "m_overrideHtmlColors": 0,
+  "m_faceColor": {
+    "rgba": 4294967295
+  },
+  "m_fontSize": 18.0,
+  "m_fontSizeBase": 18.0,
+  "m_fontWeight": 400,
+  "m_enableAutoSizing": 0,
+  "m_fontSizeMin": 18.0,
+  "m_fontSizeMax": 72.0,
+  "m_fontStyle": 16,
+  "m_HorizontalAlignment": 1,
+  "m_VerticalAlignment": 256,
+  "m_textAlignment": 65535,
+  "m_characterSpacing": 0.0,
+  "m_wordSpacing": 0.0,
+  "m_lineSpacing": 0.0,
+  "m_lineSpacingMax": 0.0,
+  "m_paragraphSpacing": 0.0,
+  "m_charWidthMaxAdj": 0.0,
+  "m_enableWordWrapping": 1,
+  "m_wordWrappingRatios": 0.4,
+  "m_overflowMode": 0,
+  "m_linkedTextComponent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "parentLinkedComponent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_enableKerning": 1,
+  "m_enableExtraPadding": 0,
+  "checkPaddingRequired": 0,
+  "m_isRichText": 1,
+  "m_parseCtrlCharacters": 1,
+  "m_isOrthographic": 1,
+  "m_isCullingEnabled": 0,
+  "m_horizontalMapping": 0,
+  "m_verticalMapping": 0,
+  "m_uvLineOffset": 0.0,
+  "m_geometrySortingOrder": 0,
+  "m_IsTextObjectScaleStatic": 0,
+  "m_VertexBufferAutoSizeReduction": 0,
+  "m_useMaxVisibleDescender": 1,
+  "m_pageToDisplay": 1,
+  "m_margin": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_isUsingLegacyAnimationComponent": 0,
+  "m_isVolumetricText": 0,
+  "m_hasFontAssetChanged": 0,
+  "m_baseMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_maskOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  }
+}

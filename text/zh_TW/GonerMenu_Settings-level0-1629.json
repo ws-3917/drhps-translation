@@ -1,0 +1,367 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 184
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1288
+  },
+  "m_Name": "",
+  "SettingsMenuOpen": 0,
+  "CurrentMenuState": 0,
+  "CurrentSelectedTab": 0,
+  "SelectableTabs": {
+    "Array": [
+      {
+        "Tab": {
+          "m_FileID": 0,
+          "m_PathID": 284
+        },
+        "TabBackground": {
+          "m_FileID": 0,
+          "m_PathID": 1682
+        },
+        "TabIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1678
+        },
+        "TabText": {
+          "m_FileID": 0,
+          "m_PathID": 1381
+        },
+        "Tabs_TargetSize": 0.0,
+        "TabToOpen": 0,
+        "SettingSection": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "Tab": {
+          "m_FileID": 0,
+          "m_PathID": 439
+        },
+        "TabBackground": {
+          "m_FileID": 0,
+          "m_PathID": 1758
+        },
+        "TabIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1778
+        },
+        "TabText": {
+          "m_FileID": 0,
+          "m_PathID": 1503
+        },
+        "Tabs_TargetSize": 0.0,
+        "TabToOpen": 1,
+        "SettingSection": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "Tab": {
+          "m_FileID": 0,
+          "m_PathID": 5
+        },
+        "TabBackground": {
+          "m_FileID": 0,
+          "m_PathID": 1535
+        },
+        "TabIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1766
+        },
+        "TabText": {
+          "m_FileID": 0,
+          "m_PathID": 1393
+        },
+        "Tabs_TargetSize": 0.0,
+        "TabToOpen": 2,
+        "SettingSection": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "Tab": {
+          "m_FileID": 0,
+          "m_PathID": 453
+        },
+        "TabBackground": {
+          "m_FileID": 0,
+          "m_PathID": 1770
+        },
+        "TabIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1553
+        },
+        "TabText": {
+          "m_FileID": 0,
+          "m_PathID": 1364
+        },
+        "Tabs_TargetSize": 0.0,
+        "TabToOpen": 3,
+        "SettingSection": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      }
+    ]
+  },
+  "Soul": {
+    "m_FileID": 0,
+    "m_PathID": 1277
+  },
+  "SettingSections": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1724
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1630
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1608
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1610
+      }
+    ]
+  },
+  "GonerMenu": {
+    "m_FileID": 0,
+    "m_PathID": 1646
+  },
+  "NewMainMenu_ConsoleMenu": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "NewMainMenu_SettingsParentGameobject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CurrentSelectedTitle": {
+    "m_FileID": 0,
+    "m_PathID": 1417
+  },
+  "CurrentSelectedDescription": {
+    "m_FileID": 0,
+    "m_PathID": 1491
+  },
+  "source": {
+    "m_FileID": 0,
+    "m_PathID": 529
+  },
+  "SettingSound_Move": {
+    "m_FileID": 2,
+    "m_PathID": 1013
+  },
+  "SettingSound_Select": {
+    "m_FileID": 2,
+    "m_PathID": 1008
+  },
+  "SettingSound_Tick": {
+    "m_FileID": 2,
+    "m_PathID": 1050
+  },
+  "SettingSound_Blip": {
+    "m_FileID": 2,
+    "m_PathID": 1012
+  },
+  "SettingSound_BackOut": {
+    "m_FileID": 2,
+    "m_PathID": 1043
+  },
+  "SettingSound_Explosion": {
+    "m_FileID": 2,
+    "m_PathID": 1007
+  },
+  "FontsAffectedByDyslexic": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1402
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1417
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1491
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1381
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1503
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1393
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1364
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1428
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1447
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1383
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1502
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1500
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1517
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1433
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1414
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1481
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1459
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1430
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1373
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1366
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1404
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1526
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1457
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1531
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1471
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1442
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1487
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1498
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1391
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1346
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1356
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1358
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1518
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1423
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1409
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1421
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1399
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1375
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1483
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1470
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1478
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1419
+      }
+    ]
+  },
+  "defaultFont": {
+    "m_FileID": 2,
+    "m_PathID": 2559
+  },
+  "dyslexicFont": {
+    "m_FileID": 2,
+    "m_PathID": 2563
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 90
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 78
+  },
+  "m_Name": "",
+  "PlayerCamera": {
+    "m_FileID": 0,
+    "m_PathID": 341
+  },
+  "LevelCameraTrigger": {
+    "m_FileID": 0,
+    "m_PathID": 77
+  },
+  "Kris": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Ralsei": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Asgore": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "AsgorePartyMemberReference": {
+    "m_FileID": 2,
+    "m_PathID": 192
+  },
+  "Longshot": {
+    "m_FileID": 0,
+    "m_PathID": 226
+  },
+  "Longshot_Follower": {
+    "m_FileID": 0,
+    "m_PathID": 330
+  },
+  "LongshotExclamationMark": {
+    "m_FileID": 0,
+    "m_PathID": 288
+  },
+  "LongshotWrongDirectionTrigger": {
+    "m_FileID": 0,
+    "m_PathID": 75
+  },
+  "CutsceneDialogue": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 197
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 196
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 194
+      }
+    ]
+  },
+  "CutsceneHasStarted": 0,
+  "CutsceneSounds": {
+    "Array": [
+      {
+        "m_FileID": 8,
+        "m_PathID": 79
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 1036
+      }
+    ]
+  },
+  "mus_longshot": {
+    "m_FileID": 2,
+    "m_PathID": 79
+  },
+  "mus_greenroom": {
+    "m_FileID": 2,
+    "m_PathID": 80
+  },
+  "walktolongshot_kris_targetPos": {
+    "x": -3.5,
+    "y": -0.85
+  },
+  "walktolongshot_susie_targetPos": {
+    "x": -4.75,
+    "y": 0.0
+  },
+  "walktolongshot_ralsei_targetPos": {
+    "x": -4.75,
+    "y": -1.75
+  },
+  "walktolongshot_asgore_targetPos": {
+    "x": -6.0,
+    "y": -0.85
+  },
+  "introduceself_longshot_targetPos": {
+    "x": 1.25,
+    "y": -1.05
+  }
+}

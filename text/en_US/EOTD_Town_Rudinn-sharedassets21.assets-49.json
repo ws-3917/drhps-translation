@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTD_Town_Rudinn",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 9,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 301
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Oho.@ Welcome home.",
+            "&Town is in disarray!"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 9,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 301
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "This was a dream that grew with love and care.",
+            "The time to wake up grows closer, but remember this...",
+            "... There will always be another night in which you can dream again!"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

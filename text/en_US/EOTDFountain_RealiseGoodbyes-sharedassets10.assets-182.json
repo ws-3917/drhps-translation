@@ -1,0 +1,197 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDFountain_RealiseGoodbyes",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 8,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2588
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 316
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 213
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 214
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 306
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 221
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 611
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Oh! We need to say our final goodbyes to everyone!",
+            "... Does everyone in town know whats happening?",
+            "Yes, I've told everybody.",
+            "It was... @difficult, to say the least.",
+            "Luckily, Lancer set out to try and calm everybody.",
+            "... I trust his unwavering optimism.",
+            "How did he take the news?",
+            "Well at first he thought I was joking,",
+            "... Until I started crying..",
+            "Not too long after, he realized I wasn't and joined in..",
+            "However,@ once I told him that it would save the Lightworld..",
+            "... He was almost instantly onboard and ready to help!",
+            "Yeah, that's Lancer alright!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 179
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 174
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 173
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 175
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 173
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 177
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 174
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 175
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 166
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 173
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 174
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 152
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 213
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 306
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Alright Kris,",
+            "... Lead the way one last time!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 173
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 152
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTD_TrainingArea_Postcard",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 170
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 171
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 236
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 169
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 614
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 138
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 306
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 168
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 175
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "啊 Susie 親\n我 差點 忘了",
+            "Lancer 在 睡著 之前\n要 把 這個 給你 來著",
+            "啥啊？",
+            "一封告別明信片，;我幫他寫了點。",
+            "啊，好耶！",
+            "那太好了！\n但是你們估計也知道...",
+            "...我們還有別的事。",
+            "是啊，嗯，\n該來的總要來。",
+            "我要把 這一刻 保存 到\n我的 剪輯 文件夾 中\n作為 紀念",
+            "（你獲得了<color=yellow><gradient=\"DarkworldYellow\">明信片</color></gradient>。）"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 154
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 155
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 144
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 157
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 147
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 152
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

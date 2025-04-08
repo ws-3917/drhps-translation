@@ -1,0 +1,318 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDTown_RalseiWelcomeBack",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 307
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 611
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 236
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 315
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 305
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 611
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 308
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 236
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 305
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 239
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 615
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 239
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 239
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 309
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 316
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 306
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 315
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 314
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 312
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 312
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 233
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 239
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 313
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 612
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "我還以為你永遠也\n回不來了！",
+            "整得行啊，\n小組作業還沒完成，\n就把我們都一腳踹開！",
+            "哎呀，學校功課\n還是不能落下啊！",
+            "哈哈，@那麼...",
+            "你的小組作業\n做得怎麼樣了？",
+            "行了，小愛因斯坦，\n回答我一個問題...",
+            "（愛音...啥玩意？）",
+            "字母表的第一個字母\n是什麼？",
+            "我知道！;是A，絕對是！",
+            "很好...在它後面再帶個加。",
+            "A...@加...",
+            "嗯！;A+？！",
+            "哈，太好了，最高分！",
+            "哇！;我太驕傲了！！;太棒了！",
+            "為了拿到這個成績，\nAlphys老師花了\n好長時間...",
+            "...去確認我們不是抄的！",
+            "快看Berdly的表情！;他才得了個B！！",
+            "哈哈...\n倒不能怪你們老師不好。",
+            "畢竟...你倆這段時間\n確實成長了很多！",
+            "以前成天翹課，\n現在卻突飛猛進，\n考了最高分？！",
+            "真是太牛逼了！！\n上了大學，走著瞧！",
+            "哦，哈哈...\n@是啊，是啊...",
+            "...怎麼了？",
+            "抱歉，只是...@\n我突然想到件事！",
+            "...",
+            "你倆能跟我來一下嗎？",
+            "我有樣...\n@很重要的東西...\n@要給你倆看。",
+            "哦？",
+            "哦！;這不是蛋糕嘛？\n有什麼要慶祝的？！",
+            "很遺憾，不是要開慶典。",
+            "...？"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 290
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 284
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 293
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 284
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 291
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 284
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 292
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 291
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 283
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 284
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 282
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 284
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 284
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 287
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 288
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 276
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

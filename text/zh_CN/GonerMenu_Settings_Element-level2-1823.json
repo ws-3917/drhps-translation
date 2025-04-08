@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 346
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1199
+  },
+  "m_Name": "",
+  "SettingsElementName": "简化视觉特效",
+  "SettingsDescription": "调整视觉效果，\n减少性能开销，\n使特效更柔和。",
+  "CurrentlySelected": 0,
+  "CanBeCanceled": 1,
+  "RawImages_AffectedByColor": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1697
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1852
+      }
+    ]
+  },
+  "TMP_AffectedByColor": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1511
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "Greet_Papyrus",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 601
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 226
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 231
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 599
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 225
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 232
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 231
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 224
+            }
+          ]
+        },
+        "Choice": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Text": {
+          "Array": [
+            "SANS！你這時候找我幹啥！",
+            "打擾了，兄弟，不過有人找你有事。",
+            "啥？！",
+            "...",
+            "還沒到把電腦還回圖書館的日期吧？",
+            "你說什麼？#我們來可不是為了這個的！",
+            "呼！",
+            "好吧...@\nSANS，他們是誰？",
+            "你一直想找人聊天，對吧？",
+            "嗯...確實...",
+            "你也知道，我接管這個世界需要有人幫我！！",
+            "？！",
+            "我是說...在《龍夾克》中...",
+            "呵。",
+            "好了，我先走了，你們仨慢慢制定你們的邪惡計劃吧。",
+            "有事叫我就行。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 18
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 19
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 25
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 20
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 21
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 20
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 19
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 14
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

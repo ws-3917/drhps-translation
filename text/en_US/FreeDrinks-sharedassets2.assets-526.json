@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 179
+  },
+  "m_Name": "FreeDrinks",
+  "HypothesisName": "Free Drinks",
+  "HypothesisStartingScene": 39,
+  "HypothesisTagline": "ICE-E's is offering free drinks for all paying customers!",
+  "HypothesisDescription": "What if the (as of writing) unnamed cup character first teased in the DELTARUNE Winter 2024 Newsletter was an enemy you fought in the Dark World?",
+  "HypothesisMenuSprite": {
+    "m_FileID": 0,
+    "m_PathID": 232
+  },
+  "HypothesisGoals": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 528
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 527
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 529
+      }
+    ]
+  },
+  "TimeWhenWritten": "this Hypothetical was written before DELTARUNE Chapters 3 & 4's release",
+  "HypotheticalReleased": 1,
+  "LogRewardedOnCompletion": {
+    "m_FileID": 0,
+    "m_PathID": 513
+  },
+  "LogRewardedOnGoalsCompleted": {
+    "m_FileID": 0,
+    "m_PathID": 514
+  }
+}

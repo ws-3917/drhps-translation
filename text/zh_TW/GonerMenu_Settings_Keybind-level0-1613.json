@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 149
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1611
+  },
+  "m_Name": "",
+  "AssosciatedElement": {
+    "m_FileID": 0,
+    "m_PathID": 1614
+  },
+  "KeybindText": {
+    "m_FileID": 0,
+    "m_PathID": 1423
+  },
+  "IgnoreGonerMenuOpenState": 0,
+  "IgnoredGonerSettingsManager": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "KeyBinding": "Key_Sprint",
+  "DefaultKeyBinding": 0
+}

@@ -1,0 +1,318 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDTown_RalseiWelcomeBack",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 307
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 611
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 236
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 315
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 305
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 611
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 308
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 236
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 305
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 239
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 615
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 239
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 239
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 309
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 316
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 306
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 315
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 314
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 312
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 312
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 233
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 239
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 313
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 612
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "I was beginning to fear you'd never return!",
+            "Was considering it, you banned us until we finished our project!",
+            "Well, School work is important!",
+            "Heh,@ well about that..",
+            "How did you do on your group project?",
+            "Alright Einstein, answer this... ",
+            "(Ein-.. who?)",
+            "What's the first letter of the alphabet?",
+            "I know this one!;A, final answer!",
+            "Great.. now add a plus at the end.",
+            "A..@plus..",
+            "Wait!;A plus?!",
+            "Haha yeah, top grade!",
+            "Wow!;I'm so proud!!;Great job!",
+            "And get this, Miss Alphys had to triple check ours,",
+            "... to make sure we didn't copy!!",
+            "The look on Berdly's face was priceless!~He only got a B!!",
+            "Haha, well, can't say I blame your teacher,",
+            "... you two have grown so much recently!",
+            "From skipping school to the highest grades possible?!",
+            "Damn right!! Just you wait 'till we're in college!",
+            "Oh..@haha yes,@ of course..",
+            "Is.. something wrong?",
+            "Sorry, I just..@ remembered something!",
+            "...",
+            "Could you two follow me please.",
+            "I have something..@important..@ to show you.",
+            "Huh?",
+            "Oh!;Is it a celebatory cake?!",
+            "No, unfortunately not.",
+            "..?"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 290
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 284
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 293
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 284
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 291
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 284
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 292
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 289
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 291
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 283
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 284
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 286
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 282
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 284
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 285
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 284
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 287
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 288
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 276
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

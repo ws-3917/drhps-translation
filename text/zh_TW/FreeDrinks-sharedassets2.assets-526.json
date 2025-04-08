@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 179
+  },
+  "m_Name": "FreeDrinks",
+  "HypothesisName": "免費飲料",
+  "HypothesisStartingScene": 39,
+  "HypothesisTagline": "ICE-E為所有付費顧客提供免費飲料！",
+  "HypothesisDescription": "（截至撰寫本文時）如果三角符文2024年冬季郵件中首次透露的無名杯子是在暗世界中戰鬥的敵人，會發生什麼？",
+  "HypothesisMenuSprite": {
+    "m_FileID": 0,
+    "m_PathID": 232
+  },
+  "HypothesisGoals": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 528
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 527
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 529
+      }
+    ]
+  },
+  "TimeWhenWritten": "該猜想編寫於三角符文\n第三章第四章發售之前",
+  "HypotheticalReleased": 1,
+  "LogRewardedOnCompletion": {
+    "m_FileID": 0,
+    "m_PathID": 513
+  },
+  "LogRewardedOnGoalsCompleted": {
+    "m_FileID": 0,
+    "m_PathID": 514
+  }
+}

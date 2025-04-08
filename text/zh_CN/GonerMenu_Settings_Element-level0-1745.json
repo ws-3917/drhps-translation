@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 408
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1199
+  },
+  "m_Name": "",
+  "SettingsElementName": "暂停",
+  "SettingsDescription": "用于暂停游戏。",
+  "CurrentlySelected": 0,
+  "CanBeCanceled": 0,
+  "RawImages_AffectedByColor": {
+    "Array": []
+  },
+  "TMP_AffectedByColor": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1409
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1421
+      }
+    ]
+  }
+}

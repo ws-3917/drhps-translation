@@ -1,0 +1,115 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "Livingroom_papdoor",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 222
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 227
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 222
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 227
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 222
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 227
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 222
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "(It's a lengthy note accompanied by multiple flower stickers.)",
+            "SANS! STOP PUTTING FLOWER STICKERS ON MY DOOR!",
+            "sure.",
+            "DON'T REPLACE THEM WITH BEE STICKERS!",
+            "okay.",
+            "SKULL STICKERS?!;WHAT HAPPENED TO THE BEES?!",
+            "bees need flowers.",
+            "FINE!;YOU MAY PLACE.. TWO FLOWER STICKERS.",
+            "(The note is signed with an additional flower sticker.)"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Choice": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Text": {
+          "Array": [
+            "(A trousle of bones roars louder...)"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

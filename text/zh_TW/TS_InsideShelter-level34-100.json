@@ -1,0 +1,133 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1303
+  },
+  "m_Name": "",
+  "playerCamera": {
+    "m_FileID": 0,
+    "m_PathID": 105
+  },
+  "playerTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "KrisAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 74
+  },
+  "Vessel": {
+    "m_FileID": 0,
+    "m_PathID": 109
+  },
+  "Kris_TenseController": {
+    "m_FileID": 6,
+    "m_PathID": 40
+  },
+  "CameraFollowBB_Top": 31.0,
+  "CameraFollowBB_Bottom": 0.0,
+  "CameraFollowingEnabled": 1,
+  "CurrentInsideShelterState": 0,
+  "CutsceneIndex": 0,
+  "CutsceneChatter": {
+    "m_FileID": 0,
+    "m_PathID": 101
+  },
+  "CutsceneChats": {
+    "Array": [
+      {
+        "m_FileID": 3,
+        "m_PathID": 320
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 306
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 291
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 309
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 308
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 298
+      }
+    ]
+  },
+  "KrisChatter": {
+    "m_FileID": 0,
+    "m_PathID": 103
+  },
+  "blackFade": {
+    "m_FileID": 0,
+    "m_PathID": 18
+  },
+  "KrisCollisionBlock": {
+    "m_FileID": 0,
+    "m_PathID": 31
+  },
+  "KrisCollisionBlock2": {
+    "m_FileID": 0,
+    "m_PathID": 21
+  },
+  "shelterWind": {
+    "m_FileID": 3,
+    "m_PathID": 142
+  },
+  "ReluctantGuest1": {
+    "m_FileID": 3,
+    "m_PathID": 143
+  },
+  "ReluctantGuest2": {
+    "m_FileID": 3,
+    "m_PathID": 140
+  },
+  "ReluctantGuest3": {
+    "m_FileID": 3,
+    "m_PathID": 141
+  },
+  "SecondaryMusicSource": {
+    "m_FileID": 0,
+    "m_PathID": 72
+  },
+  "CutsceneSource": {
+    "m_FileID": 0,
+    "m_PathID": 73
+  },
+  "HeartRipClips": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 1047
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 1031
+      },
+      {
+        "m_FileID": 7,
+        "m_PathID": 95
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 144
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 1050
+      }
+    ]
+  }
+}

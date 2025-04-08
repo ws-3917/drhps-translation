@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1002
+  },
+  "m_Name": "testreaction 4",
+  "Reaction": {
+    "Array": [
+      {
+        "Character": {
+          "m_FileID": 8,
+          "m_PathID": 605
+        },
+        "Text": "I'M THE KNIGHT!!",
+        "Offset": {
+          "x": -480.0,
+          "y": -80.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 11,
+          "m_PathID": 139
+        },
+        "Text": "Im supposed to be spamton, no icon :(",
+        "Offset": {
+          "x": -80.0,
+          "y": -80.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 0,
+          "m_PathID": 50
+        },
+        "Text": "hi!! :3 hallo!! heyy!! yoo!!",
+        "Offset": {
+          "x": 105.0,
+          "y": 50.0
+        }
+      }
+    ]
+  }
+}

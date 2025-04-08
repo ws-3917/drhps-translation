@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 14
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 884
+  },
+  "m_Name": "",
+  "SavedFloatsToReset": {
+    "Array": []
+  },
+  "SavedStringsToReset": {
+    "Array": []
+  },
+  "SavedIntsToReset": {
+    "Array": [
+      {
+        "PP_IntName": "PapyrusMeet_AmbushCutscene",
+        "PP_Value": 0
+      },
+      {
+        "PP_IntName": "PapyrusMeet_ComicSwan",
+        "PP_Value": 0
+      }
+    ]
+  },
+  "ResetLightworldInventory": 1,
+  "ResetDarkworldInventory": 0,
+  "NewLightworldInventory": {
+    "Array": [
+      {
+        "m_FileID": 3,
+        "m_PathID": 247
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 256
+      }
+    ]
+  },
+  "NewDarkworldInventory": {
+    "Array": []
+  },
+  "NewDarkworldKeyItems": {
+    "Array": []
+  },
+  "AllowShowTipText": 1
+}

@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 235
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 134
+  },
+  "m_Name": "",
+  "EnableRandomFlipVarient": 0,
+  "EnableDelayedTimer": 0,
+  "Droplet": {
+    "m_FileID": 0,
+    "m_PathID": 243
+  },
+  "DropletSpawnPosition": {
+    "m_FileID": 0,
+    "m_PathID": 322
+  },
+  "DropletSpawnRadius": 1.0,
+  "DropletEndArcPosition": {
+    "m_FileID": 0,
+    "m_PathID": 293
+  },
+  "CupAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 356
+  },
+  "SplashSounds": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 78
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 74
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 79
+      }
+    ]
+  },
+  "CupRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 384
+  },
+  "LiquidRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 391
+  },
+  "DropletsPerSplash": 3,
+  "AmountOfSplashes": 6,
+  "AttackTime": 7.5
+}

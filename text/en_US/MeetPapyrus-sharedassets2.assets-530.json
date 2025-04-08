@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 179
+  },
+  "m_Name": "MeetPapyrus",
+  "HypothesisName": "Overworlds and Ogres",
+  "HypothesisStartingScene": 3,
+  "HypothesisTagline": "Meet a new friend and set off on a grand adventure(s)!",
+  "HypothesisDescription": "What would an in-universe interaction with the (as of writing) still undisclosed Papyrus be like? This is assuming that he isn't some sort of villainous foe.",
+  "HypothesisMenuSprite": {
+    "m_FileID": 0,
+    "m_PathID": 227
+  },
+  "HypothesisGoals": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 531
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 532
+      }
+    ]
+  },
+  "TimeWhenWritten": "this Hypothetical was written before DELTARUNE Chapters 3 & 4's release",
+  "HypotheticalReleased": 1,
+  "LogRewardedOnCompletion": {
+    "m_FileID": 0,
+    "m_PathID": 512
+  },
+  "LogRewardedOnGoalsCompleted": {
+    "m_FileID": 0,
+    "m_PathID": 519
+  }
+}

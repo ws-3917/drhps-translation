@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1517
+  },
+  "m_Name": "multipleactiontest_4",
+  "PlaySound": 1,
+  "PossibleSounds": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 12
+      }
+    ]
+  },
+  "RunComponentFunction": 1,
+  "TargetComponentGameObjectName": "-= Player =-",
+  "TargetComponentClassname": "PlayerManager",
+  "FunctionName": "PlayerPrintDebugTest_One",
+  "SubActions": {
+    "Array": [
+      {
+        "TargetComponentGameObjectName": "-= Player =-",
+        "TargetComponentClassname": "PlayerManager",
+        "FunctionName": "PlayerPrintDebugTest_Two",
+        "RunActionOnChatEnd": 0
+      },
+      {
+        "TargetComponentGameObjectName": "-= Player =-",
+        "TargetComponentClassname": "PlayerManager",
+        "FunctionName": "PlayerPrintDebugTest_Three",
+        "RunActionOnChatEnd": 0
+      }
+    ]
+  },
+  "RunActionOnChatEnd": 0
+}

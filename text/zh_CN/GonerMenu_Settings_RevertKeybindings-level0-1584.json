@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 108
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1123
+  },
+  "m_Name": "",
+  "AssosciatedElement": {
+    "m_FileID": 0,
+    "m_PathID": 1583
+  },
+  "SettingText": {
+    "m_FileID": 0,
+    "m_PathID": 1430
+  },
+  "Keybindings": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1747
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1674
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1643
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1560
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1775
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1714
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1540
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1613
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1744
+      }
+    ]
+  },
+  "Explosion": {
+    "m_FileID": 0,
+    "m_PathID": 547
+  },
+  "IgnoreGonerMenuOpenState": 0,
+  "IgnoredGonerSettingsManager": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

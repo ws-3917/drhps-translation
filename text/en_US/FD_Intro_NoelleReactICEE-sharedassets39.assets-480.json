@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1002
+  },
+  "m_Name": "FD_Intro_NoelleReactICEE",
+  "Reaction": {
+    "Array": [
+      {
+        "Character": {
+          "m_FileID": 0,
+          "m_PathID": 502
+        },
+        "Text": "Tell me about it!",
+        "Offset": {
+          "x": 210.0,
+          "y": -75.0
+        }
+      }
+    ]
+  }
+}

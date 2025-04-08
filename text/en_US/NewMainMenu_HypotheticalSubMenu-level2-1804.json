@@ -1,0 +1,119 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 317
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 300
+    },
+    "m_Name": "",
+    "BackgroundTextLines": {
+        "Array": [
+            {
+                "m_FileID": 0,
+                "m_PathID": 1641
+            },
+            {
+                "m_FileID": 0,
+                "m_PathID": 1607
+            },
+            {
+                "m_FileID": 0,
+                "m_PathID": 1487
+            },
+            {
+                "m_FileID": 0,
+                "m_PathID": 1489
+            },
+            {
+                "m_FileID": 0,
+                "m_PathID": 1628
+            },
+            {
+                "m_FileID": 0,
+                "m_PathID": 1507
+            },
+            {
+                "m_FileID": 0,
+                "m_PathID": 1560
+            }
+        ]
+    },
+    "MainText": {
+        "m_FileID": 0,
+        "m_PathID": 1600
+    },
+    "BackgroundTextMaxCount": {
+        "Array": []
+    },
+    "PlayableHypotheticals": {
+        "Array": [
+            {
+                "m_FileID": 2,
+                "m_PathID": 520
+            },
+            {
+                "m_FileID": 2,
+                "m_PathID": 522
+            },
+            {
+                "m_FileID": 2,
+                "m_PathID": 523
+            },
+            {
+                "m_FileID": 2,
+                "m_PathID": 526
+            },
+            {
+                "m_FileID": 2,
+                "m_PathID": 530
+            },
+            {
+                "m_FileID": 2,
+                "m_PathID": 537
+            },
+            {
+                "m_FileID": 2,
+                "m_PathID": 536
+            },
+            {
+                "m_FileID": 2,
+                "m_PathID": 521
+            },
+            {
+                "m_FileID": 2,
+                "m_PathID": 538
+            }
+        ]
+    },
+    "ConsoleMenu": {
+        "m_FileID": 0,
+        "m_PathID": 441
+    },
+    "HypotheticalContextMenu": {
+        "m_FileID": 0,
+        "m_PathID": 1768
+    },
+    "noIconSprite": {
+        "m_FileID": 2,
+        "m_PathID": 243
+    },
+    "storedHypotheticalNames": {
+        "Array": []
+    },
+    "HypotheticalName": {
+        "m_FileID": 0,
+        "m_PathID": 1504
+    },
+    "HypotheticalTagline": {
+        "m_FileID": 0,
+        "m_PathID": 1650
+    },
+    "HypotheticalIcon": {
+        "m_FileID": 0,
+        "m_PathID": 1698
+    },
+    "AllowInput": 0
+}

@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 31
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 801
+  },
+  "m_Name": "",
+  "DisclaimerText": {
+    "m_FileID": 0,
+    "m_PathID": 107
+  },
+  "DenySFX": {
+    "m_FileID": 4,
+    "m_PathID": 11
+  },
+  "ConfirmSFX": {
+    "m_FileID": 5,
+    "m_PathID": 168
+  },
+  "FinishConfirmSFX": {
+    "m_FileID": 5,
+    "m_PathID": 164
+  },
+  "Piano": {
+    "m_FileID": 0,
+    "m_PathID": 73
+  },
+  "PianoDuplicate": {
+    "m_FileID": 0,
+    "m_PathID": 43
+  },
+  "NoiseSFX": {
+    "m_FileID": 2,
+    "m_PathID": 1050
+  },
+  "LeafSFX": {
+    "m_FileID": 6,
+    "m_PathID": 249
+  },
+  "PlinkSFX": {
+    "m_FileID": 4,
+    "m_PathID": 9
+  },
+  "SusieLaughSFX": {
+    "m_FileID": 4,
+    "m_PathID": 10
+  },
+  "Music_CreditSong": {
+    "m_FileID": 5,
+    "m_PathID": 147
+  },
+  "AfterCreditsDialogue": {
+    "m_FileID": 4,
+    "m_PathID": 20
+  },
+  "KrisPianoController": {
+    "m_FileID": 0,
+    "m_PathID": 117
+  },
+  "SusieAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 68
+  },
+  "RalseiAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 67
+  },
+  "pos2": {
+    "x": 0.0,
+    "y": -88.5,
+    "z": 0.0
+  },
+  "ScrollSpeed": 1.425
+}

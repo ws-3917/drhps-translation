@@ -1,0 +1,149 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 18
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1112
+  },
+  "m_Name": "",
+  "CutsceneIndex": 0,
+  "CutsceneCollider": {
+    "m_FileID": 0,
+    "m_PathID": 77
+  },
+  "Kris": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Ralsei": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PlayerCamera": {
+    "m_FileID": 0,
+    "m_PathID": 143
+  },
+  "King": {
+    "m_FileID": 0,
+    "m_PathID": 88
+  },
+  "Queen": {
+    "m_FileID": 0,
+    "m_PathID": 90
+  },
+  "CutsceneSource": {
+    "m_FileID": 0,
+    "m_PathID": 85
+  },
+  "CutsceneSounds": {
+    "Array": [
+      {
+        "m_FileID": 3,
+        "m_PathID": 62
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 60
+      }
+    ]
+  },
+  "ItemPostcard": {
+    "m_FileID": 3,
+    "m_PathID": 177
+  },
+  "CutsceneChatter": {
+    "m_FileID": 0,
+    "m_PathID": 136
+  },
+  "CutsceneChats": {
+    "Array": [
+      {
+        "m_FileID": 3,
+        "m_PathID": 161
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 159
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 158
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 150
+      }
+    ]
+  },
+  "SusieWalkPositions": {
+    "Array": [
+      {
+        "x": 16.65,
+        "y": 2.85
+      }
+    ]
+  },
+  "SusieWalkDirections": {
+    "Array": [
+      {
+        "x": 1.0,
+        "y": 0.0
+      }
+    ]
+  },
+  "SusieWalkTarget": 1,
+  "SusieWalkIndex": 0,
+  "KrisWalkPositions": {
+    "Array": [
+      {
+        "x": 20.0,
+        "y": 0.1
+      }
+    ]
+  },
+  "KrisWalkDirections": {
+    "Array": [
+      {
+        "x": 1.0,
+        "y": 0.0
+      }
+    ]
+  },
+  "KrisWalkTarget": 1,
+  "KrisWalkIndex": 0,
+  "RalseiWalkPositions": {
+    "Array": [
+      {
+        "x": 18.0,
+        "y": 0.1
+      }
+    ]
+  },
+  "RalseiWalkDirections": {
+    "Array": [
+      {
+        "x": 1.0,
+        "y": 0.0
+      }
+    ]
+  },
+  "RalseiWalkTarget": 1,
+  "RalseiWalkIndex": 0,
+  "CameraMovePositions": {
+    "Array": [
+      {
+        "x": 19.0,
+        "y": 3.5
+      }
+    ]
+  },
+  "CameraMoveTarget": 1,
+  "CameraMoveIndex": 0
+}

@@ -1,0 +1,33 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 179
+    },
+    "m_Name": "CH3Opening",
+    "HypothesisName": "Behind The Scenes",
+    "HypothesisStartingScene": 45,
+    "HypothesisTagline": "Kris and Susie suddenly awaken in a darkworld to the sound of an audience murmuring.",
+    "HypothesisDescription": "How could the intro to DELTARUNE Chapter 3 play out with the information that we've gathered over its development.",
+    "HypothesisMenuSprite": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "HypothesisGoals": {
+        "Array": []
+    },
+    "TimeWhenWritten": "this Hypothetical was written before DELTARUNE\nChapters 3 & 4's release",
+    "HypotheticalReleased": 1,
+    "LogRewardedOnCompletion": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "LogRewardedOnGoalsCompleted": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    }
+}

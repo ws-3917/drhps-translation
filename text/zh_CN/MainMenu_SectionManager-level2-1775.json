@@ -1,0 +1,184 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 260
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1365
+  },
+  "m_Name": "",
+  "OptionTransforms": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1175
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1195
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1288
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1428
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1172
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1362
+      }
+    ]
+  },
+  "OriginalOptionTransform": {
+    "Array": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ]
+  },
+  "UnselectableTransforms": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1221
+      }
+    ]
+  },
+  "OriginalUnselectableTransform": {
+    "Array": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ]
+  },
+  "ControlsText": {
+    "m_FileID": 0,
+    "m_PathID": 1517
+  },
+  "ThisControlText": "下键/S - 下 | X - 返回 | 上 - W/上键",
+  "lerpSpeed": 7.5,
+  "OptionSpacing": -85.0,
+  "cursorPos": 0,
+  "SelectionMode": 2,
+  "SelectionState": 2,
+  "SelectionActionIndex": 2,
+  "HoverAnimationStateName": "MMSection_Hover",
+  "UnHoverAnimationStateName": "MMSection_UnHover",
+  "SelectAnimationStateName": "MMSection_Select",
+  "SectionSource": {
+    "m_FileID": 0,
+    "m_PathID": 604
+  },
+  "SwitchSectionClip": {
+    "m_FileID": 4,
+    "m_PathID": 1011
+  },
+  "ConfirmSectionClip": {
+    "m_FileID": 4,
+    "m_PathID": 1008
+  },
+  "DenySectionClip": {
+    "m_FileID": 4,
+    "m_PathID": 1022
+  },
+  "ReturnSectionClip": {
+    "m_FileID": 2,
+    "m_PathID": 155
+  },
+  "EnterSectionClip": {
+    "m_FileID": 2,
+    "m_PathID": 154
+  },
+  "OtherSections": {
+    "Array": []
+  },
+  "PreviousSection": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "GonerText": {
+    "m_FileID": 0,
+    "m_PathID": 1830
+  },
+  "ChatboxText": {
+    "m_FileID": 2,
+    "m_PathID": 541
+  },
+  "RanText": 0,
+  "TargetSceneName": {
+    "Array": [
+      3,
+      0
+    ]
+  },
+  "transition": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CreditOptionTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OriginalCreditOptionTransform": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "CreditSection": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Hypotheticals": {
+    "Array": []
+  },
+  "ContextMenu": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

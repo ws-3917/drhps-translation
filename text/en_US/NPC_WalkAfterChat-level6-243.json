@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 51
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 364
+  },
+  "m_Name": "",
+  "Chat": {
+    "m_FileID": 0,
+    "m_PathID": 211
+  },
+  "NPC": {
+    "m_FileID": 0,
+    "m_PathID": 242
+  },
+  "WalkToPositions": {
+    "Array": [
+      {
+        "x": -6.46,
+        "y": -3.098864,
+        "z": -0.007345371
+      },
+      {
+        "x": -6.45,
+        "y": -3.098864,
+        "z": -0.007345371
+      }
+    ]
+  },
+  "WalkSpeed": {
+    "Array": [
+      15.0,
+      0.1
+    ]
+  },
+  "ChatIndexToWalkTo": 0
+}

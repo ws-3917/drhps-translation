@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 14
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 164
+  },
+  "m_Name": "",
+  "SpamtonSong": {
+    "m_FileID": 8,
+    "m_PathID": 9
+  },
+  "JevilSong": {
+    "m_FileID": 7,
+    "m_PathID": 162
+  },
+  "RadioSprite": {
+    "m_FileID": 0,
+    "m_PathID": 88
+  },
+  "Interaction": {
+    "m_FileID": 0,
+    "m_PathID": 110
+  }
+}

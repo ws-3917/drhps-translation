@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1433
+  },
+  "m_Name": "Noelle_IceShock",
+  "TargetPartyMember": {
+    "m_FileID": 0,
+    "m_PathID": 2569
+  },
+  "ActionName": "冰震術",
+  "ActionDescription": "冰屬性<br>傷害",
+  "TPRequired": 16,
+  "ActionTarget": 0,
+  "AnimationToAction": "PrepareSpell",
+  "BattleScript_FunctionToRun": ">DefaultSpell_IceShock",
+  "RequiredPartyMembers": {
+    "Array": []
+  }
+}

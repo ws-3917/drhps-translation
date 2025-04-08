@@ -1,0 +1,237 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "Punishment",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 55
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Howdy! ;I'm <color=#FF00FF>Uprank</color>! ;<color=#FF00FF>Uprank</color>, the<color=red> God</color> of this world!",
+            "Don't act surprised, you know why you're here.",
+            "I saw what you did.",
+            "...",
+            "I don't ask for much.",
+            "There are thousands of values you could edit.",
+            "And yet.. despite everything.",
+            "Your greed.",
+            "Your greed took over.",
+            "...",
+            "You have tampered with the <color=red>ONE</color> thing you don't mess with.",
+            "With an infinite supply of cash, is it really gambling anymore?",
+            "... ;Not in my eyes.",
+            "You've might as well have removed gambling as a whole.",
+            "...",
+            "Listen, <lowercase>&</lowercase>.",
+            "Don't let me catch you messing with gambling again, got it?",
+            "If there's one thing you take away from this..",
+            "In my world, it's <color=green>GAMBLE</color> or <color=green>BE GAMBLED</color>.#£",
+            "Wait, no, that sucks.",
+            "In my world, It's <color=green>GAMBLE</color> or <color=green>WORK REALLY HARD SO YOU CAN GAMBLE</color>. ~Got it?",
+            "Now scram, I have to continue making a generous donation to my slot machine."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 5
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 4
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 6
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 4
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 6
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 4
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 5
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 4
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 5
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 4
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 5
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 4
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 6
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

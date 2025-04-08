@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1005
+  },
+  "m_Name": "OldItems",
+  "ItemTitle": "旧图标和旧Logo",
+  "DeveloperCommentary": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ItemDescription": "在“游戏内容用计算机模拟”这一理念\n提出前使用的旧图标和Logo。",
+  "Prefab": {
+    "m_FileID": 0,
+    "m_PathID": 263
+  }
+}

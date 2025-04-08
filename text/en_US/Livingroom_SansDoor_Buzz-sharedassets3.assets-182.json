@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1517
+  },
+  "m_Name": "Livingroom_SansDoor_Buzz",
+  "PlaySound": 1,
+  "PossibleSounds": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 94
+      }
+    ]
+  },
+  "RunComponentFunction": 1,
+  "TargetComponentGameObjectName": "LevelInteractableSpecific",
+  "TargetComponentClassname": "MP_LivingRoom_InteractableCutscenes",
+  "FunctionName": "MP_LivingRoom_SansDoorShakePlayer",
+  "SubActions": {
+    "Array": []
+  },
+  "RunActionOnChatEnd": 0
+}

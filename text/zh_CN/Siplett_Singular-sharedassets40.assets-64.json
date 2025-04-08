@@ -1,0 +1,81 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 636
+  },
+  "m_Name": "Siplett_Singular",
+  "PartyMembers": {
+    "Array": [
+      {
+        "m_FileID": 4,
+        "m_PathID": 2568
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 2572
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 2569
+      }
+    ]
+  },
+  "Enemies": {
+    "Array": [
+      {
+        "m_FileID": 11,
+        "m_PathID": 415
+      }
+    ]
+  },
+  "BattleScriptPrefab": {
+    "m_FileID": 11,
+    "m_PathID": 231
+  },
+  "BattleScriptMainComponent": "BattleScript_SipletTrio",
+  "PartyMemberPositions": {
+    "Array": [
+      {
+        "x": -5.25,
+        "y": 2.85
+      },
+      {
+        "x": -5.25,
+        "y": 0.65
+      },
+      {
+        "x": -5.25,
+        "y": -1.4
+      }
+    ]
+  },
+  "EnemyPositions": {
+    "Array": [
+      {
+        "x": 3.3,
+        "y": 1.075
+      }
+    ]
+  },
+  "BattleSong": {
+    "m_FileID": 11,
+    "m_PathID": 86
+  },
+  "GameOverDialogues": {
+    "Array": [
+      {
+        "m_FileID": 11,
+        "m_PathID": 478
+      },
+      {
+        "m_FileID": 11,
+        "m_PathID": 477
+      }
+    ]
+  }
+}

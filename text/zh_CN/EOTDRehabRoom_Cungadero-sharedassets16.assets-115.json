@@ -1,0 +1,175 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDRehabRoom_Cungadero",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "嘿，你们这【三大金刚】，\n离我的【动感地带】远点！！",
+            "我那【宝贝筏】价值高达\n【一百万根娃娃头发】！！",
+            "你确定吗？;这东西镇里不是到处\n都是。",
+            "它【独一无二】！！@\n还被评为【质量爆表】！！",
+            "净扯，不就是长着\n奇怪腿的车吗？",
+            "哈哈哈哈！！\n你这小子让我【崩溃】了！！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 129
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 130
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 128
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 134
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 112
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "我真就【妈卖，一送一】？！",
+            "我车就这么【长腿走了】？！",
+            "这真是我这辈子最\n【零星差评】的一天了！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 129
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 135
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 111
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "那儿的停车场烂完了！\n所以我回来了。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

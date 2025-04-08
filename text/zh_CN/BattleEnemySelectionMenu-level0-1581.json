@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 101
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 789
+  },
+  "m_Name": "",
+  "SoulSelection": {
+    "m_FileID": 0,
+    "m_PathID": 983
+  },
+  "currentIndex": 0,
+  "EnemyStatuses": {
+    "Array": []
+  },
+  "EnemyStatusHolder": {
+    "m_FileID": 0,
+    "m_PathID": 307
+  },
+  "MenuContext": 0,
+  "StoredBattleAction": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

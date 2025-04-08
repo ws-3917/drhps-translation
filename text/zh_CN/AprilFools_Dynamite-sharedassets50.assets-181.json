@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 143
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 226
+  },
+  "m_Name": "",
+  "ExplosionPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 134
+  },
+  "DynamiteAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 164
+  },
+  "TimeTillBoom": 4.0
+}

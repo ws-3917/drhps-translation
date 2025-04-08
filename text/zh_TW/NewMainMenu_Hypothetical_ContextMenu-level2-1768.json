@@ -1,0 +1,83 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 246
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 919
+  },
+  "m_Name": "",
+  "BackgroundTextLines": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1483
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1573
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1606
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1637
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1454
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1495
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1575
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1622
+      }
+    ]
+  },
+  "BackgroundTextMaxCount": {
+    "Array": []
+  },
+  "hypotheticalSubMenu": {
+    "m_FileID": 0,
+    "m_PathID": 1804
+  },
+  "optionText": {
+    "m_FileID": 0,
+    "m_PathID": 1450
+  },
+  "CurrentHypothesis": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "HypotheticalTitle": {
+    "m_FileID": 0,
+    "m_PathID": 1475
+  },
+  "HypotheticalDescription": {
+    "m_FileID": 0,
+    "m_PathID": 1501
+  },
+  "Warning": {
+    "m_FileID": 0,
+    "m_PathID": 1468
+  },
+  "HypotheticalQuests": {
+    "m_FileID": 0,
+    "m_PathID": 1630
+  },
+  "HypotheticalIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1779
+  }
+}

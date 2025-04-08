@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 131
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1353
+  },
+  "m_Name": "",
+  "MasterMixer": {
+    "m_FileID": 2,
+    "m_PathID": 2126
+  },
+  "DyslexicFont": {
+    "m_FileID": 2,
+    "m_PathID": 2563
+  }
+}

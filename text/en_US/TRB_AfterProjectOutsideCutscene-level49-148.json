@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 10
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 516
+  },
+  "m_Name": "",
+  "playerCamera": {
+    "m_FileID": 0,
+    "m_PathID": 147
+  },
+  "Toriel": {
+    "m_FileID": 0,
+    "m_PathID": 99
+  },
+  "Alphys": {
+    "m_FileID": 0,
+    "m_PathID": 101
+  },
+  "Berdly": {
+    "m_FileID": 0,
+    "m_PathID": 102
+  },
+  "BerdlySweatOverlay": {
+    "m_FileID": 0,
+    "m_PathID": 38
+  },
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 100
+  },
+  "Kris": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CutsceneChats": {
+    "Array": [
+      {
+        "m_FileID": 6,
+        "m_PathID": 18
+      }
+    ]
+  },
+  "CutsceneSounds": {
+    "Array": [
+      {
+        "m_FileID": 9,
+        "m_PathID": 95
+      }
+    ]
+  }
+}

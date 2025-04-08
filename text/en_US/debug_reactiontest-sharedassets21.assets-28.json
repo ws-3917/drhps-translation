@@ -1,0 +1,120 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "debug_reactiontest",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 593
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 596
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 55
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "big boner down the lane",
+            " ",
+            "Kris! This is the <color=yellow>DEBUG ROOM</color>!",
+            "You have got to stress test the reactions!",
+            "alr bet",
+            " ",
+            "What the <color=red><i>FREAK</i></color>.",
+            "wait i'm like goated this also supports colored text, fonts and dyslexic font",
+            "Speak up lads!"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 48
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 44
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 45
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 46
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 47
+            }
+          ]
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

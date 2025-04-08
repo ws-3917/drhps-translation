@@ -1,0 +1,1498 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 319
+  },
+  "m_Name": "",
+  "StoryPanels": {
+    "Array": [
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 1.5,
+        "FadeIn": 1,
+        "FadeOut": 1,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 1.5,
+        "FadeIn": 1,
+        "FadeOut": 1,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 1.5,
+        "FadeIn": 1,
+        "FadeOut": 1,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 1.5,
+        "FadeIn": 1,
+        "FadeOut": 1,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.57,
+        "FadeIn": 1,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.44,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.3,
+        "FadeIn": 1,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.3,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.3,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.3,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.3,
+        "FadeIn": 0,
+        "FadeOut": 1,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 4,
+          "m_PathID": 1456
+        },
+        "PanelLength": 5.31,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 1
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.37,
+        "FadeIn": 1,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.37,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.37,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.18,
+        "FadeIn": 0,
+        "FadeOut": 1,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.37,
+        "FadeIn": 1,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.37,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.37,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.18,
+        "FadeIn": 0,
+        "FadeOut": 1,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.37,
+        "FadeIn": 1,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.37,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.37,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.27,
+        "FadeIn": 0,
+        "FadeOut": 1,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.32,
+        "FadeIn": 1,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.32,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.32,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.32,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.32,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.32,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.32,
+        "FadeIn": 0,
+        "FadeOut": 1,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 4,
+          "m_PathID": 1456
+        },
+        "PanelLength": 0.04,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.13,
+        "FadeIn": 1,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.07,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.08,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.15,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.3,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.165,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.165,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.165,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.165,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.165,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.165,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.165,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.165,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.165,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.165,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.165,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.165,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.165,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.165,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 1.06,
+        "FadeIn": 0,
+        "FadeOut": 1,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 4,
+          "m_PathID": 1456
+        },
+        "PanelLength": 0.54,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.46,
+        "FadeIn": 1,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.46,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.46,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.46,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.46,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.46,
+        "FadeIn": 0,
+        "FadeOut": 1,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 2.0,
+        "FadeIn": 1,
+        "FadeOut": 1,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 2.0,
+        "FadeIn": 1,
+        "FadeOut": 1,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 1.0,
+        "FadeIn": 1,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 2.35,
+        "FadeIn": 0,
+        "FadeOut": 1,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 0.5,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 1.15,
+        "FadeIn": 1,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 1.28,
+        "FadeIn": 0,
+        "FadeOut": 1,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 1.48,
+        "FadeIn": 1,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 0.5,
+        "FadeIn": 0,
+        "FadeOut": 0,
+        "FadeColor": {
+          "r": 0.14901961,
+          "g": 0.5137255,
+          "b": 0.7529412,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 1.0,
+        "IsThreeCharacterPanel": 0
+      },
+      {
+        "PanelSprite": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "PanelLength": 4.0,
+        "FadeIn": 0,
+        "FadeOut": 1,
+        "FadeColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "FadeSpeedMultiplier": 0.25,
+        "IsThreeCharacterPanel": 0
+      }
+    ]
+  },
+  "PanelRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 38
+  },
+  "Song": {
+    "m_FileID": 0,
+    "m_PathID": 27
+  },
+  "ThreeCharacterPanel": {
+    "m_FileID": 0,
+    "m_PathID": 29
+  },
+  "FadeAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 28
+  },
+  "levelTransition": {
+    "m_FileID": 0,
+    "m_PathID": 44
+  }
+}

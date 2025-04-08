@@ -1,0 +1,361 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "TRB_AfterProject_OutsideSchool",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 617
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Kris, wait!"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 5,
+              "m_PathID": 230
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 613
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "I know school's boring and all, but slow the hell down!!",
+            "Would've appreciated some help dumping all the cutouts, y'know!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 12
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 15
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 17
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 5,
+              "m_PathID": 231
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 240
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 238
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Whatever. @@We've got like, a full day to do whatever we want.",
+            "Would like to go see Ralsei, but everyone's still inside.",
+            "You got any bright ideas on what we can do? ~I'm stumped."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 14
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 14
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 13
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 16
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 17
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 5,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 19
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 586
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 241
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 595
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 19
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 597
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 595
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 595
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 597
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 19
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 586
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "You good, dude?",
+            "H-Have any of you spotted where Noelle went?",
+            "Uh, no?",
+            "Argh, how could I be so careless?!",
+            "I borrowed a pencil, and forgot to return it before she left!!",
+            "...Dude.@ It's a pencil. ;Knowing her, she probably has hundreds.",
+            "Not just ANY pencil! ;It's a treasured heirloom!!",
+            "...Okay, maybe not. ;But she did seem quite fond of it!",
+            "That's not the only issue, though...",
+            "Tell me, Susie, Kris. ;Did you pay attention to our presentation?",
+            "If so, surely you both saw how worried Noelle and Ms. Toriel looked!",
+            "Oh yeah... @That was sorta weird.",
+            "Noelle's, like, the last person I'd expect to ditch class.",
+            "Exactly! ;And lately, she's been...@ off.",
+            "Distant. ;Staring into space. ;Mumbling to herself...",
+            "Initially, I chalked it up to the stress of intense studying...",
+            "But now...@ I feel like something's wrong.",
+            "Why didn't I ask if she was okay sooner!?"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 14
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "TRB_PreProject_SchoolInside",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 153
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 152
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 149
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 240
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 150
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 153
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 151
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 154
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 149
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "O-Oh! ;Kris, Susie, you made it!",
+            "You can, uh, take a seat anywhere.",
+            "Everyone's just putting final touches on their projects!",
+            "Yeah, about that..",
+            "We need, like, a pair of scissors and some duct tape.",
+            "I...@ um, c-can't give you those.",
+            "Last time I gave you scissors, y-you tried to cut a table in half...",
+            "And that other time... you duct-taped Kris to a chair...",
+            "I can promise... @not...@ to do that?",
+            "That's..@ somewhat..@ reassuring.",
+            "Kris...@ I'm trusting you to keep an eye on these!"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 617
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 617
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 231
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 230
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "(You and Susie get to work finishing up your group project.)",
+            "Kris, quick! ;We've only got like 10 minutes!!",
+            "Pass me that cardboard tube!",
+            "...",
+            "STOP LOOKING THROUGH IT LIKE A TELESCOPE!!"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 153
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 152
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 151
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "O-Okay, class, time's up!!",
+            "I'm really happy to see how...@ dedicated@ you've all been.",
+            "S-So! ;Uh, which pair wants to go first?"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 153
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 152
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 151
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "N-Nobody? ;That's...@ surprising...",
+            "I guess I'll just have to p-pick someone...",
+            "Uh... ;Temmie and...@ Egg...?"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

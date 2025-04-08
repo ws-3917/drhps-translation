@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1517
+  },
+  "m_Name": "EOTDRehabRoom_Car_Start",
+  "PlaySound": 0,
+  "PossibleSounds": {
+    "Array": []
+  },
+  "RunComponentFunction": 1,
+  "TargetComponentGameObjectName": "Cungadero",
+  "TargetComponentClassname": "EOTDRehabRoom_Cungadero",
+  "FunctionName": "StartCutscene",
+  "SubActions": {
+    "Array": []
+  },
+  "RunActionOnChatEnd": 1
+}

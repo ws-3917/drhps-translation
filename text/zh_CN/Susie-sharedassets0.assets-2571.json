@@ -1,0 +1,87 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 421
+  },
+  "m_Name": "Susie",
+  "PartyMemberPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 2202
+  },
+  "PartyMemberName": "Susie",
+  "PartyMemberColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "PartyMemberColor_Highlighted": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "MaximumHealth": 190,
+  "HasMagic": 1,
+  "ATK": 24,
+  "DF": 8,
+  "MAGIC": 0,
+  "PartyMemberBattleAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PartyMember_DefaultSpells": {
+    "Array": []
+  },
+  "StartFromPlayer": 0,
+  "BattleEffect_AnimationName": "BattleEffect_NAMEAttack",
+  "PartyMemberBattle_NameIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PartyMemberBattleIcon_CMenuOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "PartyMemberBattleIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PartyMemberBattleHurtIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PartyMemberBattleDefeatedIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PartyMemberBattleAttack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PartyMemberBattleAct": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PartyMemberBattleMagic": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PartyMemberBattleItem": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PartyMemberBattleDefend": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PartyMemberBattleSpare": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1005
+  },
+  "m_Name": "UE2024BTS",
+  "ItemTitle": "UNDEREVENT 2024 Behind the scenes",
+  "DeveloperCommentary": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ItemDescription": "Behind the scenes of the 3D shots in the UE 2024 trailer.",
+  "Prefab": {
+    "m_FileID": 0,
+    "m_PathID": 326
+  }
+}

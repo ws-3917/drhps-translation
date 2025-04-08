@@ -1,0 +1,352 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTD_TrainingArea_SusieGreetLancer",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 239
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 164
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 170
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 176
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 615
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 167
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 166
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 166
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 169
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 168
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 168
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 167
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 169
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 166
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 167
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 176
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 165
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 316
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 175
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 172
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 170
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 174
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Lancer！你在這幹@£",
+            "肅靜。",
+            "我們 美麗的\n小小 球形 男孩\n睡得 好香",
+            "他 現在 很累了 因為 他\n把 鎮子上 的 所有人\n都 安慰了 一遍",
+            "啊...@呃，抱歉？",
+            "...",
+            "光之民。;你是Susie吧？",
+            "Lancer跟我講了很多\n你們冒險路上發生的事。",
+            "我承認，確實很精彩...",
+            "跟你們相處這段時間，\n他成長了不少。",
+            "哈，畢竟有個好榜樣嘛。",
+            "哈...@哈...@是啊...",
+            "...我會永遠感激你們...",
+            "感謝您給我的小黑桃\n王子帶來的歡樂。",
+            "還有...@我還有話要對你們\n光之民說。",
+            "我...@我真...#我-我真的...",
+            "他為 他 之前 對你們\n做出的 各種 行為\n感到 十分 抱歉",
+            "是的。",
+            "感謝您願意道歉，\n國王！",
+            "咱們的關係還能回暖，\n我很高興哦。",
+            "這 才是：\n@100% 健康 思維",
+            "我也 得 拍一個 隆重 的\n道歉 視頻",
+            "嘆氣",
+            "5Lmf5LiN6K+ l6L+ 35aSx6Ieq5bex77yI5ZC557695q+ b77yJ6L+ Z5Yeg5aSp5oiR5LiA55u05Zyo5Y+ N55yB6Ieq5bex"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 155
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 142
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 143
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 163
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 146
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 141
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 140
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 154
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 138
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 137
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 148
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 160
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 153
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

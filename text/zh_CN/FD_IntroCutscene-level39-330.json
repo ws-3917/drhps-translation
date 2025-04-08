@@ -1,0 +1,170 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 14
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1314
+  },
+  "m_Name": "",
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Noelle": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Kris": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PlayerCamera": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Default_CameraTrigger": {
+    "m_FileID": 0,
+    "m_PathID": 52
+  },
+  "JuiceTable": {
+    "m_FileID": 0,
+    "m_PathID": 246
+  },
+  "JuiceBowl": {
+    "m_FileID": 0,
+    "m_PathID": 303
+  },
+  "SiplettCup": {
+    "m_FileID": 0,
+    "m_PathID": 88
+  },
+  "Effect_Splash": {
+    "m_FileID": 0,
+    "m_PathID": 227
+  },
+  "JuiceTable_Mess": {
+    "m_FileID": 2,
+    "m_PathID": 164
+  },
+  "JuiceBowl_Mess": {
+    "m_FileID": 2,
+    "m_PathID": 157
+  },
+  "SiplettThrown": {
+    "m_FileID": 0,
+    "m_PathID": 335
+  },
+  "SiplettBattleTrigger": {
+    "m_FileID": 0,
+    "m_PathID": 334
+  },
+  "Effect_CircleZoom": {
+    "m_FileID": 2,
+    "m_PathID": 265
+  },
+  "IceeCutout": {
+    "m_FileID": 0,
+    "m_PathID": 264
+  },
+  "Icee_Wink": {
+    "m_FileID": 2,
+    "m_PathID": 156
+  },
+  "Icee_WinkParticle": {
+    "m_FileID": 0,
+    "m_PathID": 234
+  },
+  "Goal_FightPath": {
+    "m_FileID": 7,
+    "m_PathID": 527
+  },
+  "Goal_MercyPath": {
+    "m_FileID": 7,
+    "m_PathID": 528
+  },
+  "Goal_NoHit": {
+    "m_FileID": 7,
+    "m_PathID": 529
+  },
+  "WalkPos_Kris_ToDrinkSign": {
+    "x": -9.0,
+    "y": -0.25
+  },
+  "WalkPos_Kris_SetupForDrinkPos": {
+    "x": 1.35,
+    "y": -0.25
+  },
+  "WalkPos_Kris_DrinkTable": {
+    "x": 1.325,
+    "y": -1.65
+  },
+  "WalkPos_Susie_DrinkTable": {
+    "x": 0.0,
+    "y": -1.15
+  },
+  "WalkPos_Noelle_DrinkTable": {
+    "x": -1.325,
+    "y": -1.65
+  },
+  "WalkPos_Susie_TowardsICEE": {
+    "x": 0.0,
+    "y": 1.0
+  },
+  "WalkPos_Susie_TowardsCups": {
+    "x": 2.0,
+    "y": 1.0
+  },
+  "Dialogue_NoelleSpotSign": {
+    "m_FileID": 2,
+    "m_PathID": 481
+  },
+  "Dialogue_FruitPunchTable": {
+    "m_FileID": 2,
+    "m_PathID": 479
+  },
+  "Dialogue_SusieApologize": {
+    "m_FileID": 2,
+    "m_PathID": 483
+  },
+  "Dialogue_SpotSiplett": {
+    "m_FileID": 2,
+    "m_PathID": 482
+  },
+  "Dialogue_Outro": {
+    "m_FileID": 2,
+    "m_PathID": 485
+  },
+  "Dialogue_Outro_IRememberYoureGenocides": {
+    "m_FileID": 2,
+    "m_PathID": 484
+  },
+  "SFX_Noise": {
+    "m_FileID": 4,
+    "m_PathID": 1050
+  },
+  "SFX_Splash": {
+    "m_FileID": 2,
+    "m_PathID": 83
+  },
+  "SFX_Throw": {
+    "m_FileID": 2,
+    "m_PathID": 76
+  },
+  "SFX_NoelleScaredShort": {
+    "m_FileID": 2,
+    "m_PathID": 80
+  },
+  "SFX_IceeWink": {
+    "m_FileID": 2,
+    "m_PathID": 77
+  },
+  "CutsceneIndex": 0,
+  "storedNoelleOriginalPos": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

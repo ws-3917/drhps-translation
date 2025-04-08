@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1002
+  },
+  "m_Name": "TRB_PreProject_BerdlyCrybaby",
+  "Reaction": {
+    "Array": [
+      {
+        "Character": {
+          "m_FileID": 7,
+          "m_PathID": 586
+        },
+        "Text": "N-No!!<br>It's a metaphor!",
+        "Offset": {
+          "x": 275.0,
+          "y": -75.0
+        }
+      }
+    ]
+  }
+}

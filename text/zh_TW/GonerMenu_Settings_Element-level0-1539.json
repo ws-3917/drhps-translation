@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1199
+  },
+  "m_Name": "",
+  "SettingsElementName": "垂直同步",
+  "SettingsDescription": "將遊戲幀率與顯示器同步，減少可能出現的畫面撕裂。\n\n可能會略微增加輸入延遲！",
+  "CurrentlySelected": 0,
+  "CanBeCanceled": 1,
+  "RawImages_AffectedByColor": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1703
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1573
+      }
+    ]
+  },
+  "TMP_AffectedByColor": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1478
+      }
+    ]
+  }
+}

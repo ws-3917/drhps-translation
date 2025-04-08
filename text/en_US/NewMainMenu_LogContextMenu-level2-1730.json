@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 152
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 406
+  },
+  "m_Name": "",
+  "BackgroundTextLines": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1497
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1588
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1457
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1557
+      }
+    ]
+  },
+  "BackgroundTextMaxCount": {
+    "Array": []
+  },
+  "logSubMenu": {
+    "m_FileID": 0,
+    "m_PathID": 1829
+  },
+  "optionText": {
+    "m_FileID": 0,
+    "m_PathID": 1621
+  },
+  "AnnoyingAssLines": {
+    "m_FileID": 0,
+    "m_PathID": 278
+  },
+  "prefabHolder": {
+    "m_FileID": 0,
+    "m_PathID": 385
+  },
+  "BackgroundNoiseToDisable": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 602
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 600
+      }
+    ]
+  },
+  "CurrentLog": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

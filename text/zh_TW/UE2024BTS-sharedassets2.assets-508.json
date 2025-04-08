@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1005
+  },
+  "m_Name": "UE2024BTS",
+  "ItemTitle": "《傳說之下嘉年華》2024 幕後花絮",
+  "DeveloperCommentary": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ItemDescription": "《傳說之下嘉年華》2024預告片中\n那些3D鏡頭就是這樣建構出來的。",
+  "Prefab": {
+    "m_FileID": 0,
+    "m_PathID": 326
+  }
+}

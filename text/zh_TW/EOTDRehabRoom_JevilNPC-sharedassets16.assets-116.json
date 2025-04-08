@@ -1,0 +1,147 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDRehabRoom_JevilNPC",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 230
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 231
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "呃嘿嘿！@\n我們之前玩得\n多麼開心啊！",
+            "開心？！;\n你都把咱往死裡整！",
+            "別這麼悲觀嘛，\n生活中多一點混沌，\n也沒什麼不好的！",
+            "然而，王子告訴我們，\n我們的時代很快就要\n結束了。",
+            "【哽咽】！！;我又想【撕心裂肺】的\n哭一場了！！",
+            "命運無情地掌控著這些世界，\n遮蔽著希望的光芒...",
+            "...可你們三角戰士們每次\n都能戰勝命運，多麼的\n出人意料啊！",
+            "可...@就算是這樣...",
+            "你們光之民\n也只救了你們自己！",
+            "咱也沒料到\n會這樣啊！",
+            "也許，你們說得沒錯，\n是我想多了...",
+            "...命運自有天定！\n呃嘿嘿！！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 117
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 125
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 120
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 118
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 129
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 131
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 121
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 117
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 120
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 119
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

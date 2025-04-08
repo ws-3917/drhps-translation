@@ -1,0 +1,150 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "CM_EndingDialogue",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 614
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 615
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 138
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "我們還不知道\n你這麼有鋼琴天賦呢？？",
+            "太厲害了，Kris！",
+            "沒開玩笑，\n我都想上去試試了。",
+            "Susie，試一試唄。\n肯定不後悔。",
+            "說不定你也有\n這方面天賦呢！",
+            "哦，呃，好吧。;只要按下這些鍵...\n就行了吧？"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 24
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 23
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 23
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 19
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 304
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "...哎呀，行吧。\n看來，鋼琴這東西\n還是不適合我。",
+            "這才第一次，沒什麼。\n你總能學會的！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 22
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 21
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 182
+  },
+  "m_Name": "TS_IWithYou",
+  "DefaultSelectedChoice": -1,
+  "Choices": {
+    "Array": [
+      "我會<br>陪著你的",
+      "咱們一起<br>肯定辦得到"
+    ]
+  },
+  "CanBackOut": 0,
+  "ShowOnTextScrollFinish": 0,
+  "ChoiceCharacterReference": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ChoiceTextResults": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 302
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 315
+      }
+    ]
+  },
+  "ChoicePositions": {
+    "Array": [
+      {
+        "x": -480.0,
+        "y": 0.0
+      },
+      {
+        "x": 160.0,
+        "y": 0.0
+      }
+    ]
+  }
+}

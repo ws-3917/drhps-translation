@@ -1,0 +1,160 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "PhoneCall_MeetPapyrus_Berdly",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 587
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 597
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 595
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 596
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 592
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 595
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 597
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 595
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（嘀嘀嘀，嘀嘀嘀...）",
+            "哦，是Kris啊！\n不愧是你，\n真會挑打電話的時間！",
+            "正好有件事，\n想看看你的意見...",
+            "...想像這樣一個情景：\n你正在與一隻\n兇猛的食人魔激戰！",
+            "這隻食人魔非常強大，\n它有兩種攻擊方式，\n仔細聽好！",
+            "一技能：猛烈重擊。\n傷害：30點。",
+            "...二技能：強力咆哮。\n傷害：40點！",
+            "現在，你只有35滴血。",
+            "你是冒一次險，\n賭它只用一技能，\n奮力一搏...",
+            "還是小心行事，\n選擇格擋，謹慎應戰？",
+            "啊，等下！！\n我忘了跟你解釋格擋\n和攻擊是怎麼回事了！",
+            "（你把電話掛了...）"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 597
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 587
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 596
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 587
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 591
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（嘀嘀嘀，嘀嘀嘀...）",
+            "呃，剛剛信號不好，\n好像斷線了。",
+            "不過別擔心，Kris！",
+            "剛剛食人魔用了二技能，\n直接用咆哮把我角色\n給震死了...",
+            "下次，我肯定會贏的！",
+            "對了，改天你跟我們\n一起玩唄！~可有意思了！",
+            "我隊裡現在正缺能回血的呢！",
+            "（嘀...）"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

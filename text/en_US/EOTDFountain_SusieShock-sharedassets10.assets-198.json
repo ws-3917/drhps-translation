@@ -1,0 +1,228 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDFountain_SusieShock",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 228
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 228
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 222
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 616
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 313
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 223
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 215
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 314
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 213
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 214
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 223
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 228
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2586
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 223
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 213
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 616
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Listen dirt bag, don't act like you know Lancer like I do!",
+            "... You better take that back!",
+            "Only if you let me explain my side of this!",
+            "...",
+            "Susie, you're right, I should've told you both sooner.",
+            "And I'm sorry that I didn't..",
+            "When I first learned about the legend..",
+            "... it was all I could think about.",
+            "Knowing everybody's fate was predetermined was heartbreaking...",
+            "But.. after I finally met you two..",
+            "I didn't want to think about the end, I didn't care about fate.",
+            "We we're having so much fun on our little adventures!",
+            ".. That I lost track of what was to come.",
+            "Yeah?!@ And all of it will have been for nothing!",
+            "Nothing?!",
+            "Without you two, BOTH worlds would've been destroyed!",
+            "You've still saved the entire lightworld!",
+            "Once this is over...",
+            "You'll still be heroes.",
+            "Even when we're gone, Susie.",
+            "..."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 164
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 163
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 164
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 162
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 163
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 191
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 162
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 164
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 176
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 161
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 164
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 163
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 176
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 163
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 152
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

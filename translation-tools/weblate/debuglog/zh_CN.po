@@ -1,0 +1,366 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-11 08:21+0000\n"
+"PO-Revision-Date: 2025-03-31 04:46+0000\n"
+"Last-Translator: ws3917 <ws3917@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"translate.ws3917.space/projects/deltarune-hypothesis/1-cs-debuglog/zh_Hans/>"
+"\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
+msgid "prefab For CharacterIcon is Null"
+msgstr "未找到角色贴图配置文件"
+
+msgid "Battle_PlayerSoul.Instance is not set."
+msgstr "Battle_PlayerSoul.Instance未被设置。"
+
+msgid "AttemptRunActions started."
+msgstr "AttemptRunActions已开始。"
+
+msgid "storedchatboxtext.Textboxes is null"
+msgstr "storedchatboxtext.Textboxes为null"
+
+msgid "storedchatboxtext.Textboxes[CurrentAdditionalTextIndex] is null"
+msgstr "storedchatboxtext.Textboxes[CurrentAdditionalTextIndex]为空"
+
+msgid "currentTextbox.Action is null"
+msgstr "currentTextbox.Action为空"
+
+msgid "currentTextbox.Action.Length is 0"
+msgstr "currentTextbox.Action.Length为0"
+
+msgid "currentTextbox.Action[CurrentTextIndex] is null"
+msgstr "currentTextbox.Action[CurrentTextIndex]为空"
+
+msgid "action.RunActionOnChatEnd is false"
+msgstr "action.RunActionOnChatEnd为false"
+
+msgid "Action will be run: "
+msgstr "行动将会运行： "
+
+msgid "action.PossibleSounds is null"
+msgstr "action.PossibleSounds为空"
+
+msgid "action.PossibleSounds.Length is 0"
+msgstr "action.PossibleSounds.Length为0"
+
+msgid "Playing sound: "
+msgstr "正在播放音效："
+
+msgid "action.TargetComponentGameObjectName is null"
+msgstr "action.TargetComponentGameObjectName为空"
+
+msgid "TargetGameObject not found: "
+msgstr "TargetGameObject（目标游戏物件）未找到："
+
+msgid "action.FunctionName is null"
+msgstr "action.FunctionName为空"
+
+msgid "action.TargetComponentClassname is null"
+msgstr "action.TargetComponentClassname为空"
+
+msgid "Couldn't find Component named: "
+msgstr "找不到组件："
+
+msgid "Method not found: "
+msgstr "Method（方法）未找到： "
+
+msgid "Invoking method: "
+msgstr "调用方法： "
+
+msgid "AttemptRunActions ended."
+msgstr "AttemptRunActions已完毕。"
+
+msgid "Invalid index after '|' or index out of range."
+msgstr "‘|’ 后的索引无效或超出范围。"
+
+msgid "Battle has Begun: {Battle}"
+msgstr "战斗开始：{Battle}"
+
+msgid "Battle has ended: {Battle} in the context of {EndType}"
+msgstr "战斗结束： {Battle}以{EndType}告终"
+
+msgid "Player's Turn: "
+msgstr "玩家回合："
+
+msgid ""
+"Player Use Round : \n"
+"{playerActions}"
+msgstr ""
+"玩家占用回合：\n"
+"{playerActions}"
+
+msgid "Enemy's Turn: "
+msgstr "敌人回合："
+
+msgid "{targetEnemy} spared: {inflictor} | WasSpareable = {wasSpareable}"
+msgstr "{targetEnemy}饶恕了：{inflictor} | 是否黄名 = {wasSpareable}"
+
+msgid "{targetEnemy} damaged by {inflictor} for {Damage} damage"
+msgstr "{targetEnemy}被{inflictor}造成了{Damage}点伤害"
+
+msgid "{targetMember} damaged for {Damage} damage"
+msgstr "{targetMember}受到{Damage}点伤害"
+
+msgid "{targetEnemy} killed {inflictor} with {Damage} damage"
+msgstr "{targetEnemy}对{inflictor}造成了{Damage}点伤害，{inflictor}已被击杀"
+
+msgid "New Battle State: {newState} | Previous Battle State {oldState}"
+msgstr "新战斗状态：{newState} | 上一个战斗状态：{oldState}"
+
+msgid "Battle Begun: {battle}"
+msgstr "战斗开始：{battle}"
+
+msgid "finished!"
+msgstr "完成！"
+
+msgid "Failed to get Animator in children of Battle Member!"
+msgstr "无法在战斗成员的子级中获取Animator！"
+
+msgid "member in AddPartyMemberToBattle() is null!! WTF!!"
+msgstr "AddPartyMemberToBattle()中的成员为空！！啥玩意啊！！"
+
+msgid ""
+"SetupBattleScript FAILED! Either Battle or BattleScriptPrefab are null!"
+msgstr "SetupBattleScript失败！Battle或BattleScriptPrefab为空！"
+
+msgid ""
+"BattlePartyMembers[0] was null when trying to close battle box and lerp soul"
+msgstr "尝试关闭战斗框并插入灵魂时，BattlePartyMembers[0]为空"
+
+msgid "No new targets available to spare?"
+msgstr "没有新的可饶恕目标？"
+
+msgid "FadeSpriteRenderer Failed | spriteRenderer is missing or null?"
+msgstr "FadeSpriteRenderer运行出错 | spriteRenderer缺失或为空？"
+
+msgid "Scene Loaded: "
+msgstr "加载场景："
+
+msgid "PlayerPrefs saved!"
+msgstr "玩家数据已保存！"
+
+msgid "AttemptRunMultipleActions started."
+msgstr "AttemptRunMultipleActions（尝试运行多个操作）已开始。"
+
+msgid "storedchatboxtext is null"
+msgstr "存储的对话框文本为空"
+
+msgid "currentTextbox.SubActions is null"
+msgstr "currentTextbox.SubActions为空"
+
+msgid "currentTextbox.SubActions.Length is 0"
+msgstr "currentTextbox.SubActions.Length为0"
+
+msgid "currentTextbox.SubActions.SubActions.Length is 0"
+msgstr "currentTextbox.SubActions.SubActions.Length为0"
+
+msgid "Action is null, skipping"
+msgstr "动作为空，跳过"
+
+msgid "AttemptRunMultipleActions ended."
+msgstr "AttemptRunMultipleActions（尝试运行多个操作）已结束。"
+
+msgid "Recorded key {key} with time since last: {num}"
+msgstr "记录键{key}，距上次的时间：{num}"
+
+msgid "Starting playback..."
+msgstr "开始回放..."
+
+msgid "Key: {keyPress.Key}"
+msgstr "键：{keyPress.Key}"
+
+msgid "Playback finished."
+msgstr "回放完毕。"
+
+msgid ""
+"Unable to rotate Character! | targetAnimator isn't active and or enabled"
+msgstr "无法旋转角色！| targetAnimator未激活或未启用"
+
+msgid ""
+"Unable to rotate towards position! | targetAnimator isn't active and or "
+"enabled"
+msgstr "无法旋转至指定位置！| targetAnimator未激活或未启用"
+
+msgid "Unable to shake transform! | transform gameobject not enabled"
+msgstr "摇动变换失败！ | transform gameobject（变换游戏对象）未启用"
+
+msgid "Unable to play sound! | clip is missing or null"
+msgstr "播放音效失败！ | clip缺失或为空"
+
+msgid "Unable to run fresh chat! | CHATBOXTEXT is null"
+msgstr "无法运行新对话！ | CHATBOXTEXT 为空"
+
+msgid "FadeInSprite failed! spriteRenderer is null"
+msgstr "FadeInSprite失败！spriteRenderer为空"
+
+msgid "FadeOutSprite failed! spriteRenderer is null"
+msgstr "FadeOutSprite失败！spriteRenderer为空！"
+
+msgid "Target Transform cannot be null."
+msgstr "目标变换不能为空。"
+
+msgid "Party member null?"
+msgstr "队伍成员为空？"
+
+msgid "Markiplier is missing???"
+msgstr "Markiplier缺失？？？"
+
+msgid "Discord initialized successfully."
+msgstr "Discord初始化成功。"
+
+msgid "Failed to initialize Discord: "
+msgstr "无法初始化Discord，错误信息如下："
+
+msgid ""
+"Common reasons are either, discord not being open or no internet connection."
+msgstr "常见原因是Discord未打开或没有互联网连接。"
+
+msgid "Discord disposed."
+msgstr "Discord已解决."
+
+msgid "Discord is not initialized, skipping ChangeActivity."
+msgstr "Discord未初始化，跳过ChangeActivity。"
+
+msgid "Activity Updated!"
+msgstr "Activity已更新！"
+
+msgid "Discord.RunCallbacks() failed: "
+msgstr "函数“Discord.RunCallbacks()”运行出错，报错信息为："
+
+msgid "Disabling Discord integration to prevent further issues."
+msgstr "正在禁用Discord集成组件，以避免新的问题产生。"
+
+msgid "<color=green>DEBUG FREAKING MODE ENABLED!! WOAHH!!</color>"
+msgstr "<color=green>疯狂的调试模式已开启！！芜湖！！</color>"
+
+msgid "<color=green>Toggled output visibility</color>"
+msgstr "<color=green>切换输出可见性</color>"
+
+msgid "<color=green>Stack trace saved to "
+msgstr "<color=green>Stack trace（堆栈跟踪）保存至 "
+
+msgid ""
+"TODO - Require player to interact with lancer before being able to return"
+msgstr "待办 - 要求玩家与lancer互动后才能返回"
+
+msgid "New keycode set: "
+msgstr "新的键码设置为："
+
+msgid ""
+"Goal: {goal.GoalPlayprefName}, Current: {@int}, Required: {requiredTasks}"
+msgstr "目标：{goal.GoalPlayprefName}，当前：{@int}，需要：{requiredTasks}"
+
+msgid "Goal already completed."
+msgstr "目标已被达成。"
+
+msgid ""
+"Checking goal {hypothesisGoal.GoalPlayprefName}: "
+"{int2}/{hypothesisGoal.RequiredTasks}"
+msgstr ""
+"检查目标{hypothesisGoal.GoalPlayprefName}：{int2}/{hypothesisGoal.RequiredTas"
+"ks}"
+
+msgid "All goals completed!"
+msgstr "目标全部达成！"
+
+msgid "Not all goals completed."
+msgstr "并非全部目标皆已完成。"
+
+msgid "step size outside of bounds idiot"
+msgstr "步长超出界限了 白痴"
+
+msgid "No bool of that name! | "
+msgstr "没有叫那个的布尔值！| "
+
+msgid "Hypothesis or thisSection is null?"
+msgstr "Hypothesis或thisSection为空？"
+
+msgid "Gambling unlocked!"
+msgstr "Gambling（赌博）已解锁！"
+
+msgid "Susie is not in the party?????"
+msgstr "Susie不在队伍中？？？？？"
+
+msgid ""
+"Failed to set Party Member Walk Offset! ( No Susie_Follower in Prefab )"
+msgstr "无法设置小队成员行走偏移！（预制件中没有Susie_Follower）"
+
+msgid "Failed to create Party Member! ( No PartyMemberPrefab )"
+msgstr "无法创建小队成员！（无 PartyMemberPrefab）"
+
+msgid "Failed to create Party Member! ( No Member Provided )"
+msgstr "未能创建成员！（未指定成员编号）"
+
+msgid ""
+"Failed to remove Party Member! ( SpecificedMemberIndex is greater than "
+"ActivePartyMembers list )"
+msgstr "无法创建小队成员！（SpecificedMemberIndex超出ActivePartyMembers列表）"
+
+msgid ""
+"Failed to remove Party Member! ( SpecificMember is not in ActivePartyMembers"
+" )"
+msgstr "未能移除成员！（指定成员已倒下或不在队伍中）"
+
+msgid ""
+"Failed to get Party Member Transform! ( Member not found in "
+"ActivePartyMembers )"
+msgstr "无法获取小队成员变换！（在ActivePartyMembers中未找到成员）"
+
+msgid "One"
+msgstr "一"
+
+msgid "Two"
+msgstr "二"
+
+msgid "Three"
+msgstr "三"
+
+msgid "Attempted to play player animation sound outside of index"
+msgstr "尝试在索引之外播放播放器动画声音"
+
+msgid "Game data saved! | "
+msgstr "游戏档案已保存！ | "
+
+msgid "No Scene Position!"
+msgstr "无场景位置！"
+
+msgid "Game data loaded!"
+msgstr "游戏档案已载入！"
+
+msgid ""
+"Unable to find SpriteRenderer in SPR_Parallax object, defaulting to "
+"length/height = 1"
+msgstr "无法在SPR_Parallax对象中找到SpriteRenderer（贴图渲染器），默认长度/高度 = 1"
+
+msgid "Submesh TextMeshPro Detected"
+msgstr "检测到Submesh TextMeshPro"
+
+msgid "Incorrect elipse detected"
+msgstr "检测到不正确的elipse"
+
+msgid "Incorrect apostrophe detected"
+msgstr "检测到错误的撇号（就是U+0027那个）"
+
+msgid "Text Prefab is not assigned."
+msgstr "未指定文本配置文件。"
+
+msgid "Text Prefab does not have a TextMeshPro component."
+msgstr "文本配置未指向TextMeshPro文件。"
+
+msgid "Reverting CMenus to original states"
+msgstr "将CMenu恢复到原始状态"
+
+msgid "UI_LoadingIcon instance is not set. Make sure it's added to the scene."
+msgstr "实例UI_LoadingIcon未设置。请确保已将其添加到场景中。"
+
+msgid "LoadingIcon RawImage is not assigned in the UI_LoadingIcon."
+msgstr "LoadingIcon RawImage未在UI_LoadingIcon中分配。"

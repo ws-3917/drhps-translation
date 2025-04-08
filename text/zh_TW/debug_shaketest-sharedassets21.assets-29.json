@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "debug_shaketest",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 52
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 52
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 55
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "俯看，俯看\n別正視他們眼\n俯看，俯看\n你在此到死前",
+            "老天吶，我幹了啥？\n當個賊月黑風高，\n像條狗連滾帶爬。\n難道我墮落太久，\n難道我已經沒救？",
+            "看他們亂跑，\n等他們摔倒，\n天上餡餅掉，\n全看你撈多少，\n這裡抓一把，\n那裡刮一下，\n反正他們死啦，\n他們不牽掛！",
+            "如果說，落入法網，\n如果我沉默，良心喪！",
+            "數百個工人都在為我工作，\n都在指望我。\n我怎麼能拋棄大伙兒，\n如果沒有我\n他們怎麼活？",
+            "去騙人？\n我要如何面對身邊人們？\n我又該如何面對我自身？",
+            "我是誰？我是誰？\n是Jean Valjean！",
+            "我是誰？\n24601！"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

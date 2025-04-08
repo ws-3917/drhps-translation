@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 909
+  },
+  "m_Name": "EndOfTheDeltarune_GoalRouxlsPuzzle",
+  "GoalHint": "Solve Rouxls's puzzle",
+  "RequiredTasks": 1,
+  "GoalPlayprefName": "eotd_rouxlspuzzle",
+  "ParentHypothesis": {
+    "m_FileID": 0,
+    "m_PathID": 523
+  }
+}

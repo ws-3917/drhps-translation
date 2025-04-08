@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "debug_colortest",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 601
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 308
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 230
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 591
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 299
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Howdy, I'm <color=yellow>Flowey</color> the Flower!",
+            "I'm <color=red>EVIL</color>, MUAHAHAHAH!!",
+            "I'm feeling <i><color=green>tilted</color></i>!",
+            "I..@ said...@<size=90>SHUT UP</size>",
+            "okay yeah that last one kinda sucked but whatever i'll probably never use it",
+            "<color=red>RED</color> VERUS <color=blue>BLU</color>, Kris we've GOT TO SAVETF2!",
+            "<color=red>RED</color>;<color=green>GREEN</color>;<color=blue>BLUE</color>"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

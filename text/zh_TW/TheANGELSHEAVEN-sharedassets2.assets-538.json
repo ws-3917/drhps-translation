@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 179
+  },
+  "m_Name": "TheANGELSHEAVEN",
+  "HypothesisName": "天使的樂園",
+  "HypothesisStartingScene": 0,
+  "HypothesisTagline": "暗世界的一場騷亂導致他們陷入了最危險的衝突之中。\n",
+  "HypothesisDescription": "",
+  "HypothesisMenuSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "HypothesisGoals": {
+    "Array": []
+  },
+  "TimeWhenWritten": "該猜想編寫於三角符文\n第三章第四章發售之前",
+  "HypotheticalReleased": 0,
+  "LogRewardedOnCompletion": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "LogRewardedOnGoalsCompleted": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

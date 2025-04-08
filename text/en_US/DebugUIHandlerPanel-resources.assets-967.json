@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 94
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 647
+  },
+  "m_Name": "",
+  "nameLabel": {
+    "m_FileID": 0,
+    "m_PathID": 1351
+  },
+  "scrollRect": {
+    "m_FileID": 0,
+    "m_PathID": 1071
+  },
+  "viewport": {
+    "m_FileID": 0,
+    "m_PathID": 665
+  },
+  "Canvas": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

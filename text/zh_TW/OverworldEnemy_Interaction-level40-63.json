@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 819
+  },
+  "m_Name": "",
+  "EnemyAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 41
+  },
+  "SpotPlayerAnimation": "Hurt",
+  "SpotPlayerSound": {
+    "m_FileID": 8,
+    "m_PathID": 248
+  },
+  "CheckmarkObject": {
+    "m_FileID": 0,
+    "m_PathID": 12
+  },
+  "LWM_CouldBeOpen": 0,
+  "DWM_CouldBeOpen": 0,
+  "Battle": {
+    "m_FileID": 3,
+    "m_PathID": 416
+  },
+  "HasBeganBattle": 0
+}

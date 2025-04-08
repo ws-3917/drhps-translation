@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1005
+  },
+  "m_Name": "DevelopmentInsightPart1",
+  "ItemTitle": "开发洞察 第1部分",
+  "DeveloperCommentary": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ItemDescription": "",
+  "Prefab": {
+    "m_FileID": 0,
+    "m_PathID": 284
+  }
+}

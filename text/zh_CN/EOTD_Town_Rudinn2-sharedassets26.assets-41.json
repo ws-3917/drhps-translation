@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTD_Town_Rudinn2",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 301
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "是啊，我都没想到，\n自己居然能坚持这么久。",
+            "无药20个敌人？？\n@怎么可能！"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 301
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "有这样一个梦。\n在爱与关怀的滋养下，\n梦愈发丰富多彩。",
+            "虽然很快就要醒来了，\n但请铭记：",
+            "...未来，一定能再度邂逅\n又一个充满梦的夜晚！"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

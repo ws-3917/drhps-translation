@@ -1,0 +1,215 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 300
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 960
+  },
+  "m_Name": "",
+  "columns": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1115
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1180
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1136
+      }
+    ]
+  },
+  "visibleRows": 3,
+  "spinDuration": 3.0,
+  "spinSpeed": 2500.0,
+  "alignLerpSpeed": 20.0,
+  "TextMoney": {
+    "m_FileID": 0,
+    "m_PathID": 1612
+  },
+  "ControlsText": {
+    "m_FileID": 0,
+    "m_PathID": 1541
+  },
+  "SFX_SlotClick": {
+    "m_FileID": 2,
+    "m_PathID": 170
+  },
+  "SFX_SpendMoney": {
+    "m_FileID": 2,
+    "m_PathID": 151
+  },
+  "Mus_Gambling": {
+    "m_FileID": 4,
+    "m_PathID": 1044
+  },
+  "mus_woody": {
+    "m_FileID": 2,
+    "m_PathID": 178
+  },
+  "slotSymbols": {
+    "Array": [
+      {
+        "sprite": {
+          "m_FileID": 2,
+          "m_PathID": 197
+        },
+        "odds": 500.0,
+        "triplepayout": 1500.0,
+        "selectsound": {
+          "m_FileID": 4,
+          "m_PathID": 1048
+        },
+        "triplesound": {
+          "m_FileID": 2,
+          "m_PathID": 159
+        }
+      },
+      {
+        "sprite": {
+          "m_FileID": 2,
+          "m_PathID": 256
+        },
+        "odds": 850.0,
+        "triplepayout": 500.0,
+        "selectsound": {
+          "m_FileID": 2,
+          "m_PathID": 175
+        },
+        "triplesound": {
+          "m_FileID": 2,
+          "m_PathID": 177
+        }
+      },
+      {
+        "sprite": {
+          "m_FileID": 2,
+          "m_PathID": 196
+        },
+        "odds": 1000.0,
+        "triplepayout": 175.0,
+        "selectsound": {
+          "m_FileID": 2,
+          "m_PathID": 172
+        },
+        "triplesound": {
+          "m_FileID": 2,
+          "m_PathID": 165
+        }
+      },
+      {
+        "sprite": {
+          "m_FileID": 2,
+          "m_PathID": 258
+        },
+        "odds": 1500.0,
+        "triplepayout": 50.0,
+        "selectsound": {
+          "m_FileID": 2,
+          "m_PathID": 153
+        },
+        "triplesound": {
+          "m_FileID": 2,
+          "m_PathID": 160
+        }
+      },
+      {
+        "sprite": {
+          "m_FileID": 2,
+          "m_PathID": 195
+        },
+        "odds": 1750.0,
+        "triplepayout": 10.0,
+        "selectsound": {
+          "m_FileID": 2,
+          "m_PathID": 173
+        },
+        "triplesound": {
+          "m_FileID": 2,
+          "m_PathID": 163
+        }
+      },
+      {
+        "sprite": {
+          "m_FileID": 2,
+          "m_PathID": 191
+        },
+        "odds": 100.0,
+        "triplepayout": 222.0,
+        "selectsound": {
+          "m_FileID": 4,
+          "m_PathID": 1019
+        },
+        "triplesound": {
+          "m_FileID": 4,
+          "m_PathID": 1019
+        }
+      }
+    ]
+  },
+  "ConsoleMenu": {
+    "m_FileID": 0,
+    "m_PathID": 441
+  },
+  "WinnerColumns": {
+    "Array": []
+  },
+  "BackgroundTextLines": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1583
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1535
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1476
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1547
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1568
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1520
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1596
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1566
+      }
+    ]
+  },
+  "BackgroundTextMaxCount": {
+    "Array": []
+  },
+  "WoodyActive": 0,
+  "WoodyGiygas": {
+    "m_FileID": 0,
+    "m_PathID": 112
+  },
+  "WoodyFade": {
+    "m_FileID": 0,
+    "m_PathID": 1742
+  },
+  "WoodyMaterial": {
+    "m_FileID": 2,
+    "m_PathID": 4
+  }
+}

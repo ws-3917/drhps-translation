@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 13
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1296
+  },
+  "m_Name": "",
+  "WingGasterChatbox": {
+    "m_FileID": 0,
+    "m_PathID": 57
+  },
+  "WingGasterText": {
+    "m_FileID": 2,
+    "m_PathID": 9
+  },
+  "levelTransition": {
+    "m_FileID": 0,
+    "m_PathID": 66
+  },
+  "Song": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

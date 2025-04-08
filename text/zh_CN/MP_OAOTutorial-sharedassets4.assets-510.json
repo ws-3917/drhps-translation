@@ -1,0 +1,658 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "MP_OAOTutorial",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 612
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 608
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "来吧！\n让我来教教你们这些\n新手！",
+            "首先，我们要创造\n一个自己的角色。",
+            "就比如，我是...\n至圣骑士VARROCK！",
+            "仗吾神锋，\n群兽无存！",
+            "那么，SUSIE...\n选个角色吧？",
+            "我...\n法师Susie？",
+            "别拘束嘛，\n大胆想象！",
+            "我想想啊...",
+            "我就是...\n神秘的Susira！",
+            "啊，漂亮！\n太适合你了！",
+            "那么，KRIS，\n你呢？"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 506
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 482
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 457
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 496
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 497
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 496
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 497
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 482
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 512
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 606
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 604
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 606
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 606
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 606
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "呃...你就当...\n人类KRIS...\n如何呢？",
+            "现在大家都\n选好角色了...",
+            "那么，咱们开始吧！",
+            "SANS将担任这项史诗\n任务的叙述者。",
+            "你好哇，我如是说到。",
+            "他会描述我们所面临\n的所有危险和麻烦！",
+            "他还会摇俩骰子来\n决定命运。",
+            "摇到大数了？;太好啦！",
+            "摇到小数了？;祈祷吧。",
+            "在游戏中，\n由我们控制\n角色的行为。",
+            "在战斗中，\n由我们选择\n明智的行动！",
+            "如果我们想要成功，\n我们就要共同努力！",
+            "现在我们已经\n介绍了基础知识...",
+            "那么，旅途启航！",
+            "为了能让你们轻松\n入门...",
+            "SANS，\n来场简单的，\n基础的冒险！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 497
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 508
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 504
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 457
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 508
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 506
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 482
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 457
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 513
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 609
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 225
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "至圣骑士varrock，\n神秘的susira还有\nkris进入了一座神庙。",
+            "是为了夺回遗失的\n古董，真是惊心\n动魄！",
+            "varrock踩到了块板子...\n触发了个陷阱。",
+            "一块超大的巨石\n落了下来，大家都被\n压死了。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 482
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 457
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 458
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 511
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 599
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 613
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 601
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "啥-啥？！",
+            "干得漂亮，Varrock。;咱都被压死了！",
+            "不是我的错啊！;SANS在陷害我！",
+            "不是你要的一个\n又美好又基础的\n冒险的吗。",
+            "什么嘛！;管他的，再来一遍。",
+            "这次，\nVARROCK会\n更加警惕！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 495
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 457
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 508
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 507
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 511
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 455
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 229
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "坏了！;他到了？？",
+            "没事，SANS，\n你能让他进来吗？",
+            "得令，殿下。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 495
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 458
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 511
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 236
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 605
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 607
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 601
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 608
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 238
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "那么，Papyrus，\n那位传奇战士到底\n是怎样？",
+            "哎呀，说来话长...",
+            "你看，\n在我们的冒险中，\n我更想...",
+            "呃...\n死的快点。",
+            "巨石压垮我，\n斧头砍伤我...",
+            "不管怎样，\n我都坚持不到最后！",
+            "但是...\n要是他在队伍里...",
+            "我们就会有\n一点点进步！",
+            "不知道为啥，\n他非要和SANS的\n荒谬挑战碰一碰...",
+            "所以，我们就成了\n势不可挡的二人组！！",
+            "听你这意思\n你是在躺赢啊。",
+            "胡说！我的热情才是\n我们胜利的关键！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 459
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 457
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 459
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 456
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 454
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 454
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 482
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 457
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 514
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

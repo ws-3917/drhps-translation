@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2175
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7
+  },
+  "m_Name": "",
+  "Selectable_NameText": {
+    "m_FileID": 0,
+    "m_PathID": 2667
+  },
+  "Selectable_InfoHolder": {
+    "m_FileID": 0,
+    "m_PathID": 2493
+  },
+  "CharacterIconPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 2223
+  },
+  "UnselectedColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  }
+}

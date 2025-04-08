@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 730
+  },
+  "m_Name": "Rudinn",
+  "EnemyName": "Rudinn",
+  "EnemyMaxHealth": 120.0,
+  "EnemyCheckText": {
+    "m_FileID": 0,
+    "m_PathID": 63
+  },
+  "ATK": 5,
+  "DF": 4,
+  "EXP": 1,
+  "DarkDollars": 30,
+  "DefaultSpareAmount": 10,
+  "EnemyPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 23
+  },
+  "EnemyAnim_Idle": "Idle",
+  "EnemyAnim_Hurt": "Hurt",
+  "EnemyAnim_Spare": "Spare"
+}

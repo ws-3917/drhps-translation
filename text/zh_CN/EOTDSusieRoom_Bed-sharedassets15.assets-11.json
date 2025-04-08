@@ -1,0 +1,63 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDSusieRoom_Bed",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 611
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 610
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 17
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "天，我现在真想好好\n睡一觉。",
+            "抱歉，Susie。;恐怕没时间睡觉了！",
+            "打个盹也不行？！",
+            "咱心里都清楚，\n你肯定不只是“打个盹”。",
+            "你还真了解我啊。"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

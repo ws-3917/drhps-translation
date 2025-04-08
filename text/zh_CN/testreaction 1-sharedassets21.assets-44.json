@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1002
+  },
+  "m_Name": "testreaction 1",
+  "Reaction": {
+    "Array": [
+      {
+        "Character": {
+          "m_FileID": 9,
+          "m_PathID": 296
+        },
+        "Text": "土豆威武！",
+        "Offset": {
+          "x": -360.0,
+          "y": 50.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 9,
+          "m_PathID": 302
+        },
+        "Text": "是undertale yayyayayay",
+        "Offset": {
+          "x": 30.0,
+          "y": 50.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 8,
+          "m_PathID": 610
+        },
+        "Text": "我本生于光明，如今骤然坠落。",
+        "Offset": {
+          "x": -360.0,
+          "y": -80.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 8,
+          "m_PathID": 591
+        },
+        "Text": "敬酒不吃吃罚酒！",
+        "Offset": {
+          "x": 165.0,
+          "y": -80.0
+        }
+      }
+    ]
+  }
+}

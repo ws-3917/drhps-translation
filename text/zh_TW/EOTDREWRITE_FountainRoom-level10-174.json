@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 16
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1252
+  },
+  "m_Name": "",
+  "CutsceneIndex": 0,
+  "PlayerCamera": {
+    "m_FileID": 0,
+    "m_PathID": 184
+  },
+  "Kris": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Ralsei": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "SusieStartPos": {
+    "m_FileID": 0,
+    "m_PathID": 86
+  },
+  "RalseiStartPos": {
+    "m_FileID": 0,
+    "m_PathID": 75
+  },
+  "CutsceneFade": {
+    "m_FileID": 0,
+    "m_PathID": 42
+  },
+  "Music_Fountain": {
+    "m_FileID": 6,
+    "m_PathID": 148
+  },
+  "Music_Friendship": {
+    "m_FileID": 6,
+    "m_PathID": 157
+  },
+  "CutsceneChats": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 201
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 27
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 638
+  },
+  "m_Name": "",
+  "ContainsKris": 1,
+  "ResetKrisHealth": 0,
+  "KrisStartingState": 1,
+  "IsDarkworld": 0,
+  "PlayerStartPosition": {
+    "m_FileID": 0,
+    "m_PathID": 38
+  },
+  "PlayerStartRotation": {
+    "x": 0.0,
+    "y": 1.0
+  },
+  "ClearAllMembers": 0,
+  "ReplaceMembers": 0,
+  "NewPartyMembers": {
+    "Array": []
+  },
+  "ReplaceCalls": 0,
+  "ClearCalls": 0,
+  "NewCalls": {
+    "Array": []
+  },
+  "CallNames": {
+    "Array": []
+  },
+  "FadeIn": 1,
+  "DisableGonerMenu": 0,
+  "PlaySongOnLevelLoad": 0,
+  "Song": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "RoomHasMultipleEntrances": 0,
+  "RoomContainsPartyMembers": 0,
+  "RoomPositions": {
+    "DefaultStartPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DefaultKrisRotation": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DefaultCameraStartPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "SpawnPositions": {
+      "Array": []
+    }
+  },
+  "SetNewActivity": 1,
+  "LargeImage": "hypotheticalicon_black",
+  "LargeImageText": "三角符文 - 猜想模擬器",
+  "State": "避風港內",
+  "Details": "猜想模擬：避風港",
+  "VesselText": "* （一個冷若冰霜的容器。）"
+}

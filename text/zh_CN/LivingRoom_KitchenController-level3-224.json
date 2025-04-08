@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 26
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 929
+  },
+  "m_Name": "",
+  "KitchenVisible": 0,
+  "LevelBackgroundAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 163
+  },
+  "sans": {
+    "m_FileID": 0,
+    "m_PathID": 244
+  }
+}

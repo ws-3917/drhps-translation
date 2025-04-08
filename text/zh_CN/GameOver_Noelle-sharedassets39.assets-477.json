@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "GameOver_Noelle",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 501
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 501
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "快醒醒，;这并不好笑！",
+            "我们需要你...！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2581
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2580
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

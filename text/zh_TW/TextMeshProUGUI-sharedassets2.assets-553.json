@@ -1,0 +1,173 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 304
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1632
+  },
+  "m_Name": "",
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_RaycastTarget": 1,
+  "m_RaycastPadding": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_Maskable": 1,
+  "m_OnCullStateChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "m_text": "我們積極地測試模擬過程中操控小型生命體的方法。同時，也開始了新任務：探索周圍環境。\n\n在這次模擬實驗中，我們選用的宿主是所謂的「普通蒼蠅」。由於經驗不足、條件有限，我們尚未成功讓宿主攝取食物以維持生命。在缺乏營養供給的情況下，宿主很快死亡，我們每次實驗最多只能維持2到3天。\n\n儘管單次實驗時間很短，我們仍通過多次模擬，成功探索了環境，並繪製出了通用地標圖。\n\n實驗過程中，獲得如下<I>寶貴</I>發現：\n\n1）模擬環境穩定，始終呈現深秋小鎮的形態；\n2）經多輪驗證確認：模擬環境內的可觀測實體僅有人類與怪物兩類，尚未記錄到其他生命形式；\n3）現有數據表明：怪物與人類存在潛在的穩定共生關係。但因目前僅捕獲到單例人類個體的觀測數據，該猜想尚未達統計學顯著標準，無法定論。\n\n有一點非常有趣：三角符文模擬器正在給從未存在的實體生成記憶。\n\n我們怎麼也想不明白：這到底是什麼原理？這些記憶數據是怎麼獲取的？模擬實驗失控了嗎？是否還有更多秘密沒有被揭曉？",
+  "m_isRightToLeft": 0,
+  "m_fontAsset": {
+    "m_FileID": 0,
+    "m_PathID": 509
+  },
+  "m_sharedMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 2
+  },
+  "m_fontSharedMaterials": {
+    "Array": []
+  },
+  "m_fontMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_fontMaterials": {
+    "Array": []
+  },
+  "m_fontColor32": {
+    "rgba": 4278190080
+  },
+  "m_fontColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "m_enableVertexGradient": 0,
+  "m_colorMode": 3,
+  "m_fontColorGradient": {
+    "topLeft": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "topRight": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "bottomLeft": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "bottomRight": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    }
+  },
+  "m_fontColorGradientPreset": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_spriteAsset": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_tintAllSprites": 0,
+  "m_StyleSheet": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_TextStyleHashCode": -1183493901,
+  "m_overrideHtmlColors": 0,
+  "m_faceColor": {
+    "rgba": 4294967295
+  },
+  "m_fontSize": 18.0,
+  "m_fontSizeBase": 18.0,
+  "m_fontWeight": 400,
+  "m_enableAutoSizing": 0,
+  "m_fontSizeMin": 18.0,
+  "m_fontSizeMax": 72.0,
+  "m_fontStyle": 16,
+  "m_HorizontalAlignment": 1,
+  "m_VerticalAlignment": 256,
+  "m_textAlignment": 65535,
+  "m_characterSpacing": 0.0,
+  "m_wordSpacing": 0.0,
+  "m_lineSpacing": 0.0,
+  "m_lineSpacingMax": 0.0,
+  "m_paragraphSpacing": 0.0,
+  "m_charWidthMaxAdj": 0.0,
+  "m_enableWordWrapping": 1,
+  "m_wordWrappingRatios": 0.4,
+  "m_overflowMode": 0,
+  "m_linkedTextComponent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "parentLinkedComponent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_enableKerning": 1,
+  "m_enableExtraPadding": 0,
+  "checkPaddingRequired": 0,
+  "m_isRichText": 1,
+  "m_parseCtrlCharacters": 1,
+  "m_isOrthographic": 1,
+  "m_isCullingEnabled": 0,
+  "m_horizontalMapping": 0,
+  "m_verticalMapping": 0,
+  "m_uvLineOffset": 0.0,
+  "m_geometrySortingOrder": 0,
+  "m_IsTextObjectScaleStatic": 0,
+  "m_VertexBufferAutoSizeReduction": 0,
+  "m_useMaxVisibleDescender": 1,
+  "m_pageToDisplay": 1,
+  "m_margin": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_isUsingLegacyAnimationComponent": 0,
+  "m_isVolumetricText": 0,
+  "m_hasFontAssetChanged": 0,
+  "m_baseMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_maskOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  }
+}

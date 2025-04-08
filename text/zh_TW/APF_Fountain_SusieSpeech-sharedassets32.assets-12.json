@@ -1,0 +1,202 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "APF_Fountain_SusieSpeech",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 13
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 13
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 13
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 13
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 13
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 13
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 13
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 13
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 13
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "那麼...這就是了，對吧？",
+            "Kris...我能問你些問題嗎？",
+            "事成之後...\n我們還是朋友嗎？",
+            "...",
+            "哈，我開什麼玩笑呢！",
+            "咱們的小組作業\n還沒做完呢！",
+            "而且...像你這樣的朋友\n我永遠也不會絕交。",
+            "...",
+            "那麼，準備好了？"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 11
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（仿佛你的靈魂本身\n散發著光芒...）"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 11
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 9,
+              "m_PathID": 213
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 294
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 306
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "你認為他們會喜歡咱送的\n離別禮物嗎？",
+            "必須的啊！;那禮物都讓我吃了一驚呢！",
+            "嗯...\n你說得在理。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 11
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

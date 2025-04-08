@@ -1,0 +1,231 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 51
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1304
+  },
+  "m_Name": "",
+  "SansWalkPositions": {
+    "Array": [
+      {
+        "x": -6.4,
+        "y": -3.098864,
+        "z": 0.0
+      },
+      {
+        "x": -4.6,
+        "y": -3.098864,
+        "z": 0.0
+      },
+      {
+        "x": -4.6,
+        "y": 2.1,
+        "z": 0.0
+      }
+    ]
+  },
+  "SansWalkspeeds": {
+    "Array": [
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Sans": {
+    "m_FileID": 0,
+    "m_PathID": 246
+  },
+  "ChatsToDisable": {
+    "Array": []
+  },
+  "SansCutsceneChat": {
+    "m_FileID": 0,
+    "m_PathID": 229
+  },
+  "PapyrusRoomLevelPosition": {
+    "m_FileID": 0,
+    "m_PathID": 208
+  },
+  "ActivatePrunselVarient": 0,
+  "InLivingRoomMode": 0,
+  "WalkToKitchen": 0,
+  "LivingRoomPosition": {
+    "x": -6.4,
+    "y": -3.098864
+  },
+  "KitchenPosition": {
+    "x": 3.0,
+    "y": -3.098864
+  },
+  "sansFinishedChat": {
+    "m_FileID": 0,
+    "m_PathID": 232
+  },
+  "SansCutsceneSource": {
+    "m_FileID": 0,
+    "m_PathID": 161
+  },
+  "SansCutsceneSounds": {
+    "Array": [
+      {
+        "m_FileID": 3,
+        "m_PathID": 96
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 1050
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 95
+      }
+    ]
+  },
+  "PlayerCameraReverb": {
+    "m_FileID": 0,
+    "m_PathID": 167
+  },
+  "PapyrusDoor": {
+    "m_FileID": 0,
+    "m_PathID": 170
+  },
+  "PapyrusDoor_Open": {
+    "m_FileID": 3,
+    "m_PathID": 111
+  },
+  "Papyrus_BaitnSwitch": {
+    "m_FileID": 3,
+    "m_PathID": 179
+  },
+  "Susie_ConfirmKnight": {
+    "m_FileID": 3,
+    "m_PathID": 193
+  },
+  "Susie_CountDown3": {
+    "m_FileID": 3,
+    "m_PathID": 190
+  },
+  "Susie_CountDown2": {
+    "m_FileID": 3,
+    "m_PathID": 189
+  },
+  "Susie_CountDown1": {
+    "m_FileID": 3,
+    "m_PathID": 188
+  },
+  "Susie_CountDownGO": {
+    "m_FileID": 3,
+    "m_PathID": 191
+  },
+  "Susie_ReplyToSans": {
+    "m_FileID": 3,
+    "m_PathID": 214
+  },
+  "KrisCutscenePositions": {
+    "Array": [
+      {
+        "x": -6.0,
+        "y": -4.0,
+        "z": -2.0
+      },
+      {
+        "x": -6.0,
+        "y": -2.37,
+        "z": -2.0
+      },
+      {
+        "x": -5.5,
+        "y": 2.25,
+        "z": -2.0
+      },
+      {
+        "x": -6.0,
+        "y": -3.0,
+        "z": -2.0
+      },
+      {
+        "x": -6.0,
+        "y": -3.5,
+        "z": -2.0
+      },
+      {
+        "x": -6.0,
+        "y": -4.0,
+        "z": -2.0
+      },
+      {
+        "x": -6.0,
+        "y": -4.25,
+        "z": -2.0
+      }
+    ]
+  },
+  "SusieCutscenePositions": {
+    "Array": [
+      {
+        "x": -4.5,
+        "y": -4.0,
+        "z": -2.0
+      },
+      {
+        "x": -4.5,
+        "y": -2.25,
+        "z": -2.0
+      },
+      {
+        "x": -5.0,
+        "y": -2.25,
+        "z": -2.0
+      },
+      {
+        "x": -5.5,
+        "y": 2.25,
+        "z": -2.0
+      },
+      {
+        "x": -4.5,
+        "y": -3.0,
+        "z": -2.0
+      },
+      {
+        "x": -4.5,
+        "y": -3.5,
+        "z": -2.0
+      },
+      {
+        "x": -4.5,
+        "y": -4.0,
+        "z": -2.0
+      },
+      {
+        "x": -4.5,
+        "y": -4.25,
+        "z": -2.0
+      }
+    ]
+  },
+  "Goal_AmbushPapyrus": {
+    "m_FileID": 3,
+    "m_PathID": 217
+  },
+  "Goal_GreetPapyrus": {
+    "m_FileID": 3,
+    "m_PathID": 218
+  },
+  "Goal_SusieSnack": {
+    "m_FileID": 5,
+    "m_PathID": 531
+  },
+  "Goal_PrunselAnomalies": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

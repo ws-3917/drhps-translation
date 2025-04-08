@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 62
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1090
+  },
+  "m_Name": "",
+  "FollowingEnabled": 1,
+  "SusieAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 260
+  },
+  "AnimationOverriden": 0,
+  "currentState": 1,
+  "delay": 2.5
+}

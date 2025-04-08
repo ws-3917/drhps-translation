@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1517
+  },
+  "m_Name": "Livingroom_StartSansMusic",
+  "PlaySound": 0,
+  "PossibleSounds": {
+    "Array": []
+  },
+  "RunComponentFunction": 1,
+  "TargetComponentGameObjectName": "SansMusic",
+  "TargetComponentClassname": "LivingRoom_SansMusic",
+  "FunctionName": "StartSansMusic",
+  "SubActions": {
+    "Array": [
+      {
+        "TargetComponentGameObjectName": "SansNPC",
+        "TargetComponentClassname": "Cutscene_SansBeforePapyrus",
+        "FunctionName": "EnableSansLivingRoomMode",
+        "RunActionOnChatEnd": 1
+      },
+      {
+        "TargetComponentGameObjectName": "Starting_Text",
+        "TargetComponentClassname": "OAO_SetupSusiePos",
+        "FunctionName": "EnableSusie",
+        "RunActionOnChatEnd": 1
+      }
+    ]
+  },
+  "RunActionOnChatEnd": 1
+}

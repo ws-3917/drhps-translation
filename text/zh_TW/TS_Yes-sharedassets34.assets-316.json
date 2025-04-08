@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 182
+  },
+  "m_Name": "TS_Yes",
+  "DefaultSelectedChoice": 0,
+  "Choices": {
+    "Array": [
+      "我們肩負著<br>使命"
+    ]
+  },
+  "CanBackOut": 0,
+  "ShowOnTextScrollFinish": 0,
+  "ChoiceCharacterReference": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ChoiceTextResults": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    ]
+  },
+  "ChoicePositions": {
+    "Array": [
+      {
+        "x": -210.0,
+        "y": 0.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 179
+  },
+  "m_Name": "EndOfTheDeltarune",
+  "HypothesisName": "A Prophecy Foretold",
+  "HypothesisStartingScene": 8,
+  "HypothesisTagline": "A legend prophesied has finally reached its somber conclusion.",
+  "HypothesisDescription": "What if the fountain located within supply closet had to be sealed in order for the balance between Light and Dark to be restored?",
+  "HypothesisMenuSprite": {
+    "m_FileID": 0,
+    "m_PathID": 220
+  },
+  "HypothesisGoals": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 525
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 524
+      }
+    ]
+  },
+  "TimeWhenWritten": "this Hypothetical was written before DELTARUNE Chapters 3 & 4's release",
+  "HypotheticalReleased": 1,
+  "LogRewardedOnCompletion": {
+    "m_FileID": 0,
+    "m_PathID": 516
+  },
+  "LogRewardedOnGoalsCompleted": {
+    "m_FileID": 0,
+    "m_PathID": 517
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "RouxlsRoom_Pirate",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 11,
+              "m_PathID": 138
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 613
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 610
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "哦，这是Roulxs跟咱战斗\n时穿着的海盗服！",
+            "你们来了一场精彩的\n海盗大战？！",
+            "为啥我不知道这事！！"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

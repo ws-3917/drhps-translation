@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "Outlawed_MeetLongshot_Poster",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 210
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 212
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 209
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 209
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 208
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 215
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 215
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Tumble county, yes! ;That was the name!",
+            "Ahh, we must've rewatched it hundreds of times as a family!",
+            "Y'know, back in my younger days...",
+            "This show inspired me to become chief of police!",
+            "Didn't get the hat though, shame.",
+            "Well now, ain't that a sight.@ Me, of all folk, inspirin' the youth!",
+            "Sheriffs like us gotta stick tight, no outlaw's got a prayer 'gainst us!"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

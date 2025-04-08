@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1553
+  },
+  "m_Name": "Spamton",
+  "CharacterIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CharacterSound": {
+    "m_FileID": 0,
+    "m_PathID": 63
+  },
+  "CharacterIconWidth": 231.0,
+  "CharacterIconHeight": 182.0,
+  "CharacterHasTalkingAnimation": 0,
+  "CharacterTalkingIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "TellRecieverIfChatting": 0,
+  "CharacterFont": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CharacterFontSize": 64.0,
+  "TextStyleSheet": 1867431062,
+  "GiveCharacterBulletpoint": 1,
+  "TextSpeedMultiplier": 1.0,
+  "TextColor": {
+    "r": 1.0,
+    "g": 0.8843314,
+    "b": 0.33490568,
+    "a": 1.0
+  }
+}

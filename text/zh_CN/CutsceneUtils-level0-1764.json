@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 445
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 677
+  },
+  "m_Name": "",
+  "UtilChatbox": {
+    "m_FileID": 0,
+    "m_PathID": 1765
+  },
+  "UtilSource": {
+    "m_FileID": 0,
+    "m_PathID": 535
+  },
+  "MixerGroup_Effects": {
+    "m_FileID": 2,
+    "m_PathID": 2129
+  },
+  "MixerGroup_Music": {
+    "m_FileID": 2,
+    "m_PathID": 2127
+  },
+  "MixerGroup_Dialogue": {
+    "m_FileID": 2,
+    "m_PathID": 2130
+  },
+  "MixerGroup_Master": {
+    "m_FileID": 2,
+    "m_PathID": 2128
+  }
+}

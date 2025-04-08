@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 135
+  },
+  "m_Name": "",
+  "TargetChat": {
+    "m_FileID": 0,
+    "m_PathID": 361
+  },
+  "TargetAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 246
+  },
+  "TalkAnimationName": "Werewire_Fancy_Talk",
+  "IdleAnimationName": "Werewire_Fancy_Idle",
+  "UseTalkBool": 0,
+  "TalkBoolName": "",
+  "ListenDialogueGlobally": 0,
+  "CharactersToListen": {
+    "Array": []
+  }
+}

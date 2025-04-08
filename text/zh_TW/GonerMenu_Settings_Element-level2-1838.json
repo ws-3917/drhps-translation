@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 373
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1199
+  },
+  "m_Name": "",
+  "SettingsElementName": "終止",
+  "SettingsDescription": "用於返回、退出，\n或立即輸出未顯示的\n文本。",
+  "CurrentlySelected": 0,
+  "CanBeCanceled": 0,
+  "RawImages_AffectedByColor": {
+    "Array": []
+  },
+  "TMP_AffectedByColor": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1645
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1576
+      }
+    ]
+  }
+}

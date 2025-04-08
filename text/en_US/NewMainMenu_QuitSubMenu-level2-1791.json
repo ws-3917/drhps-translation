@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 286
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 107
+  },
+  "m_Name": "",
+  "BackgroundTextLines": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1603
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1551
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1465
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1502
+      }
+    ]
+  },
+  "MainText": {
+    "m_FileID": 0,
+    "m_PathID": 1506
+  },
+  "BackgroundTextMaxCount": {
+    "Array": []
+  },
+  "ComputerGreenLight": {
+    "m_FileID": 0,
+    "m_PathID": 144
+  },
+  "ComputerOrangeLight": {
+    "m_FileID": 0,
+    "m_PathID": 242
+  },
+  "ConsoleMenu": {
+    "m_FileID": 0,
+    "m_PathID": 441
+  }
+}

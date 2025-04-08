@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 243
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 403
+  },
+  "m_Name": "",
+  "JumpArcHeight": 8.0,
+  "JumpDuration": 2.75,
+  "DisableRandomOffsetMarkiplier": 0,
+  "BulletSprite": {
+    "m_FileID": 0,
+    "m_PathID": 370
+  },
+  "RandomSprites": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 144
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 166
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 139
+      }
+    ]
+  },
+  "JumpStartPos": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "JumpEndPos": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "RandomOffsetMarkiplier": 4.0,
+  "dropletsound": {
+    "m_FileID": 0,
+    "m_PathID": 73
+  }
+}

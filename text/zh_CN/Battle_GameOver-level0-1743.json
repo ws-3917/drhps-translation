@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 406
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1105
+  },
+  "m_Name": "",
+  "ObjectHolder": {
+    "m_FileID": 0,
+    "m_PathID": 6
+  },
+  "Soul": {
+    "m_FileID": 0,
+    "m_PathID": 566
+  },
+  "Soul_Regular": {
+    "m_FileID": 2,
+    "m_PathID": 1847
+  },
+  "Soul_Break": {
+    "m_FileID": 2,
+    "m_PathID": 1981
+  },
+  "Soul_ShatterParticles": {
+    "m_FileID": 0,
+    "m_PathID": 559
+  },
+  "GameOverTitle": {
+    "m_FileID": 0,
+    "m_PathID": 569
+  },
+  "GameOverText": {
+    "m_FileID": 0,
+    "m_PathID": 1550
+  },
+  "PossibleDeathMessages": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 2582
+      }
+    ]
+  },
+  "ContinueText": {
+    "m_FileID": 0,
+    "m_PathID": 1344
+  },
+  "GiveUpText": {
+    "m_FileID": 0,
+    "m_PathID": 1343
+  },
+  "GhostSoul": {
+    "m_FileID": 0,
+    "m_PathID": 567
+  },
+  "SoulSFX_Break": {
+    "m_FileID": 2,
+    "m_PathID": 1036
+  },
+  "SoulSFX_Shatter": {
+    "m_FileID": 2,
+    "m_PathID": 1032
+  },
+  "Music_FaintCourage": {
+    "m_FileID": 2,
+    "m_PathID": 1017
+  }
+}

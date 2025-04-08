@@ -1,0 +1,165 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDCastleFloor1_HeartDoorCutscene",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 8,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 306
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 612
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2588
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 233
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 615
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 314
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 309
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 309
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 306
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "...",
+            "我們到了。;這扇門的後面，\n就是噴泉的根部。",
+            "...",
+            "...嘿，Ralsei？",
+            "...怎麼了，Susie？",
+            "這真的是我們的\n最後一面嗎？",
+            "就是說，\n要是還有別人開噴泉，\n會怎樣呢？",
+            "我...@不確定，Susie。",
+            "總之...@\n要是那種事情\n真的發生了...",
+            "...被叫上的會是誰呢，\n我可猜得到。",
+            "哦，我明白了，\n我們是黑暗噴泉的\n水管工！",
+            "哈哈，看來是咯！",
+            "...",
+            "好啦。;我們速戰速決吧！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 55
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 54
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 53
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 52
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 51
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 50
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

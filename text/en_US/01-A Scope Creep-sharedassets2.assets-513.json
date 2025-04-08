@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 268
+  },
+  "m_Name": "01-A Scope Creep",
+  "StartUnlocked": 0,
+  "LogName": "01-A \"SCOPE CREEP\"",
+  "LogPlayerPrefName": "log_01a",
+  "LogType": 0,
+  "LogPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 312
+  },
+  "LogPreview": {
+    "m_FileID": 0,
+    "m_PathID": 215
+  },
+  "LogPreviewScale": {
+    "x": 272.0,
+    "y": 376.0
+  },
+  "LogOpenSound": {
+    "m_FileID": 5,
+    "m_PathID": 1009
+  }
+}

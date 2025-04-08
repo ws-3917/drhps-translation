@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 268
+  },
+  "m_Name": "TheSoundOfNothing",
+  "StartUnlocked": 0,
+  "LogName": "无物之声",
+  "LogPlayerPrefName": "soundofnothing",
+  "LogType": 2,
+  "LogPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 328
+  },
+  "LogPreview": {
+    "m_FileID": 0,
+    "m_PathID": 226
+  },
+  "LogPreviewScale": {
+    "x": 340.0,
+    "y": 250.0
+  },
+  "LogOpenSound": {
+    "m_FileID": 0,
+    "m_PathID": 179
+  }
+}

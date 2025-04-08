@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 118
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1247
+  },
+  "m_Name": "",
+  "PostcardUI": {
+    "m_FileID": 0,
+    "m_PathID": 218
+  },
+  "CurrentlyActive": 0,
+  "PageTurnSFX": {
+    "m_FileID": 2,
+    "m_PathID": 1009
+  },
+  "PostcardAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 552
+  },
+  "PageAnimations": {
+    "Array": [
+      "LancerPostcard_PageTurn_1",
+      "LancerPostcard_PageTurn_2"
+    ]
+  },
+  "SusieText": {
+    "m_FileID": 2,
+    "m_PathID": 2589
+  },
+  "PostcardChat": {
+    "m_FileID": 0,
+    "m_PathID": 1593
+  }
+}

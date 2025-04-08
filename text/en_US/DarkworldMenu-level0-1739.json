@@ -1,0 +1,280 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 399
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 151
+  },
+  "m_Name": "",
+  "MenuOpen": 0,
+  "CanOpenMenu": 0,
+  "ForceDisableInput": 0,
+  "CurrentState": 0,
+  "CurrentSubState": 0,
+  "previousPlayerState": 0,
+  "InventoryMenuObject": {
+    "m_FileID": 0,
+    "m_PathID": 331
+  },
+  "EquipMenuObject": {
+    "m_FileID": 0,
+    "m_PathID": 230
+  },
+  "PowerMenuObject": {
+    "m_FileID": 0,
+    "m_PathID": 416
+  },
+  "SoulSprite": {
+    "m_FileID": 0,
+    "m_PathID": 1167
+  },
+  "Color_Disabled": {
+    "r": 0.3882353,
+    "g": 0.3882353,
+    "b": 0.3882353,
+    "a": 1.0
+  },
+  "Color_Enabled": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "Color_Highlighted": {
+    "r": 1.0,
+    "g": 0.627451,
+    "b": 0.2509804,
+    "a": 1.0
+  },
+  "BarPartyMemberPrefab": {
+    "m_FileID": 2,
+    "m_PathID": 2141
+  },
+  "CurrentBarPartyMemberPrefabs": {
+    "Array": []
+  },
+  "_Anim_MainSection": {
+    "m_FileID": 0,
+    "m_PathID": 551
+  },
+  "_MenuSource": {
+    "m_FileID": 0,
+    "m_PathID": 533
+  },
+  "snd_menuMove": {
+    "m_FileID": 2,
+    "m_PathID": 1013
+  },
+  "snd_backout": {
+    "m_FileID": 2,
+    "m_PathID": 1020
+  },
+  "snd_select": {
+    "m_FileID": 2,
+    "m_PathID": 1008
+  },
+  "snd_deny": {
+    "m_FileID": 2,
+    "m_PathID": 1022
+  },
+  "_TopRowCursorPos": 0,
+  "TopButtons": {
+    "Array": [
+      {
+        "Name": "Item",
+        "SectionTextSprite": {
+          "m_FileID": 2,
+          "m_PathID": 1666
+        },
+        "Unhovered": {
+          "m_FileID": 2,
+          "m_PathID": 1383
+        },
+        "Hovered": {
+          "m_FileID": 2,
+          "m_PathID": 1640
+        },
+        "Selected": {
+          "m_FileID": 2,
+          "m_PathID": 1592
+        },
+        "ButtonRenderer": {
+          "m_FileID": 0,
+          "m_PathID": 1568
+        },
+        "TargetState": 2
+      },
+      {
+        "Name": "Equip",
+        "SectionTextSprite": {
+          "m_FileID": 2,
+          "m_PathID": 1599
+        },
+        "Unhovered": {
+          "m_FileID": 2,
+          "m_PathID": 1653
+        },
+        "Hovered": {
+          "m_FileID": 2,
+          "m_PathID": 1406
+        },
+        "Selected": {
+          "m_FileID": 2,
+          "m_PathID": 1814
+        },
+        "ButtonRenderer": {
+          "m_FileID": 0,
+          "m_PathID": 1543
+        },
+        "TargetState": 3
+      },
+      {
+        "Name": "Power",
+        "SectionTextSprite": {
+          "m_FileID": 2,
+          "m_PathID": 1815
+        },
+        "Unhovered": {
+          "m_FileID": 2,
+          "m_PathID": 1521
+        },
+        "Hovered": {
+          "m_FileID": 2,
+          "m_PathID": 1825
+        },
+        "Selected": {
+          "m_FileID": 2,
+          "m_PathID": 1476
+        },
+        "ButtonRenderer": {
+          "m_FileID": 0,
+          "m_PathID": 1591
+        },
+        "TargetState": 4
+      },
+      {
+        "Name": "Config",
+        "SectionTextSprite": {
+          "m_FileID": 2,
+          "m_PathID": 1656
+        },
+        "Unhovered": {
+          "m_FileID": 2,
+          "m_PathID": 1834
+        },
+        "Hovered": {
+          "m_FileID": 2,
+          "m_PathID": 1596
+        },
+        "Selected": {
+          "m_FileID": 2,
+          "m_PathID": 1570
+        },
+        "ButtonRenderer": {
+          "m_FileID": 0,
+          "m_PathID": 1602
+        },
+        "TargetState": 5
+      }
+    ]
+  },
+  "TopButtonHoveredText": {
+    "m_FileID": 0,
+    "m_PathID": 1552
+  },
+  "DarkDollarText": {
+    "m_FileID": 0,
+    "m_PathID": 1363
+  },
+  "_TopBarDialogueObject": {
+    "m_FileID": 0,
+    "m_PathID": 262
+  },
+  "_TopBarText": {
+    "m_FileID": 0,
+    "m_PathID": 1521
+  },
+  "BottomRow": {
+    "m_FileID": 0,
+    "m_PathID": 455
+  },
+  "_ItemCursorPos": 0,
+  "_ItemOptionCursorPos": 0,
+  "_ItemMemberCursorPos": 0,
+  "previousItemOptionPos": 0,
+  "_InventoryTextSlots": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1380
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1465
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1425
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1474
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1438
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1482
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1350
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1394
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1406
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1476
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1359
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1445
+      }
+    ]
+  },
+  "_InventoryOptions": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1429
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1415
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1426
+      }
+    ]
+  },
+  "StoredItem": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

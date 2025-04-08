@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 179
+  },
+  "m_Name": "Outlawed",
+  "HypothesisName": "無處容身",
+  "HypothesisStartingScene": 42,
+  "HypothesisTagline": "小小的鎮子已經容不下咱們仨辣！",
+  "HypothesisDescription": "如果三角符文第三章有一個帶有牛仔/西部風格的隱藏BOSS會怎樣？此外，如果Asgore也陪我們進入暗世界，會發生什麼？",
+  "HypothesisMenuSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "HypothesisGoals": {
+    "Array": []
+  },
+  "TimeWhenWritten": "該猜想編寫於三角符文\n第三章第四章發售之前",
+  "HypotheticalReleased": 1,
+  "LogRewardedOnCompletion": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "LogRewardedOnGoalsCompleted": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 301
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 631
+  },
+  "m_Name": "",
+  "AssosciatedElement": {
+    "m_FileID": 0,
+    "m_PathID": 1799
+  },
+  "VolumeText": {
+    "m_FileID": 0,
+    "m_PathID": 1610
+  },
+  "TargetMixer": {
+    "m_FileID": 4,
+    "m_PathID": 2126
+  },
+  "VolumeExposedParam": "",
+  "SettingName": "Bumpscosity",
+  "Minimum": 0.0,
+  "Maximum": 1.0,
+  "Stepsize": 0.01,
+  "IgnoreGonerMenuOpenState": 1,
+  "IgnoredGonerSettingsManager": {
+    "m_FileID": 0,
+    "m_PathID": 1753
+  }
+}

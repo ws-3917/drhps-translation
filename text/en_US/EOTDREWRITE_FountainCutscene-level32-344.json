@@ -1,0 +1,93 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 22
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1077
+  },
+  "m_Name": "",
+  "Kris": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "soulShine": {
+    "m_FileID": 0,
+    "m_PathID": 7
+  },
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Ralsei": {
+    "m_FileID": 0,
+    "m_PathID": 372
+  },
+  "fountainColorManager": {
+    "m_FileID": 0,
+    "m_PathID": 350
+  },
+  "startingSusiePosition": {
+    "m_FileID": 0,
+    "m_PathID": 181
+  },
+  "CutsceneIndex": 0,
+  "fountainAnimators": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 229
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 227
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 232
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 228
+      }
+    ]
+  },
+  "FountainSealUI": {
+    "m_FileID": 0,
+    "m_PathID": 100
+  },
+  "Chatter": {
+    "m_FileID": 0,
+    "m_PathID": 348
+  },
+  "ChatterDefault": {
+    "m_FileID": 0,
+    "m_PathID": 345
+  },
+  "susieText": {
+    "m_FileID": 3,
+    "m_PathID": 12
+  },
+  "cutsceneSource": {
+    "m_FileID": 0,
+    "m_PathID": 224
+  },
+  "SFX_soulShine": {
+    "m_FileID": 3,
+    "m_PathID": 6
+  },
+  "SFX_dontforget": {
+    "m_FileID": 3,
+    "m_PathID": 7
+  },
+  "mus_rumble": {
+    "m_FileID": 9,
+    "m_PathID": 83
+  },
+  "mus_finalfountain": {
+    "m_FileID": 8,
+    "m_PathID": 148
+  }
+}

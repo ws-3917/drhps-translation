@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1002
+  },
+  "m_Name": "Livingroom_SansIntroduction_SusieReactionToJoke",
+  "Reaction": {
+    "Array": [
+      {
+        "Character": {
+          "m_FileID": 0,
+          "m_PathID": 241
+        },
+        "Text": "...",
+        "Offset": {
+          "x": 460.0,
+          "y": -80.0
+        }
+      }
+    ]
+  }
+}

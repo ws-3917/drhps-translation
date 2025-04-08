@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 182
+  },
+  "m_Name": "OAO_GoblinFight_Kris_Turn3",
+  "DefaultSelectedChoice": -1,
+  "Choices": {
+    "Array": [
+      "Fight",
+      "Act"
+    ]
+  },
+  "CanBackOut": 0,
+  "ShowOnTextScrollFinish": 0,
+  "ChoiceCharacterReference": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ChoiceTextResults": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 547
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 546
+      }
+    ]
+  },
+  "ChoicePositions": {
+    "Array": [
+      {
+        "x": -363.2,
+        "y": 0.0
+      },
+      {
+        "x": 182.5,
+        "y": 0.0
+      }
+    ]
+  }
+}

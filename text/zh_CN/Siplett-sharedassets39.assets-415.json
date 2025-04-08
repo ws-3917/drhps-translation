@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 730
+  },
+  "m_Name": "Siplett",
+  "EnemyName": "Siplett",
+  "EnemyMaxHealth": 365.0,
+  "EnemyCheckText": {
+    "m_FileID": 0,
+    "m_PathID": 419
+  },
+  "ATK": 10,
+  "DF": 6,
+  "EXP": 20,
+  "DarkDollars": 80,
+  "DefaultSpareAmount": 20,
+  "EnemyPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 266
+  },
+  "EnemyAnim_Idle": "Idle",
+  "EnemyAnim_Hurt": "Hurt",
+  "EnemyAnim_Spare": "Spare"
+}

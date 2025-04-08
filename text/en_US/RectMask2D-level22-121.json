@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 17
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 329
+  },
+  "m_Name": "",
+  "m_Padding": {
+    "x": -8.0,
+    "y": -5.0,
+    "z": -8.0,
+    "w": -5.0
+  },
+  "m_Softness": {
+    "x": 0,
+    "y": 0
+  }
+}

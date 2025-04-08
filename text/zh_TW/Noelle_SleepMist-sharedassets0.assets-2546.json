@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1433
+  },
+  "m_Name": "Noelle_SleepMist",
+  "TargetPartyMember": {
+    "m_FileID": 0,
+    "m_PathID": 2569
+  },
+  "ActionName": "睡眠迷霧",
+  "ActionDescription": "<size=50>饒恕疲憊\n的敵人</size>",
+  "TPRequired": 32,
+  "ActionTarget": 2,
+  "AnimationToAction": "PrepareSpell",
+  "BattleScript_FunctionToRun": ">DefaultSpell_SleepMist",
+  "RequiredPartyMembers": {
+    "Array": []
+  }
+}

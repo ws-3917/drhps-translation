@@ -1,0 +1,368 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "APF_FountainRoom_Acceptance",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 616
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 223
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 616
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2588
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 233
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 217
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 306
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 213
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 612
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2588
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 612
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 223
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 313
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 315
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 313
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Susie...@你還好嗎？;你身上都起雞皮疙瘩了。",
+            "...",
+            "不，我不好。",
+            "拜託，跟我們談談吧。;咱們會幫你的。",
+            "...",
+            "我們的所作所為...@\n真的有意義嗎？",
+            "會不會到頭來...\n一切終將被抹除？",
+            "有的，Susie。;有意義的。",
+            "沒了你，沒了Kris，\n我們的世界或許早已被\n摧毀了。",
+            "可也正因為你們，\n光之民們的生命得以\n延續。",
+            "你是個英雄，Susie。@;這是毋庸置疑的事實。",
+            "...",
+            "...也許你說得對。",
+            "可...就是...@\n我不想離開這裡。",
+            "我不想跟我的朋友們\n分別。",
+            "大家都不想，Susie。",
+            "小鎮裡的每個人，包括我，@\n都不想離開這裡。~可...",
+            "只要噴泉還在，\n呼嘯就會到來。",
+            "我們能做的...\n只有封印掉它。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 202
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 8,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 306
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 231
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 612
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 612
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 240
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 213
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 303
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 614
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 232
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 306
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 304
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "來吧，我有個主意。",
+            "出發前，咱們去跟\n小鎮的居民們\n好好道個別，怎麼樣？",
+            "我相信，他們會很想見\n我們最後一面的。",
+            "好哇，聽著不錯。",
+            "畢竟...;故事總得有個結局。",
+            "我是說，我和Kris也不能\n一輩子待在在學校\n儲物間裡，對吧？",
+            "可是，我們現在站在\n這裡...",
+            "我也說不清楚，\n就是感覺...\n時間過得真快啊。",
+            "我們已經共同經歷\n那麼多了。",
+            "所以這一刻才顯得\n分外特別！",
+            "我們所做的一切，\n都是為了讓我們來到\n這裡。",
+            "呵。;說得像是我們\n計劃好的似的。",
+            "我想我們得去道別了，\n是吧？",
+            "Kris，\n你願意帶隊嗎？",
+            "...再次帶我們\n跨越黑暗吧。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 208
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 207
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 206
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 209
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 209
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 203
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 204
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 205
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 208
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 209
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 202
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

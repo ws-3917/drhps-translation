@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 25
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 612
+  },
+  "m_Name": "",
+  "cutsceneIndex": 1,
+  "KrisCutscenePositions": {
+    "Array": [
+      {
+        "x": -5.5,
+        "y": 1.4,
+        "z": 0.0
+      },
+      {
+        "x": -4.75,
+        "y": -6.0,
+        "z": 0.0
+      },
+      {
+        "x": 5.0,
+        "y": -4.3,
+        "z": 0.0
+      }
+    ]
+  },
+  "SusieCutscenePositions": {
+    "Array": [
+      {
+        "x": -5.84,
+        "y": 2.2,
+        "z": 0.0
+      },
+      {
+        "x": -6.0,
+        "y": -6.0,
+        "z": 0.0
+      },
+      {
+        "x": 5.0,
+        "y": -3.45,
+        "z": 0.0
+      }
+    ]
+  },
+  "SansCutscenePositions": {
+    "Array": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ]
+  },
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 177
+  },
+  "Sans": {
+    "m_FileID": 0,
+    "m_PathID": 44
+  },
+  "SansAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 127
+  },
+  "CutsceneChatter": {
+    "m_FileID": 0,
+    "m_PathID": 173
+  },
+  "CutsceneChats": {
+    "Array": [
+      {
+        "m_FileID": 5,
+        "m_PathID": 6
+      },
+      {
+        "m_FileID": 5,
+        "m_PathID": 7
+      }
+    ]
+  },
+  "ComicBookRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 135
+  },
+  "ComicSwanSprite": {
+    "m_FileID": 3,
+    "m_PathID": 122
+  },
+  "LevelTransition": {
+    "m_FileID": 0,
+    "m_PathID": 166
+  }
+}

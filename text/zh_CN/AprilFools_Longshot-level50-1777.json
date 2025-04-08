@@ -1,0 +1,168 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 260
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 114
+  },
+  "m_Name": "",
+  "HP": 60,
+  "MovementSpeed": 15.0,
+  "CanWalkToPos": 0,
+  "Damageable": 1,
+  "RandomWalkPositions": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 794
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 677
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 610
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 655
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 561
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 673
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 528
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 439
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 461
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 780
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 509
+      }
+    ]
+  },
+  "LongshotAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 1411
+  },
+  "Player": {
+    "m_FileID": 0,
+    "m_PathID": 1794
+  },
+  "SFX_LongshotDamaged": {
+    "m_FileID": 2,
+    "m_PathID": 72
+  },
+  "LongshotHPBar": {
+    "m_FileID": 0,
+    "m_PathID": 1744
+  },
+  "LongshotHPTransition": {
+    "m_FileID": 0,
+    "m_PathID": 1697
+  },
+  "LongshotAttackPrefab_Rocket": {
+    "m_FileID": 2,
+    "m_PathID": 138
+  },
+  "LongshotAttackPrefab_Dynamite": {
+    "m_FileID": 2,
+    "m_PathID": 143
+  },
+  "LongshotAttackPrefab_RocketHoming": {
+    "m_FileID": 2,
+    "m_PathID": 137
+  },
+  "RandomDynamiteDropPositions": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 699
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 646
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 747
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 544
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 538
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 625
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 624
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 715
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 717
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 679
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 507
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 573
+      }
+    ]
+  },
+  "SFX_Jump": {
+    "m_FileID": 8,
+    "m_PathID": 61
+  },
+  "SFX_ThrowDynamite": {
+    "m_FileID": 2,
+    "m_PathID": 70
+  },
+  "SFX_DoubleMissile": {
+    "m_FileID": 2,
+    "m_PathID": 67
+  },
+  "SFX_LongshotPissed": {
+    "m_FileID": 2,
+    "m_PathID": 81
+  },
+  "SFX_LongshotLaugh": {
+    "m_FileID": 2,
+    "m_PathID": 77
+  }
+}

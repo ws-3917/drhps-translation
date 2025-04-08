@@ -1,0 +1,103 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 96
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1551
+  },
+  "m_Name": "",
+  "SelectedInfo_Description": {
+    "m_FileID": 0,
+    "m_PathID": 1378
+  },
+  "SelectedInfo_TPCount": {
+    "m_FileID": 0,
+    "m_PathID": 1431
+  },
+  "SelectableHolder": {
+    "m_FileID": 0,
+    "m_PathID": 1324
+  },
+  "Soul": {
+    "m_FileID": 0,
+    "m_PathID": 991
+  },
+  "AllowInput": 0,
+  "currentSelectionIndex": 0,
+  "targetPartyMember": {
+    "PartyMemberInBattle": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "ActiveMemberInBattle": {
+      "PartyMemberDescription": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "PartyMemberTransform": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "PartyMemberFollowSettings": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "CurrentHealth": 0
+    },
+    "PartyMemberInBattle_Gameobjects": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMemberInBattle_Animator": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMemberInBattle_MainSpriteRenderer": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMemberInBattle_AfterImageParticleRenderer": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "StoredPartyMembePositions": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "StoredOriginalOverworldPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "PartyMemberStatus": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMember_Health": 0.0,
+    "PartyMember_MaxHealth": 0.0,
+    "IsDefending": 0,
+    "SkippingTurn": 0,
+    "PartyMemberAction": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "targetEnemyIndex": 0,
+  "Prefab_BAIWSelectable": {
+    "m_FileID": 2,
+    "m_PathID": 2175
+  },
+  "Prefab_BAIW_CharIcon": {
+    "m_FileID": 2,
+    "m_PathID": 2223
+  },
+  "MemberSelectionMenu": {
+    "m_FileID": 0,
+    "m_PathID": 1711
+  },
+  "BAIW_CurrentSelectables": {
+    "Array": []
+  }
+}

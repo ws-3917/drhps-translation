@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1002
+  },
+  "m_Name": "OAO_SansLowBrow",
+  "Reaction": {
+    "Array": [
+      {
+        "Character": {
+          "m_FileID": 0,
+          "m_PathID": 601
+        },
+        "Text": "SANS！\n別笑了！",
+        "Offset": {
+          "x": 214.0,
+          "y": -81.78
+        }
+      }
+    ]
+  }
+}

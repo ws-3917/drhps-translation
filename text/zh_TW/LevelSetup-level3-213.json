@@ -1,0 +1,86 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 13
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 638
+  },
+  "m_Name": "",
+  "ContainsKris": 1,
+  "ResetKrisHealth": 0,
+  "KrisStartingState": 1,
+  "IsDarkworld": 0,
+  "PlayerStartPosition": {
+    "m_FileID": 0,
+    "m_PathID": 77
+  },
+  "PlayerStartRotation": {
+    "x": 0.0,
+    "y": 1.0
+  },
+  "ClearAllMembers": 0,
+  "ReplaceMembers": 1,
+  "NewPartyMembers": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 2571
+      }
+    ]
+  },
+  "ReplaceCalls": 1,
+  "ClearCalls": 0,
+  "NewCalls": {
+    "Array": [
+      {
+        "m_FileID": 3,
+        "m_PathID": 219
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 220
+      }
+    ]
+  },
+  "CallNames": {
+    "Array": [
+      "家裡",
+      "#給Sans打電話"
+    ]
+  },
+  "FadeIn": 1,
+  "DisableGonerMenu": 0,
+  "PlaySongOnLevelLoad": 0,
+  "Song": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "RoomHasMultipleEntrances": 0,
+  "RoomContainsPartyMembers": 0,
+  "RoomPositions": {
+    "DefaultStartPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DefaultKrisRotation": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DefaultCameraStartPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "SpawnPositions": {
+      "Array": []
+    }
+  },
+  "SetNewActivity": 1,
+  "LargeImage": "hypotheticalicon_oao",
+  "LargeImageText": "三角符文 - 猜想模擬器",
+  "State": "Sans和???????的家",
+  "Details": "猜想模擬：萬千世界與食人巨魔",
+  "VesselText": "* （一個引人注目的容器。）"
+}

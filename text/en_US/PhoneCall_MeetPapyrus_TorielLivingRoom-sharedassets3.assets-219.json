@@ -1,0 +1,120 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "PhoneCall_MeetPapyrus_TorielLivingRoom",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 244
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 243
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 245
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 242
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "(Ring, ring...)",
+            "Hi honey! Are you spending time with Susie again?",
+            "What's that?;You're meeting Sans's brother with her?",
+            "How exciting!;The more friends, the merrier!",
+            "Just make sure you're home before sunset, I have a pie cooling!",
+            "(Click...)"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 243
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 243
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 246
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 245
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "(Ring, ring...)",
+            "Is everything okay dear?",
+            "His brother isn't too much for you is he?",
+            "You haven't met him yet?",
+            "Hee hee, well I didn't mean to startle you.",
+            "(Click...)"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

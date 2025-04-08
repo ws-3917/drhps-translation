@@ -1,0 +1,156 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 62
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1505
+  },
+  "m_Name": "",
+  "Sparklers": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 213
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 209
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 202
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 232
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 227
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 217
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 205
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 236
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 216
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 223
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 203
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 215
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 220
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 214
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 208
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 218
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 230
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 234
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 204
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 228
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 219
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 210
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 231
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 207
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 235
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 206
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 211
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 224
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 221
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 201
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 225
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 222
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 233
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 229
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 212
+      }
+    ]
+  }
+}

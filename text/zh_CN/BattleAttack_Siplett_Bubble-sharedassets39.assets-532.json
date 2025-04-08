@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 244
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 430
+  },
+  "m_Name": "",
+  "upwardSpeed": 3.0,
+  "swayDistance": 1.0,
+  "swayFrequency": {
+    "x": 1.65,
+    "y": 3.0
+  },
+  "lifetimeRange": {
+    "x": 2.75,
+    "y": 3.0
+  },
+  "popSFXs": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 84
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 72
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 85
+      }
+    ]
+  }
+}

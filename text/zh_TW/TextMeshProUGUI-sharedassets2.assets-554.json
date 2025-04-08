@@ -1,0 +1,173 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 305
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1632
+  },
+  "m_Name": "",
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_RaycastTarget": 1,
+  "m_RaycastPadding": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_Maskable": 1,
+  "m_OnCullStateChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "m_text": "最近，我們中的一位發現：模擬崩潰是編譯參數名拼寫有誤所致。\n\n起初，我們擔心無法正常生成看到的環境，但幸運的是，事實並非如此。但不知為何，儲物間始終無法正常生成。\n有意思，模擬實驗進行了這麼長時間，我們從未干預過KRIS的行為。為什麼會突然出現這種變化？\n\nKRIS又到了「視界」之外。這次，KRIS醒來時，我們沒有遇到模擬崩潰的問題。相反，我們見到了一個更加奇特的環境。與此同時，KRIS的外表也發生了許多變化。\n\n先前，KRIS穿著一件簡單的黃綠色毛衣，現在卻身著一整套盔甲。繼續探索時，還找到了「SUSIE」。似乎這個實體的外表也有所改變。SUSIE仍表現如常，其性格與態度在新環境中未見明顯改變。\n\n似乎這個世界是模擬器有意生成的，而非外部故障所致。\n\n這也解釋了為什麼過去我們會遇到那些性能問題。就當前實驗現象來看，顯然，模擬器至少正在生成兩個獨立世界，可能還會生成更多的世界。",
+  "m_isRightToLeft": 0,
+  "m_fontAsset": {
+    "m_FileID": 0,
+    "m_PathID": 509
+  },
+  "m_sharedMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 2
+  },
+  "m_fontSharedMaterials": {
+    "Array": []
+  },
+  "m_fontMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_fontMaterials": {
+    "Array": []
+  },
+  "m_fontColor32": {
+    "rgba": 4278190080
+  },
+  "m_fontColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "m_enableVertexGradient": 0,
+  "m_colorMode": 3,
+  "m_fontColorGradient": {
+    "topLeft": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "topRight": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "bottomLeft": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "bottomRight": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    }
+  },
+  "m_fontColorGradientPreset": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_spriteAsset": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_tintAllSprites": 0,
+  "m_StyleSheet": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_TextStyleHashCode": -1183493901,
+  "m_overrideHtmlColors": 0,
+  "m_faceColor": {
+    "rgba": 4294967295
+  },
+  "m_fontSize": 18.0,
+  "m_fontSizeBase": 18.0,
+  "m_fontWeight": 400,
+  "m_enableAutoSizing": 0,
+  "m_fontSizeMin": 18.0,
+  "m_fontSizeMax": 72.0,
+  "m_fontStyle": 16,
+  "m_HorizontalAlignment": 1,
+  "m_VerticalAlignment": 256,
+  "m_textAlignment": 65535,
+  "m_characterSpacing": 0.0,
+  "m_wordSpacing": 0.0,
+  "m_lineSpacing": 0.0,
+  "m_lineSpacingMax": 0.0,
+  "m_paragraphSpacing": 0.0,
+  "m_charWidthMaxAdj": 0.0,
+  "m_enableWordWrapping": 1,
+  "m_wordWrappingRatios": 0.4,
+  "m_overflowMode": 0,
+  "m_linkedTextComponent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "parentLinkedComponent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_enableKerning": 1,
+  "m_enableExtraPadding": 0,
+  "checkPaddingRequired": 0,
+  "m_isRichText": 1,
+  "m_parseCtrlCharacters": 1,
+  "m_isOrthographic": 1,
+  "m_isCullingEnabled": 0,
+  "m_horizontalMapping": 0,
+  "m_verticalMapping": 0,
+  "m_uvLineOffset": 0.0,
+  "m_geometrySortingOrder": 0,
+  "m_IsTextObjectScaleStatic": 0,
+  "m_VertexBufferAutoSizeReduction": 0,
+  "m_useMaxVisibleDescender": 1,
+  "m_pageToDisplay": 1,
+  "m_margin": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_isUsingLegacyAnimationComponent": 0,
+  "m_isVolumetricText": 0,
+  "m_hasFontAssetChanged": 0,
+  "m_baseMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_maskOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  }
+}

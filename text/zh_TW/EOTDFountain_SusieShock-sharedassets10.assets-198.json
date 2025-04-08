@@ -1,0 +1,228 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDFountain_SusieShock",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 228
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 228
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 222
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 616
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 313
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 223
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 215
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 314
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 213
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 214
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 223
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 228
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2586
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 223
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 213
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 616
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "聽著，混蛋，別做得像我一樣\n了解Lancer！",
+            "...你最好得把它拿回來！",
+            "除非你讓我解釋一下我的觀點！",
+            "...",
+            "Susie，你說的對，\n我該更早點跟你們兩個說的。",
+            "對不起，我不能..",
+            "在我第一次了解\n這傳說的時候..",
+            "...我滿腦子想的都是這些。",
+            "知道每個人的命運\n都是命中注定的，\n這很心痛...",
+            "不過...這之後\n我與你們兩個相遇了...",
+            "我不想知道迎來什麼結局，\n命運什麼的我不在乎。",
+            "旅程雖短暫，\n但我們非常開心！",
+            "..我不知道接下來\n會發生什麼。",
+            "什麼？！@\n這一切都是徒勞！",
+            "徒勞？！",
+            "沒你們兩個的話，\n兩個世界都會招致毀滅！",
+            "你還能拯救這整個光世界！",
+            "這一切一旦結束...",
+            "英雄仍舊是你們。",
+            "即使我們走了，Susie。",
+            "..."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 164
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 163
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 164
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 162
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 163
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 191
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 162
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 164
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 176
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 161
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 164
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 163
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 176
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 163
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 152
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

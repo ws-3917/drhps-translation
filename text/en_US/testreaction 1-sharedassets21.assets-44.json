@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1002
+  },
+  "m_Name": "testreaction 1",
+  "Reaction": {
+    "Array": [
+      {
+        "Character": {
+          "m_FileID": 9,
+          "m_PathID": 296
+        },
+        "Text": "woahoahooh~",
+        "Offset": {
+          "x": -360.0,
+          "y": 50.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 9,
+          "m_PathID": 302
+        },
+        "Text": "story of undertale!",
+        "Offset": {
+          "x": 30.0,
+          "y": 50.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 8,
+          "m_PathID": 610
+        },
+        "Text": "i fell from the light.",
+        "Offset": {
+          "x": -360.0,
+          "y": -80.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 8,
+          "m_PathID": 591
+        },
+        "Text": "talk or should i fight?",
+        "Offset": {
+          "x": 165.0,
+          "y": -80.0
+        }
+      }
+    ]
+  }
+}

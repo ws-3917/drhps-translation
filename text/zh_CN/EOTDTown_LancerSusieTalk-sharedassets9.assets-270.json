@@ -1,0 +1,219 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDTown_LancerSusieTalk",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 294
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 294
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 611
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 239
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 297
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 297
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 299
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 299
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 298
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 294
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 295
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 241
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 300
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 295
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 231
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 299
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 240
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "我擦，你可真赶巧了！",
+            "我正对着镜子\n练习呢！",
+            "另一个我也真的\n很擅长这个！",
+            "总之，近况如何？",
+            "我们走后的这两天，\n有什么酷酷的事\n发生吗？",
+            "这几天忙的要死！",
+            "是的，我散步时\n有注意到，具体怎么了？",
+            "自从Ralsei告诉了我们\n这个可怕的消息之后...",
+            "...大伙都吓完了！",
+            "我要不停地安抚大家！\n脆弱的嗓子都要\n被搞废了！！",
+            "但别担心！;有你在这，\n啥都好办了！！",
+            "带个潜水面罩！\n不然你会被大伙的\n泪水淹死的！",
+            "你说什么...@“消息”？",
+            "有件大事要发生了。@;你知道吧？",
+            "什么“大事”？！",
+            "...",
+            "你...@\n你还不知道吗？",
+            "...不知道。",
+            "...",
+            "Lancer...？"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 279
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 280
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 279
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 280
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 277
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 278
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 278
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 277
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 276
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

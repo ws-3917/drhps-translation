@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1517
+  },
+  "m_Name": "Livingroom_HamsterWheel_SusieAngry",
+  "PlaySound": 0,
+  "PossibleSounds": {
+    "Array": []
+  },
+  "RunComponentFunction": 1,
+  "TargetComponentGameObjectName": "LevelInteractableSpecific",
+  "TargetComponentClassname": "MP_LivingRoom_InteractableCutscenes",
+  "FunctionName": "MP_LivingRoom_SusieAngry",
+  "SubActions": {
+    "Array": [
+      {
+        "TargetComponentGameObjectName": "LevelInteractableSpecific",
+        "TargetComponentClassname": "MP_LivingRoom_InteractableCutscenes",
+        "FunctionName": "MP_LivingRoom_SusieIdleReturn",
+        "RunActionOnChatEnd": 1
+      }
+    ]
+  },
+  "RunActionOnChatEnd": 0
+}

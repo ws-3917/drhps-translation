@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1052
+  },
+  "m_Name": "",
+  "SoulRigidbody": {
+    "m_FileID": 0,
+    "m_PathID": 510
+  },
+  "SoulAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 537
+  },
+  "_soulSource": {
+    "m_FileID": 0,
+    "m_PathID": 523
+  },
+  "CurrentSoulType": 0,
+  "CurrentSoulState": 1,
+  "DefaultMoveSpeed": 160.0,
+  "DefaultSlowMoveSpeed": 80.0,
+  "DamageCooldown": 0
+}

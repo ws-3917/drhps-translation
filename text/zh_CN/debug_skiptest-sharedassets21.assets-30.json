@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "debug_skiptest",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 601
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 308
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（3）每组选取20个马铃薯，观察记录每个马铃薯上的第一个芽眼开始萌发所需时间，统\n计并计算各组的平均值，得出上述实验结果，这样做的目的是：_________",
+            "(4)根据实验结果可知，__条件下马铃薯的储藏期更长。",
+            "该死的spr打字机 我恨呐"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

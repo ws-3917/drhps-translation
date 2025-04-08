@@ -1,0 +1,283 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "Outlawed_LongshotIntroduce",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 215
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 220
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 211
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 210
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 212
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 215
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 215
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 314
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 219
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 315
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 238
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 209
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 220
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 314
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 217
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 218
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 218
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Name's Sheriff Longshot! ;Mightiest sharpshooter in the west!",
+            "Didn't mean to get all riled up, been a right wild night, I tell ya!",
+            "Oh!@ You're from that show, aren't ya?",
+            "Kris, that ol' cowboy tape I used to play for you and your brother...",
+            "... This is him! ;I wasn't aware it was live action!",
+            "Well now, ain't that a hoot!@ Y'all done heard 'bout me too?!",
+            "Shoot, I'm downright flattered!@ Heard heaps 'bout y'all too!",
+            "You have?",
+            "Course! ;Y'all done some mighty fine work!",
+            "This is... news. ;I wasn't aware someone else knew the prophecy.",
+            "About time we started to get some recognition.",
+            "Law enforcement must run in the family then, hey Kris?",
+            "Say now, any of y'all got the key to this here show set?",
+            "I don't think so, why?",
+            "Ain't a pretty story. ;I doubt y'all wanna hear me ramble.",
+            "My show's been axed, and they've gone and locked my partners up inside!",
+            "Reckon you could do a good ol' peacemaker a favor and lend a hand?"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 201
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 200
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 201
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 200
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 201
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 205
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 202
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

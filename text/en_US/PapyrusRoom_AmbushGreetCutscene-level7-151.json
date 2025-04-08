@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 23
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 579
+  },
+  "m_Name": "",
+  "CutsceneIndex": 0,
+  "PapyrusTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PapyrusAngryEyebrows": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PapyrusAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 98
+  },
+  "PapyrusArmorAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "SansArmorAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 160
+  },
+  "Kris": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Sans": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "SansAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Candle": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "TableLighting": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DarkRoomObjects": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "LightRoomObjects": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "RoomTourCutscene": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "KrisWalkPositions": {
+    "Array": []
+  },
+  "SusieWalkPositions": {
+    "Array": []
+  },
+  "KrisWalkDirections": {
+    "Array": []
+  },
+  "SusieWalkDirections": {
+    "Array": []
+  },
+  "PapyrusWalkDirections": {
+    "Array": []
+  },
+  "PapyrusWalkPositions": {
+    "Array": []
+  },
+  "CutsceneChatter": {
+    "m_FileID": 0,
+    "m_PathID": 152
+  },
+  "CutsceneChats": {
+    "Array": [
+      {
+        "m_FileID": 5,
+        "m_PathID": 442
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 9
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 8
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 26
+      }
+    ]
+  },
+  "CutsceneSource": {
+    "m_FileID": 0,
+    "m_PathID": 93
+  },
+  "CutsceneSounds": {
+    "Array": []
+  }
+}

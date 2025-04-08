@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 82
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1308
+  },
+  "m_Name": "",
+  "arcTarget": {
+    "m_FileID": 0,
+    "m_PathID": 193
+  },
+  "linearTarget": {
+    "m_FileID": 0,
+    "m_PathID": 212
+  },
+  "arcDuration": 2.0,
+  "linearDuration": 3.0,
+  "arcSpinSpeed": -720.0,
+  "linearSpinSpeed": -90.0,
+  "arcHeight": 2.0,
+  "jumpHeight": 2.0,
+  "FinishedThrowAnimation": 0,
+  "FinishedJumpAnimation": 0,
+  "SiplettRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 270
+  },
+  "SiplettAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 229
+  },
+  "snd_move": {
+    "m_FileID": 2,
+    "m_PathID": 82
+  },
+  "snd_jump": {
+    "m_FileID": 8,
+    "m_PathID": 61
+  }
+}

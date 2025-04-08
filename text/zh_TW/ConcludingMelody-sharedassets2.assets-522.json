@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 179
+  },
+  "m_Name": "ConcludingMelody",
+  "HypothesisName": "尾聲",
+  "HypothesisStartingScene": 38,
+  "HypothesisTagline": "冒險結束後，一段簡短而甜蜜的尾聲。",
+  "HypothesisDescription": "假設三角符文有一個圓滿結局，那麼它的尾聲會是什麼樣子呢？",
+  "HypothesisMenuSprite": {
+    "m_FileID": 0,
+    "m_PathID": 217
+  },
+  "HypothesisGoals": {
+    "Array": []
+  },
+  "TimeWhenWritten": "該猜想編寫於三角符文\n第三章第四章發售之前",
+  "HypotheticalReleased": 1,
+  "LogRewardedOnCompletion": {
+    "m_FileID": 0,
+    "m_PathID": 515
+  },
+  "LogRewardedOnGoalsCompleted": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

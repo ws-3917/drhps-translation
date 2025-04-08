@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1002
+  },
+  "m_Name": "testreaction 3",
+  "Reaction": {
+    "Array": [
+      {
+        "Character": {
+          "m_FileID": 8,
+          "m_PathID": 591
+        },
+        "Text": "(I mean fuck!)",
+        "Offset": {
+          "x": 275.0,
+          "y": -80.0
+        }
+      }
+    ]
+  }
+}

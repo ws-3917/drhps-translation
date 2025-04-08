@@ -1,0 +1,163 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 222
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 517
+  },
+  "m_Name": "",
+  "BackgroundTextLines": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1486
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1531
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1550
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1552
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1633
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1627
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1646
+      }
+    ]
+  },
+  "MainText": {
+    "m_FileID": 0,
+    "m_PathID": 1543
+  },
+  "BackgroundTextMaxCount": {
+    "Array": []
+  },
+  "creditAreas": {
+    "Array": [
+      {
+        "CreditNames": "... Return",
+        "CreditCharacterAnimationName": "",
+        "CreditSound": {
+          "m_FileID": 4,
+          "m_PathID": 1019
+        },
+        "Title": 0,
+        "CreditDescription": ""
+      },
+      {
+        "CreditNames": "uprank",
+        "CreditCharacterAnimationName": "CreditChar_Uprank",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 166
+        },
+        "Title": 0,
+        "CreditDescription": "Director, Composer, Programmer, Writer, 2D/3D Art\n\n\" I think I miss my low-poly ps1 retro artstyle indie horror games... \""
+      },
+      {
+        "CreditNames": "puzzlerat",
+        "CreditCharacterAnimationName": "CreditChar_Ratcastles",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 150
+        },
+        "Title": 0,
+        "CreditDescription": "Composer, Writing Assistance, Playtester\n\n\" i remember you're <color=green>game development</color> \""
+      },
+      {
+        "CreditNames": "MagicFroge",
+        "CreditCharacterAnimationName": "CreditsChar_MagicFroge",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 150
+        },
+        "Title": 0,
+        "CreditDescription": "<size=32>Composer</size>\n<size=24>(Character sprite by Sooski)</size>\n\n\" Composing for this project and having my music reach more than a few people has been an absolute honor. Keep on doing the things you love, and thanks for listening along! \"\n"
+      },
+      {
+        "CreditNames": "Sooski",
+        "CreditCharacterAnimationName": "CreditsChar_Sooski",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 150
+        },
+        "Title": 0,
+        "CreditDescription": "<size=32>Composer</size>\n<size=24>(Character sprite by Sooski)</size>\n\n\" THIS FORM- THIS HORRIBLE FORM... ONE DAY I WILL BREAK FREE!!\n\n\nIN THE MEANTIME, PLEASE ACCEPT MY GRATITUDE FOR GIVING THIS LITTLE WORLD OF OURS A CHANCE- THE SIGHTS AND SOUNDS, THE HIGHS AND LOWS. DO COME BACK AGAIN SOMETIME...\n\n\nWE WILL ALWAYS BE MAKING, MAKING AND MAKING AGAIN!! \"\n"
+      },
+      {
+        "CreditNames": "trashei",
+        "CreditCharacterAnimationName": "CreditChar_Trashei",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 146
+        },
+        "Title": 0,
+        "CreditDescription": "Playtester\n\n\" chara apparition in sans's room \""
+      },
+      {
+        "CreditNames": "Fillow",
+        "CreditCharacterAnimationName": "CreditChar_Fillow",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 161
+        },
+        "Title": 0,
+        "CreditDescription": "Playtester\n\n\" The first rule is cardio? Now I get it..................\""
+      },
+      {
+        "CreditNames": "Abbie Gonzalez",
+        "CreditCharacterAnimationName": "CreditChar_AbbieGonzalez",
+        "CreditSound": {
+          "m_FileID": 4,
+          "m_PathID": 1019
+        },
+        "Title": 0,
+        "CreditDescription": "Creator of the OpenDyselxic Font\n\nSocials\nabbiegonzalez.com"
+      }
+    ]
+  },
+  "CreditTypes": {
+    "Array": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "ConsoleMenu": {
+    "m_FileID": 0,
+    "m_PathID": 441
+  },
+  "CreditName": {
+    "m_FileID": 0,
+    "m_PathID": 1609
+  },
+  "CreditDescription": {
+    "m_FileID": 0,
+    "m_PathID": 1577
+  },
+  "CreditIcon": {
+    "m_FileID": 0,
+    "m_PathID": 610
+  }
+}

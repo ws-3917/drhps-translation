@@ -1,0 +1,261 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 441
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1138
+  },
+  "m_Name": "",
+  "PlayerManager": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "QueuedCharacterCalls": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    ]
+  },
+  "NoResponseCall": {
+    "m_FileID": 2,
+    "m_PathID": 2583
+  },
+  "PlayerCallChat": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ItemMenuOptions": {
+    "Array": [
+      {
+        "x": 262.0,
+        "y": 177.0,
+        "z": 0.0
+      },
+      {
+        "x": 262.0,
+        "y": 114.5,
+        "z": 0.0
+      },
+      {
+        "x": 262.0,
+        "y": 52.0,
+        "z": 0.0
+      },
+      {
+        "x": 262.0,
+        "y": -10.5,
+        "z": 0.0
+      },
+      {
+        "x": 262.0,
+        "y": -73.0,
+        "z": 0.0
+      },
+      {
+        "x": 262.0,
+        "y": -135.5,
+        "z": 0.0
+      },
+      {
+        "x": 262.0,
+        "y": -198.0,
+        "z": 0.0
+      },
+      {
+        "x": 262.0,
+        "y": -260.5,
+        "z": 0.0
+      }
+    ]
+  },
+  "ItemMenuSelectedOptions": {
+    "Array": [
+      {
+        "x": 252.0,
+        "y": -355.0,
+        "z": 0.0
+      },
+      {
+        "x": 470.0,
+        "y": -355.0,
+        "z": 0.0
+      },
+      {
+        "x": 702.0,
+        "y": -355.0,
+        "z": 0.0
+      }
+    ]
+  },
+  "ItemInventoryText": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1390
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1410
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1347
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1507
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1367
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1387
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1519
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1407
+      }
+    ]
+  },
+  "IsInLightworld": 1,
+  "MenuHolder": {
+    "m_FileID": 0,
+    "m_PathID": 383
+  },
+  "BaseMenuOptions": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1004
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1019
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1338
+      }
+    ]
+  },
+  "PreviousPlayerState": 0,
+  "CallMenuOptions": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1092
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1191
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1314
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1283
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1074
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1069
+      }
+    ]
+  },
+  "CallChatIndexes": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "CallMenuNames": {
+    "Array": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "LightworldStats": {
+    "m_FileID": 0,
+    "m_PathID": 337
+  },
+  "LightworldCall": {
+    "m_FileID": 0,
+    "m_PathID": 393
+  },
+  "LightworldItem": {
+    "m_FileID": 0,
+    "m_PathID": 134
+  },
+  "CanOpenMenu": 0,
+  "MenuOpen": 0,
+  "AllowInput": 1,
+  "CurrentOpenMenu": "",
+  "HeartCursor": {
+    "m_FileID": 0,
+    "m_PathID": 1189
+  },
+  "MenuSound": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CantSelectSound": {
+    "m_FileID": 2,
+    "m_PathID": 1022
+  },
+  "SelectSound": {
+    "m_FileID": 2,
+    "m_PathID": 1013
+  },
+  "ClickSound": {
+    "m_FileID": 2,
+    "m_PathID": 1008
+  },
+  "RingSound": {
+    "m_FileID": 2,
+    "m_PathID": 1004
+  }
+}

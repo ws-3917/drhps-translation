@@ -1,0 +1,489 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 38
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1524
+  },
+  "m_Name": "",
+  "audioSource": {
+    "m_FileID": 0,
+    "m_PathID": 525
+  },
+  "DefaultAction_Check": {
+    "m_FileID": 2,
+    "m_PathID": 2573
+  },
+  "BattleBox": {
+    "m_FileID": 0,
+    "m_PathID": 2
+  },
+  "BattleBox_Animator": {
+    "m_FileID": 0,
+    "m_PathID": 536
+  },
+  "BattleBox_Collisions": {
+    "m_FileID": 0,
+    "m_PathID": 56
+  },
+  "BattleBox_Soul": {
+    "m_FileID": 0,
+    "m_PathID": 7
+  },
+  "BattleUI": {
+    "m_FileID": 0,
+    "m_PathID": 236
+  },
+  "CurrentBattleScript": "",
+  "CurrentBattleScriptGameobject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "BattleNumbers_SpecificText": {
+    "NumberSprites": {
+      "Array": [
+        {
+          "m_FileID": 2,
+          "m_PathID": 1945
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 2012
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1879
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1183
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 2007
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1340
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1330
+        }
+      ]
+    }
+  },
+  "BattleNumbers_Default": {
+    "NumberSprites": {
+      "Array": [
+        {
+          "m_FileID": 2,
+          "m_PathID": 1128
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1984
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 2018
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1218
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1888
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1953
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1958
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1878
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1877
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1932
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1141
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1228
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1192
+        }
+      ]
+    }
+  },
+  "BattleNumbers_Golden": {
+    "NumberSprites": {
+      "Array": [
+        {
+          "m_FileID": 2,
+          "m_PathID": 1339
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1153
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1954
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1144
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 2105
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 2085
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 2014
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1165
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1137
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1318
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1859
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 1860
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": 2040
+        }
+      ]
+    }
+  },
+  "BottomBar_Transform": {
+    "m_FileID": 0,
+    "m_PathID": 1202
+  },
+  "TPBar_Transform": {
+    "m_FileID": 0,
+    "m_PathID": 961
+  },
+  "TPBar_Bar": {
+    "m_FileID": 0,
+    "m_PathID": 1621
+  },
+  "TPBar_BarDropper": {
+    "m_FileID": 0,
+    "m_PathID": 1622
+  },
+  "TPBar_BarTopper": {
+    "m_FileID": 0,
+    "m_PathID": 1738
+  },
+  "TPBar_TPAmount": {
+    "m_FileID": 0,
+    "m_PathID": 1379
+  },
+  "BattlePrefab_PartyMember": {
+    "m_FileID": 2,
+    "m_PathID": 2214
+  },
+  "BattlePrefab_PartyMemberStatus": {
+    "m_FileID": 2,
+    "m_PathID": 2244
+  },
+  "BattlePrefab_EnemySelectionStatus": {
+    "m_FileID": 2,
+    "m_PathID": 2251
+  },
+  "BattlePrefab_PlayerAttackBar": {
+    "m_FileID": 2,
+    "m_PathID": 2236
+  },
+  "BattlePrefab_Effect_PartyMemberAttack": {
+    "m_FileID": 2,
+    "m_PathID": 2149
+  },
+  "BattlePrefab_BattleNumbers": {
+    "m_FileID": 2,
+    "m_PathID": 2224
+  },
+  "BehindBoxAttackFade_Animator": {
+    "m_FileID": 0,
+    "m_PathID": 541
+  },
+  "Holder_BattlePartyMembers": {
+    "m_FileID": 0,
+    "m_PathID": 114
+  },
+  "Holder_BattlePartyMemberStatuses": {
+    "m_FileID": 0,
+    "m_PathID": 273
+  },
+  "Holder_Enemies": {
+    "m_FileID": 0,
+    "m_PathID": 336
+  },
+  "Holder_EnemySelection": {
+    "m_FileID": 0,
+    "m_PathID": 307
+  },
+  "Holder_AttackBars": {
+    "m_FileID": 0,
+    "m_PathID": 250
+  },
+  "Holder_Effects": {
+    "m_FileID": 0,
+    "m_PathID": 456
+  },
+  "Holder_Bullets": {
+    "m_FileID": 0,
+    "m_PathID": 185
+  },
+  "DefaultBackgroundBox1": {
+    "m_FileID": 0,
+    "m_PathID": 571
+  },
+  "DefaultBackgroundBox2": {
+    "m_FileID": 0,
+    "m_PathID": 570
+  },
+  "BattleWindow_EnemySelection": {
+    "m_FileID": 0,
+    "m_PathID": 101
+  },
+  "BattleWindow_AttackBars": {
+    "m_FileID": 0,
+    "m_PathID": 3
+  },
+  "BattleWindow_ActItemSelection": {
+    "m_FileID": 0,
+    "m_PathID": 96
+  },
+  "BattleWindow_PartyMemberSelection": {
+    "m_FileID": 0,
+    "m_PathID": 335
+  },
+  "Dialogue_UseItem": {
+    "m_FileID": 2,
+    "m_PathID": 2577
+  },
+  "Dialogue_SpareSuccessful": {
+    "m_FileID": 2,
+    "m_PathID": 2576
+  },
+  "Dialogue_SpareFail": {
+    "m_FileID": 2,
+    "m_PathID": 2574
+  },
+  "Dialogue_SpareFail_PossiblePacify": {
+    "m_FileID": 2,
+    "m_PathID": 2575
+  },
+  "Dialogue_BattleWon": {
+    "m_FileID": 2,
+    "m_PathID": 2579
+  },
+  "Dialogue_DefaultSpell_HealPrayer": {
+    "m_FileID": 2,
+    "m_PathID": 2551
+  },
+  "Dialogue_DefaultSpell_IceShock": {
+    "m_FileID": 2,
+    "m_PathID": 2552
+  },
+  "Dialogue_DefaultSpell_RudeBuster": {
+    "m_FileID": 2,
+    "m_PathID": 2554
+  },
+  "Dialogue_DefaultSpell_UltimatHeal": {
+    "m_FileID": 2,
+    "m_PathID": 2556
+  },
+  "Dialogue_DefaultSpell_FailedPacify": {
+    "m_FileID": 2,
+    "m_PathID": 2553
+  },
+  "Dialogue_DefaultSpell_SleepMist": {
+    "m_FileID": 2,
+    "m_PathID": 2555
+  },
+  "SFX_soul_damage": {
+    "m_FileID": 2,
+    "m_PathID": 1053
+  },
+  "SFX_battle_start": {
+    "m_FileID": 2,
+    "m_PathID": 1041
+  },
+  "SFX_menu_move": {
+    "m_FileID": 2,
+    "m_PathID": 1025
+  },
+  "SFX_menu_select": {
+    "m_FileID": 2,
+    "m_PathID": 1008
+  },
+  "SFX_menu_deny": {
+    "m_FileID": 2,
+    "m_PathID": 1022
+  },
+  "SFX_fight_slash": {
+    "m_FileID": 2,
+    "m_PathID": 1026
+  },
+  "SFX_fight_critical": {
+    "m_FileID": 2,
+    "m_PathID": 1048
+  },
+  "SFX_intro_stomp": {
+    "m_FileID": 2,
+    "m_PathID": 999
+  },
+  "SFX_enemy_damage": {
+    "m_FileID": 2,
+    "m_PathID": 1002
+  },
+  "sfx_enemy_spare": {
+    "m_FileID": 2,
+    "m_PathID": 1029
+  },
+  "sfx_enemy_spareblink": {
+    "m_FileID": 2,
+    "m_PathID": 1030
+  },
+  "SFX_heal": {
+    "m_FileID": 2,
+    "m_PathID": 1023
+  },
+  "SFX_EnemyFlee": {
+    "m_FileID": 2,
+    "m_PathID": 1038
+  },
+  "SFX_graze": {
+    "m_FileID": 2,
+    "m_PathID": 1003
+  },
+  "SFX_StrongerThanYouSansResponse": {
+    "m_FileID": 2,
+    "m_PathID": 1049
+  },
+  "SFX_RudeBuster_Fire": {
+    "m_FileID": 2,
+    "m_PathID": 1015
+  },
+  "SFX_RudeBuster_Hit": {
+    "m_FileID": 2,
+    "m_PathID": 1034
+  },
+  "SFX_SleepMist": {
+    "m_FileID": 2,
+    "m_PathID": 1024
+  },
+  "SFX_IceShock": {
+    "m_FileID": 2,
+    "m_PathID": 1028
+  },
+  "Effect_Heal": {
+    "m_FileID": 2,
+    "m_PathID": 2164
+  },
+  "Effect_Spare": {
+    "m_FileID": 2,
+    "m_PathID": 2187
+  },
+  "Effect_SoulRipOut": {
+    "m_FileID": 2,
+    "m_PathID": 2190
+  },
+  "Effect_SoulInsert": {
+    "m_FileID": 2,
+    "m_PathID": 2194
+  },
+  "Effect_RudeBuster_Projectile": {
+    "m_FileID": 2,
+    "m_PathID": 2208
+  },
+  "Effect_RudeBuster_Explosion": {
+    "m_FileID": 2,
+    "m_PathID": 2209
+  },
+  "Effect_SleepMist": {
+    "m_FileID": 2,
+    "m_PathID": 2150
+  },
+  "Effect_IceShock_Individual": {
+    "m_FileID": 2,
+    "m_PathID": 2132
+  },
+  "PreviousBattleState": 0,
+  "CurrentBattle": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "BattleSetting_TPAmount": 0,
+  "CurrentPlayerMoves": {
+    "Array": []
+  },
+  "BattlePartyMembers": {
+    "Array": []
+  },
+  "BattleActiveEnemies": {
+    "Array": []
+  },
+  "CurrentBattlePlayerTurnState": 0,
+  "CurrentPlayerTurnSelectionIndex": 0,
+  "CurrentPossibleEXP": 0.0,
+  "CurrentDDTotal": 0.0,
+  "QueuedBattleAttacks": {
+    "Array": []
+  },
+  "QueuedBattleActions": {
+    "Array": []
+  },
+  "CurrentlyRunningAction": 0,
+  "debugText": {
+    "m_FileID": 0,
+    "m_PathID": 1490
+  },
+  "testText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "dialogueBubble": {
+    "m_FileID": 2,
+    "m_PathID": 2148
+  }
+}

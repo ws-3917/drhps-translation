@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 33
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1619
+  },
+  "m_Name": "",
+  "LancerSpokenPlayerPref": "EOTD_HasMetLancer",
+  "DoorChat": {
+    "m_FileID": 0,
+    "m_PathID": 150
+  },
+  "Door_PreventLeave": {
+    "m_FileID": 3,
+    "m_PathID": 43
+  },
+  "Door_AllowChoice": {
+    "m_FileID": 3,
+    "m_PathID": 40
+  },
+  "DoorCutscene_RalseiBegin": {
+    "m_FileID": 3,
+    "m_PathID": 41
+  },
+  "DoorCutscene_RalseiFinale": {
+    "m_FileID": 3,
+    "m_PathID": 46
+  },
+  "CutsceneIndex": 0,
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Ralsei": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Camera": {
+    "m_FileID": 0,
+    "m_PathID": 153
+  },
+  "KrisTargetPos": {
+    "x": -0.75,
+    "y": -0.15,
+    "z": 0.0
+  },
+  "SusieTargetPos": {
+    "x": 0.75,
+    "y": -0.15,
+    "z": 0.0
+  },
+  "RalseiTargetPos": {
+    "x": 0.0,
+    "y": 0.95,
+    "z": 0.0
+  },
+  "backgroundRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 114
+  },
+  "backgroundDoorOpenSprite": {
+    "m_FileID": 3,
+    "m_PathID": 28
+  },
+  "backgroundDoorGlow": {
+    "m_FileID": 0,
+    "m_PathID": 22
+  },
+  "CutsceneSource": {
+    "m_FileID": 0,
+    "m_PathID": 104
+  },
+  "DoorOpenSound": {
+    "m_FileID": 2,
+    "m_PathID": 999
+  },
+  "LevelTransition": {
+    "m_FileID": 0,
+    "m_PathID": 152
+  }
+}

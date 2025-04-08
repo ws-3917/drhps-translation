@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 433
+  },
+  "m_Name": "",
+  "TargetChat": {
+    "m_FileID": 0,
+    "m_PathID": 203
+  },
+  "TargetAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 157
+  },
+  "StateToPlay": "Susie_Angry_Left",
+  "PlayStateWhenFinishedChat": 1,
+  "StateToFinish": "Idle",
+  "ChatTextIndexToPlay": 2,
+  "AdditionalTextIndexToPlay": 1
+}

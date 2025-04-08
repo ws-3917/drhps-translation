@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 310
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1293
+  },
+  "m_Name": "",
+  "PossiblePostitNotes": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 222
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 238
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 224
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 254
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 214
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 248
+      }
+    ]
+  },
+  "PostitNotes": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 567
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 565
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 560
+      }
+    ]
+  }
+}

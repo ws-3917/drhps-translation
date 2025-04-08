@@ -1,0 +1,182 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "FD_Outro_Genocide",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 504
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 240
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 508
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 615
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 507
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 506
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 236
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "That...@ felt...@ unnecessary?",
+            "Well what else should we do? ~It attacked us first!",
+            "But...@ you did...@ dunk it...@ underwater...",
+            "It's not my fault it looked like all the other inanimate cups!!",
+            "L-Let's just keep moving forward...",
+            "(And fast, that cutout feels like it's staring right at me!)",
+            "Alright. ;Let's go, Kris."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 497
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 496
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 497
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 496
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 497
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 497
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 487
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 489
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 491
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 498
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

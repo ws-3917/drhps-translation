@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1002
+  },
+  "m_Name": "EOTD_TrainingArea_QueenSorry",
+  "Reaction": {
+    "Array": [
+      {
+        "Character": {
+          "m_FileID": 0,
+          "m_PathID": 176
+        },
+        "Text": "你 不用 说话<br>一直 磕巴 就好",
+        "Offset": {
+          "x": 250.0,
+          "y": -80.0
+        }
+      }
+    ]
+  }
+}

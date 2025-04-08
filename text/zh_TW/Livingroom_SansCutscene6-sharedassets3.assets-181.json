@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1517
+  },
+  "m_Name": "Livingroom_SansCutscene6",
+  "PlaySound": 0,
+  "PossibleSounds": {
+    "Array": []
+  },
+  "RunComponentFunction": 1,
+  "TargetComponentGameObjectName": "SansNPC",
+  "TargetComponentClassname": "Cutscene_SansBeforePapyrus",
+  "FunctionName": "SetupCutscene6",
+  "SubActions": {
+    "Array": []
+  },
+  "RunActionOnChatEnd": 1
+}

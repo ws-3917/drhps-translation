@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1517
+  },
+  "m_Name": "TRB_NBProject_Berdly_Exclaim",
+  "PlaySound": 0,
+  "PossibleSounds": {
+    "Array": []
+  },
+  "RunComponentFunction": 1,
+  "TargetComponentGameObjectName": "NoelleBerdly",
+  "TargetComponentClassname": "TRB_Projects_NoelleBerdly",
+  "FunctionName": "Berdly_Exclaim",
+  "SubActions": {
+    "Array": []
+  },
+  "RunActionOnChatEnd": 0
+}

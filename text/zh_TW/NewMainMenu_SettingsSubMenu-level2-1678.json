@@ -1,0 +1,107 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 45
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 834
+  },
+  "m_Name": "",
+  "BackgroundTextLines": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1505
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1448
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1533
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1554
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1604
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1616
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1479
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1569
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1611
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1629
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1464
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1477
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1500
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1639
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1536
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1515
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1584
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1473
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1631
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1523
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1513
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1624
+      }
+    ]
+  },
+  "BackgroundTextMaxCount": {
+    "Array": []
+  }
+}

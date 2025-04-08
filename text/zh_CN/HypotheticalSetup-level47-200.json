@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 884
+  },
+  "m_Name": "",
+  "SavedFloatsToReset": {
+    "Array": []
+  },
+  "SavedStringsToReset": {
+    "Array": []
+  },
+  "SavedIntsToReset": {
+    "Array": []
+  },
+  "ResetLightworldInventory": 1,
+  "ResetDarkworldInventory": 1,
+  "NewLightworldInventory": {
+    "Array": []
+  },
+  "NewDarkworldInventory": {
+    "Array": []
+  },
+  "NewDarkworldKeyItems": {
+    "Array": []
+  },
+  "AllowShowTipText": 1
+}

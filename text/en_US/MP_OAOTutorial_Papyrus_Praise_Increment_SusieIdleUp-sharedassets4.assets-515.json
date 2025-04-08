@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1517
+  },
+  "m_Name": "MP_OAOTutorial_Papyrus_Praise_Increment_SusieIdleUp",
+  "PlaySound": 0,
+  "PossibleSounds": {
+    "Array": []
+  },
+  "RunComponentFunction": 1,
+  "TargetComponentGameObjectName": "TutorialCutscene",
+  "TargetComponentClassname": "PapyrusRoom_TutorialCutscene",
+  "FunctionName": "IncrementCutsceneIndex",
+  "SubActions": {
+    "Array": [
+      {
+        "TargetComponentGameObjectName": "TutorialCutscene",
+        "TargetComponentClassname": "PapyrusRoom_TutorialCutscene",
+        "FunctionName": "SusieAnim_IdleUp",
+        "RunActionOnChatEnd": 0
+      },
+      {
+        "TargetComponentGameObjectName": "Ambush/GreetCutscene",
+        "TargetComponentClassname": "PapyrusRoom_AmbushGreetCutscene",
+        "FunctionName": "Papyrus_Proud",
+        "RunActionOnChatEnd": 0
+      }
+    ]
+  },
+  "RunActionOnChatEnd": 1
+}

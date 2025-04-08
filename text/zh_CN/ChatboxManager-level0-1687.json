@@ -1,0 +1,129 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 290
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 959
+  },
+  "m_Name": "",
+  "TextboxObject": {
+    "m_FileID": 0,
+    "m_PathID": 1176
+  },
+  "CharacterPortrait": {
+    "m_FileID": 0,
+    "m_PathID": 1686
+  },
+  "TextUI": {
+    "m_FileID": 0,
+    "m_PathID": 1508
+  },
+  "TextBulletpointUI": {
+    "m_FileID": 0,
+    "m_PathID": 1397
+  },
+  "TextVoiceEmitter": {
+    "m_FileID": 0,
+    "m_PathID": 532
+  },
+  "P_Manager": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "EffectTagController": {
+    "m_FileID": 0,
+    "m_PathID": 1689
+  },
+  "CurrentTextIndex": 0,
+  "CurrentAdditionalTextIndex": 0,
+  "CurrentChatOnTopPos": 0,
+  "PauseCounter": 0,
+  "FinishedShowingReactions": 0,
+  "storedchatboxtext": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "previouschatboxtext": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ChatIsCurrentlyRunning": 0,
+  "AllowInput": 1,
+  "TextIsCurrentlyTyping": 0,
+  "StoredAdditiveValues": {
+    "Array": []
+  },
+  "ReactionHolder": {
+    "m_FileID": 0,
+    "m_PathID": 1246
+  },
+  "ReactionTemplate": {
+    "m_FileID": 2,
+    "m_PathID": 2207
+  },
+  "StyleSheet": {
+    "m_FileID": 2,
+    "m_PathID": 2562
+  },
+  "DefaultFont": {
+    "m_FileID": 2,
+    "m_PathID": 2557
+  },
+  "DyslexicFont": {
+    "m_FileID": 2,
+    "m_PathID": 2563
+  },
+  "ChatboxImages": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1688
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1686
+      }
+    ]
+  },
+  "Kojima": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DefaultSpeakSound": {
+    "m_FileID": 2,
+    "m_PathID": 1001
+  },
+  "DefaultIcon": {
+    "m_FileID": 2,
+    "m_PathID": 1456
+  },
+  "Options": {
+    "Array": []
+  },
+  "HeartCursor": {
+    "m_FileID": 0,
+    "m_PathID": 1094
+  },
+  "ChoiceHolder": {
+    "m_FileID": 0,
+    "m_PathID": 970
+  },
+  "ChoicePrefab": {
+    "m_FileID": 2,
+    "m_PathID": 2235
+  },
+  "ChatboxAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 550
+  },
+  "InDarkworld": 0,
+  "DarkworldTextShadow": {
+    "m_FileID": 0,
+    "m_PathID": 76
+  },
+  "ChatboxInteractDebounce": 0,
+  "PreviousChosenChoiceIndex": 0
+}

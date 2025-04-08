@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 179
+  },
+  "m_Name": "TakingShelter",
+  "HypothesisName": "Taking Shelter",
+  "HypothesisStartingScene": 33,
+  "HypothesisTagline": "Entering the town shelter, you are given a lot of time to reflect on yourself.",
+  "HypothesisDescription": "What if at some point the \"Vessel\" and Kris had a heart to heart where they could \"talk\" to eachother.",
+  "HypothesisMenuSprite": {
+    "m_FileID": 0,
+    "m_PathID": 223
+  },
+  "HypothesisGoals": {
+    "Array": []
+  },
+  "TimeWhenWritten": "this Hypothetical was written before DELTARUNE Chapters 3 & 4's release",
+  "HypotheticalReleased": 1,
+  "LogRewardedOnCompletion": {
+    "m_FileID": 0,
+    "m_PathID": 518
+  },
+  "LogRewardedOnGoalsCompleted": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

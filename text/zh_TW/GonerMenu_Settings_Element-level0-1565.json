@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 66
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1199
+  },
+  "m_Name": "",
+  "SettingsElementName": "簡化音效",
+  "SettingsDescription": "開啟後，會關閉或\n調整一些遊戲音效，\n並禁用佔用大量\n性能的音頻濾鏡。",
+  "CurrentlySelected": 0,
+  "CanBeCanceled": 1,
+  "RawImages_AffectedByColor": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1563
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1670
+      }
+    ]
+  },
+  "TMP_AffectedByColor": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1502
+      }
+    ]
+  }
+}

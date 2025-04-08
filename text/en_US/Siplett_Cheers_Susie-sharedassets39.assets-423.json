@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1433
+  },
+  "m_Name": "Siplett_Cheers_Susie",
+  "TargetPartyMember": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ActionName": "Cheers",
+  "ActionDescription": "",
+  "TPRequired": 0,
+  "ActionTarget": 0,
+  "AnimationToAction": "PrepareAct",
+  "BattleScript_FunctionToRun": "Act_CheersSusie",
+  "RequiredPartyMembers": {
+    "Array": []
+  }
+}

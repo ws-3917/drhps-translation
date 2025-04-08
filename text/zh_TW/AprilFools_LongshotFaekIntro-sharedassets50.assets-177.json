@@ -1,0 +1,157 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "AprilFools_LongshotFaekIntro",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 9,
+              "m_PathID": 216
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 216
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 216
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 216
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 216
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 216
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Asgore，\n聽仔細了。",
+            "看見了吧，\n我對我的所作所為\n也沒那麼驕傲。",
+            "但我說過傳說中的三個\n英雄將會到來，來封印\n我這個世界的噴泉...",
+            "... followin' their so-called destiny, like it was written in the stars.",
+            "If it's so dang important, then why weren't us Darkners ever taught 'bout it?",
+            "You ain't seein' this world the way I do. ~This is my home, Asgore."
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 9,
+              "m_PathID": 216
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 216
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 216
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 216
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 216
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 216
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "I-...@@ ;I keep getting this feelin' aching inside me...",
+            "Deep down, I know you and your friends are good folk. ~I can feel it.",
+            "So when this is all said and done...",
+            "... I hope you can find it in ya' heart to forgive me.",
+            "Cause this world of mine...",
+            "... ain't yours to send into darkness..."
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 179
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 179
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 180
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "You bring harm to my child and ask for forgiveness?",
+            "I don't care whose side either of us are on anymore.",
+            "I will protect my family, Longshot."
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

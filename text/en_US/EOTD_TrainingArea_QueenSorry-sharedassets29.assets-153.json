@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1002
+  },
+  "m_Name": "EOTD_TrainingArea_QueenSorry",
+  "Reaction": {
+    "Array": [
+      {
+        "Character": {
+          "m_FileID": 0,
+          "m_PathID": 176
+        },
+        "Text": "You Would've Kept <br>Stuttering Dear",
+        "Offset": {
+          "x": 250.0,
+          "y": -80.0
+        }
+      }
+    ]
+  }
+}

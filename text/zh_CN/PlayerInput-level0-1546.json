@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 22
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1346
+  },
+  "m_Name": "",
+  "Key_Up": 273,
+  "Key_Down": 274,
+  "Key_Left": 276,
+  "Key_Right": 275,
+  "Key_Confirm": 122,
+  "Key_Cancel": 120,
+  "Key_Menu": 99,
+  "Key_Pause": 27,
+  "Key_Sprint": 304
+}

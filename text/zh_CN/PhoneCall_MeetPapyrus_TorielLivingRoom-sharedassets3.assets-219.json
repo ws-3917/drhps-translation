@@ -1,0 +1,120 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "PhoneCall_MeetPapyrus_TorielLivingRoom",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 244
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 243
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 245
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 242
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（嘀嘀嘀，嘀嘀嘀...）",
+            "宝贝，你好！\n又跟Susie一起玩去了？",
+            "什么？;你要跟她一起去见\nSans的兄弟？",
+            "太好了！;人们都说\n“朋友越多，越幸福！”",
+            "不过记得日落前回家哦，\n派已经做好了，正晾着呢！",
+            "（嘀...）"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 243
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 243
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 246
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 245
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（嘀嘀嘀，嘀嘀嘀...）",
+            "亲爱的，过得还好吗？",
+            "Sans的兄弟没让你\n感觉头疼吧？",
+            "你还没见着他呢？",
+            "嘻嘻嘻。;刚才不是要\n故意吓你的哦。",
+            "（嘀...）"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

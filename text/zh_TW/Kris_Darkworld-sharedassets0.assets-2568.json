@@ -1,0 +1,87 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 421
+  },
+  "m_Name": "Kris_Darkworld",
+  "PartyMemberPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 2201
+  },
+  "PartyMemberName": "Kris",
+  "PartyMemberColor": {
+    "r": 0.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "PartyMemberColor_Highlighted": {
+    "r": 0.5019608,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "MaximumHealth": 160,
+  "HasMagic": 0,
+  "ATK": 19,
+  "DF": 9,
+  "MAGIC": 0,
+  "PartyMemberBattleAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 1062
+  },
+  "PartyMember_DefaultSpells": {
+    "Array": []
+  },
+  "StartFromPlayer": 1,
+  "BattleEffect_AnimationName": "BattleEffect_KrisAttack",
+  "PartyMemberBattle_NameIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1391
+  },
+  "PartyMemberBattleIcon_CMenuOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "PartyMemberBattleIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2025
+  },
+  "PartyMemberBattleHurtIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1275
+  },
+  "PartyMemberBattleDefeatedIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1884
+  },
+  "PartyMemberBattleAttack": {
+    "m_FileID": 0,
+    "m_PathID": 1970
+  },
+  "PartyMemberBattleAct": {
+    "m_FileID": 0,
+    "m_PathID": 1874
+  },
+  "PartyMemberBattleMagic": {
+    "m_FileID": 0,
+    "m_PathID": 1997
+  },
+  "PartyMemberBattleItem": {
+    "m_FileID": 0,
+    "m_PathID": 1265
+  },
+  "PartyMemberBattleDefend": {
+    "m_FileID": 0,
+    "m_PathID": 1146
+  },
+  "PartyMemberBattleSpare": {
+    "m_FileID": 0,
+    "m_PathID": 1852
+  }
+}

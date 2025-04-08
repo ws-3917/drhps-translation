@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1433
+  },
+  "m_Name": "Siplett_CheersX",
+  "TargetPartyMember": {
+    "m_FileID": 4,
+    "m_PathID": 2568
+  },
+  "ActionName": "一起干杯",
+  "ActionDescription": "",
+  "TPRequired": 0,
+  "ActionTarget": 0,
+  "AnimationToAction": "PrepareAct",
+  "BattleScript_FunctionToRun": "Act_Cheers_X",
+  "RequiredPartyMembers": {
+    "Array": [
+      {
+        "m_FileID": 4,
+        "m_PathID": 2569
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 2572
+      }
+    ]
+  }
+}

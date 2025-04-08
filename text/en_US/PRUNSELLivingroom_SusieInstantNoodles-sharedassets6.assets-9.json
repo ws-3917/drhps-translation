@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1517
+  },
+  "m_Name": "PRUNSELLivingroom_SusieInstantNoodles",
+  "PlaySound": 1,
+  "PossibleSounds": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 2
+      }
+    ]
+  },
+  "RunComponentFunction": 1,
+  "TargetComponentGameObjectName": "-= Music =-",
+  "TargetComponentClassname": "MusicManager",
+  "FunctionName": "PauseMusic",
+  "SubActions": {
+    "Array": []
+  },
+  "RunActionOnChatEnd": 0
+}

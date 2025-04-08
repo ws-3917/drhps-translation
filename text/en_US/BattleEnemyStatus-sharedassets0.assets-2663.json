@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2251
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 492
+  },
+  "m_Name": "",
+  "ActiveEnemy": {
+    "EnemyInBattle": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "EnemyInBattle_Gameobject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "EnemyInBattle_Animator": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "StoredEnemyPositions": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "EnemyStatus": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "EnemyInBattle_MainSpriteRenderer": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "EnemyInBattle_AfterImageParticleRenderer": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "QueuedDialogue": {
+      "Array": []
+    },
+    "SpecificTextIndexes": {
+      "Array": []
+    },
+    "QueuedDialogueBubble": {
+      "Array": []
+    },
+    "TextIndex": 0,
+    "ActiveBubbleChatbox": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "Enemy_Health": 0.0,
+    "Enemy_MaxHealth": 0.0,
+    "Enemy_Spareable": 0,
+    "Enemy_MercyAmount": 0.0,
+    "Enemy_IsTired": 0,
+    "Enemy_ConsideredInBattle": 1
+  },
+  "HealthBar": {
+    "m_FileID": 0,
+    "m_PathID": 2609
+  },
+  "SpareBar": {
+    "m_FileID": 0,
+    "m_PathID": 2620
+  },
+  "Health_Text": {
+    "m_FileID": 0,
+    "m_PathID": 2619
+  },
+  "Spare_Text": {
+    "m_FileID": 0,
+    "m_PathID": 2591
+  },
+  "EnemyName": {
+    "m_FileID": 0,
+    "m_PathID": 2661
+  }
+}

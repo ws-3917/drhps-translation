@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 43
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1424
+  },
+  "m_Name": "",
+  "CutsceneIndex": 0,
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 159
+  },
+  "CutsceneSource": {
+    "m_FileID": 0,
+    "m_PathID": 156
+  },
+  "CutsceneChatter": {
+    "m_FileID": 0,
+    "m_PathID": 228
+  },
+  "CutsceneSounds": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 1042
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 1050
+      },
+      {
+        "m_FileID": 5,
+        "m_PathID": 249
+      },
+      {
+        "m_FileID": 6,
+        "m_PathID": 6
+      }
+    ]
+  },
+  "CutsceneChats": {
+    "Array": [
+      {
+        "m_FileID": 3,
+        "m_PathID": 83
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 89
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 88
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 87
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 84
+      }
+    ]
+  },
+  "TenseKrisAnimation": {
+    "m_FileID": 3,
+    "m_PathID": 40
+  },
+  "SusieWalkPositions": {
+    "Array": [
+      {
+        "x": 0.925,
+        "y": -1.225,
+        "z": 0.0
+      },
+      {
+        "x": -4.875,
+        "y": -1.225,
+        "z": 0.0
+      }
+    ]
+  },
+  "BallOfJunk": {
+    "m_FileID": 7,
+    "m_PathID": 247
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 466
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 638
+  },
+  "m_Name": "",
+  "ContainsKris": 1,
+  "ResetKrisHealth": 1,
+  "KrisStartingState": 1,
+  "IsDarkworld": 0,
+  "PlayerStartPosition": {
+    "m_FileID": 0,
+    "m_PathID": 505
+  },
+  "PlayerStartRotation": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "ClearAllMembers": 1,
+  "ReplaceMembers": 0,
+  "NewPartyMembers": {
+    "Array": []
+  },
+  "ReplaceCalls": 0,
+  "ClearCalls": 1,
+  "NewCalls": {
+    "Array": []
+  },
+  "CallNames": {
+    "Array": []
+  },
+  "FadeIn": 1,
+  "DisableGonerMenu": 1,
+  "PlaySongOnLevelLoad": 1,
+  "Song": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "RoomHasMultipleEntrances": 0,
+  "RoomContainsPartyMembers": 0,
+  "RoomPositions": {
+    "DefaultStartPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DefaultKrisRotation": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DefaultCameraStartPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "SpawnPositions": {
+      "Array": []
+    }
+  },
+  "SetNewActivity": 1,
+  "LargeImage": "hypotheticalicon_default",
+  "LargeImageText": "三角符文 - 猜想模擬器",
+  "State": "[已刪除]",
+  "Details": "在主菜單",
+  "VesselText": "* （沒有回應。）"
+}

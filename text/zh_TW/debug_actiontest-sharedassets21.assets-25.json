@@ -1,0 +1,102 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "debug_actiontest",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "一個行動選項",
+            "兩個行動選項",
+            "三個行動選項",
+            "四個行動選項",
+            "一個行動選項（連續出現）",
+            "兩個行動選項（連續出現）",
+            "三個行動選項（連續出現）"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 31
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 32
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 33
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 34
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 35
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 36
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 37
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

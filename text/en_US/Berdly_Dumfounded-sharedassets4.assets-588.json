@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1553
+  },
+  "m_Name": "Berdly_Dumfounded",
+  "CharacterIcon": {
+    "m_FileID": 0,
+    "m_PathID": 380
+  },
+  "CharacterSound": {
+    "m_FileID": 0,
+    "m_PathID": 251
+  },
+  "CharacterIconWidth": 207.0,
+  "CharacterIconHeight": 187.0,
+  "CharacterHasTalkingAnimation": 0,
+  "CharacterTalkingIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "TellRecieverIfChatting": 0,
+  "CharacterFont": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CharacterFontSize": 64.0,
+  "TextStyleSheet": 1867431062,
+  "GiveCharacterBulletpoint": 1,
+  "TextSpeedMultiplier": 1.0,
+  "TextColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 179
+  },
+  "m_Name": "EndOfTheDeltarune",
+  "HypothesisName": "先知預言",
+  "HypothesisStartingScene": 8,
+  "HypothesisTagline": "一個預言的傳說還是迎來了悲慘的結局。",
+  "HypothesisDescription": "如果為了恢復光與暗之間的平衡，必須封印儲藏室內的噴泉，會發生什麼？",
+  "HypothesisMenuSprite": {
+    "m_FileID": 0,
+    "m_PathID": 220
+  },
+  "HypothesisGoals": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 525
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 524
+      }
+    ]
+  },
+  "TimeWhenWritten": "該猜想編寫於三角符文\n第三章第四章發售之前",
+  "HypotheticalReleased": 1,
+  "LogRewardedOnCompletion": {
+    "m_FileID": 0,
+    "m_PathID": 516
+  },
+  "LogRewardedOnGoalsCompleted": {
+    "m_FileID": 0,
+    "m_PathID": 517
+  }
+}

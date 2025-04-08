@@ -1,0 +1,188 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "MP_OAOCutscene_BerdlyIntroduce",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 587
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 589
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 587
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 591
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "各位鄉親！各位父老！\n莫要擔心！莫要逃跑！",
+            "那身披魔鎧之雄鷹\n已然降臨！",
+            "吾被原群拋棄後，\n誓死要保衛弱小！\n邪獸，趁生機猶存...",
+            "還不快速速逃去！\n否則，汝將直面\n蔚藍獵鷹之怒火！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 511
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 241
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 595
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 596
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 603
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 597
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 606
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 604
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 238
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 598
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "蔚藍...獵鷹？",
+            "S-Susie？？;Kris？？？",
+            "你們就是我們隊伍裡\n新來的兩名成員？！？！",
+            "是啊，看著像。",
+            "我剛教會\n他們怎麼玩！",
+            "完美！;...但是\n...他們適合戰鬥嗎？",
+            "哎呀...",
+            "SUSIE，一個巨型\n食人獸撲了過來！~你會怎麼做？",
+            "施放一個...\n致命的...\n法術？",
+            "你看，\n這準備的多好！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 505
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 501
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 502
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 458
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 503
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 496
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 515
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

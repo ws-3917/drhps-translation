@@ -1,0 +1,137 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2236
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1009
+  },
+  "m_Name": "",
+  "TargetPartyMember": {
+    "PartyMemberInBattle": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "ActiveMemberInBattle": {
+      "PartyMemberDescription": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "PartyMemberTransform": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "PartyMemberFollowSettings": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "CurrentHealth": 0
+    },
+    "PartyMemberInBattle_Gameobjects": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMemberInBattle_Animator": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMemberInBattle_MainSpriteRenderer": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMemberInBattle_AfterImageParticleRenderer": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "StoredPartyMembePositions": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "StoredOriginalOverworldPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "PartyMemberStatus": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMember_Health": 0.0,
+    "PartyMember_MaxHealth": 0.0,
+    "IsDefending": 0,
+    "SkippingTurn": 0,
+    "PartyMemberAction": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "TargetActiveEnemy": {
+    "EnemyInBattle": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "EnemyInBattle_Gameobject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "EnemyInBattle_Animator": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "StoredEnemyPositions": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "EnemyStatus": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "EnemyInBattle_MainSpriteRenderer": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "EnemyInBattle_AfterImageParticleRenderer": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "QueuedDialogue": {
+      "Array": []
+    },
+    "SpecificTextIndexes": {
+      "Array": []
+    },
+    "QueuedDialogueBubble": {
+      "Array": []
+    },
+    "TextIndex": 0,
+    "ActiveBubbleChatbox": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "Enemy_Health": 0.0,
+    "Enemy_MaxHealth": 0.0,
+    "Enemy_Spareable": 0,
+    "Enemy_MercyAmount": 0.0,
+    "Enemy_IsTired": 0,
+    "Enemy_ConsideredInBattle": 1
+  },
+  "BarMemberIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2676
+  },
+  "AttackBarBackground": {
+    "m_FileID": 0,
+    "m_PathID": 2590
+  },
+  "AttackBar": {
+    "m_FileID": 0,
+    "m_PathID": 2522
+  },
+  "CriticalPosition": {
+    "m_FileID": 0,
+    "m_PathID": 2509
+  },
+  "HasSetupPosition": 0,
+  "IsCurrentlyCritical": 0
+}

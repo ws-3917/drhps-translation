@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 421
+  },
+  "m_Name": "Susie_Darkworld",
+  "PartyMemberPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 2204
+  },
+  "PartyMemberName": "Susie",
+  "PartyMemberColor": {
+    "r": 1.0,
+    "g": 0.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "PartyMemberColor_Highlighted": {
+    "r": 0.8,
+    "g": 0.6,
+    "b": 0.8,
+    "a": 1.0
+  },
+  "MaximumHealth": 190,
+  "HasMagic": 1,
+  "ATK": 24,
+  "DF": 8,
+  "MAGIC": 0,
+  "PartyMemberBattleAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 1072
+  },
+  "PartyMember_DefaultSpells": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 2549
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2550
+      }
+    ]
+  },
+  "StartFromPlayer": 0,
+  "BattleEffect_AnimationName": "BattleEffect_SusieAttack",
+  "PartyMemberBattle_NameIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1758
+  },
+  "PartyMemberBattleIcon_CMenuOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "PartyMemberBattleIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1274
+  },
+  "PartyMemberBattleHurtIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1895
+  },
+  "PartyMemberBattleDefeatedIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1907
+  },
+  "PartyMemberBattleAttack": {
+    "m_FileID": 0,
+    "m_PathID": 1917
+  },
+  "PartyMemberBattleAct": {
+    "m_FileID": 0,
+    "m_PathID": 2068
+  },
+  "PartyMemberBattleMagic": {
+    "m_FileID": 0,
+    "m_PathID": 1104
+  },
+  "PartyMemberBattleItem": {
+    "m_FileID": 0,
+    "m_PathID": 1915
+  },
+  "PartyMemberBattleDefend": {
+    "m_FileID": 0,
+    "m_PathID": 2096
+  },
+  "PartyMemberBattleSpare": {
+    "m_FileID": 0,
+    "m_PathID": 1851
+  }
+}

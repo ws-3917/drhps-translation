@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 286
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1071
+  },
+  "m_Name": "",
+  "PlayerInventory": {
+    "Array": []
+  },
+  "PlayerKeyItems": {
+    "Array": []
+  },
+  "snd_garbagenoise": {
+    "m_FileID": 2,
+    "m_PathID": 1035
+  }
+}

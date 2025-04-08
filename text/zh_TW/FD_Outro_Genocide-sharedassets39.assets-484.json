@@ -1,0 +1,182 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "FD_Outro_Genocide",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 504
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 240
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 508
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 615
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 507
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 506
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 236
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "這...應該...@\n沒必要吧？",
+            "咱也沒別的招了啊？;是它先攻擊我們的！",
+            "但你也確實...@\n把它...@\n泡水裡了...",
+            "不怪我啊！！\n它跟正常杯子長得\n一模一樣啊！！",
+            "我-我們繼續前進吧...",
+            "（有一瞬間，我感覺那個\n紙板正盯著我！）",
+            "好吧。;我們走吧，Kris。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 497
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 496
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 497
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 496
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 497
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 497
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 487
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 489
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 491
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 498
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

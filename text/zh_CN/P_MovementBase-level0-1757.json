@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 425
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 296
+  },
+  "m_Name": "",
+  "_moveSpeed": 240.0,
+  "_runPercent": 1.0,
+  "_rb": {
+    "m_FileID": 0,
+    "m_PathID": 513
+  },
+  "_MoveDIR": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "_anim": {
+    "m_FileID": 0,
+    "m_PathID": 538
+  },
+  "ismoving": 0,
+  "sprinting": 0,
+  "FinishedAutomatedWalking": 0,
+  "FreezeAnimation": 0,
+  "AnimationOverriden": 0,
+  "CurrentPlayerRotation": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "InDarkworld": 0,
+  "AllowSprint": 1,
+  "LightworldAnimationController": {
+    "m_FileID": 2,
+    "m_PathID": 1064
+  },
+  "DarkworldAnimationController": {
+    "m_FileID": 2,
+    "m_PathID": 1063
+  },
+  "Manager": {
+    "m_FileID": 0,
+    "m_PathID": 1755
+  }
+}

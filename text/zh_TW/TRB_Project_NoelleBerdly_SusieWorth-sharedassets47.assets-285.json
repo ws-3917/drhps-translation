@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1002
+  },
+  "m_Name": "TRB_Project_NoelleBerdly_SusieWorth",
+  "Reaction": {
+    "Array": [
+      {
+        "Character": {
+          "m_FileID": 6,
+          "m_PathID": 238
+        },
+        "Text": "Worth.",
+        "Offset": {
+          "x": 430.0,
+          "y": -80.0
+        }
+      }
+    ]
+  }
+}

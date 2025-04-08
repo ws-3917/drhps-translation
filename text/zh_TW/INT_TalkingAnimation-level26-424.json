@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 92
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 135
+  },
+  "m_Name": "",
+  "TargetChat": {
+    "m_FileID": 0,
+    "m_PathID": 422
+  },
+  "TargetAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 274
+  },
+  "TalkAnimationName": "Rudinn_Talk",
+  "IdleAnimationName": "Rudinn_IdleOverworld",
+  "UseTalkBool": 0,
+  "TalkBoolName": "",
+  "ListenDialogueGlobally": 0,
+  "CharactersToListen": {
+    "Array": []
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 894
+  },
+  "m_Name": "",
+  "CutsceneIndex": 1,
+  "CutsceneSource": {
+    "m_FileID": 0,
+    "m_PathID": 33
+  },
+  "CutsceneChatter": {
+    "m_FileID": 0,
+    "m_PathID": 52
+  },
+  "CutsceneSounds": {
+    "Array": [
+      {
+        "m_FileID": 6,
+        "m_PathID": 254
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 1009
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 6
+      }
+    ]
+  },
+  "CutsceneMusicSource": {
+    "m_FileID": 0,
+    "m_PathID": 34
+  },
+  "CutsceneChats": {
+    "Array": [
+      {
+        "m_FileID": 3,
+        "m_PathID": 12
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 16
+      }
+    ]
+  },
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 35
+  },
+  "KrisHornController": {
+    "m_FileID": 5,
+    "m_PathID": 39
+  },
+  "KrisWalkPositions": {
+    "Array": [
+      {
+        "x": 0.6,
+        "y": 13.175,
+        "z": 0.0
+      },
+      {
+        "x": 0.6,
+        "y": 12.0,
+        "z": 0.0
+      }
+    ]
+  },
+  "DoorDarkness": {
+    "m_FileID": 0,
+    "m_PathID": 3
+  },
+  "mus_bird": {
+    "m_FileID": 3,
+    "m_PathID": 7
+  },
+  "photo": {
+    "m_FileID": 0,
+    "m_PathID": 8
+  }
+}

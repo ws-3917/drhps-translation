@@ -1,0 +1,84 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "PRUNSELLivingroom_PapyrusDoorOpen",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "qxlJFbtciDWd70jO0WaYRWVRU50Q4kGz 5CPulmIlqhMUeutJoqenfuduy5Ywfkgv HhBUm1euhDAw7ojigzi0QUCbhTXHeTHc TDntmOkp7qk2Q2o8UP0eCFqQ3kYUCq1n UWKHCdRAktoAwkx8xECtw0Y9ZNG1j5L7 Cs2eB7V1kdNsZFe9yNEcwt52dfTZiEOz o8E73S8qwk7kmBJ7invLp56PHLjmh906 iGmnswjkTF3aSKrfkaE7nZqE8DaTdvaL TuW3E0VmVcWSuJ1VdPZQKx9zLjy7cCzs cwkftTIEzNEC6uhW0w3BqzImuuVu0heO skQnGucJ95CfuSw9WmqSYOfI7BObKeoL hXGt3hnl8Wl01dhpCvfAgMBeFeYTYmZV ZqjGmDzLLiKsFVSXJ1CsosMkqH7Vb5tf yeiDDEQDlmucHEEEmwj885Hg5R7KrVhT JmZRAD33gcwpzzqVwQvMk6HU6t4UfYfW fvKRpNd5nKADjUBuC0toMQspEnvuUnZ3 nnvxAZKPw6ElyZhqPb5JI70gLOxfJOKR",
+            "76jPe3mfzIQF0wE8MELy3529NfYSAIFB 37DwUAJoeNkF3VPs6V2hBuu4XFqQU6Gd Ak5QY0jD7FJmuwYNAp6vjEQCK7Ks1m9I",
+            "tykZ6hRTzud3hBwfHxfxhlBESouBKBjw w9FoHHIrzmKu4i53cbic0urVrCZcPLHn hYHe0MufYK17vk2ukxwYTuV7VmTzH0wd",
+            "ANX2n8CDJCKl8rbVX0ylLf29BHoGSd89 gTef9LfjZNEmODqtYYwV4yciqagsZmtn 63yr0cGyqH8uW9rDLIpPTUsCtOpJrXqf 5hjAY2e28e6K8Vy5mPW0PshbWlC2ODPy 0MNbjh67YUDUyvT3QA9kB4mZO0LakzSq PVWcC3xgYRcbFOQdOkHqa09mVMCWfL0g f40W0L5g3X5yHuHv6mGUdk6T3etUpiOA tLAyguH6Kjn5Y9fQWoDi8ViRWT9GuNJy EKEk3x6WHxNzOgrLLCUcQg5NMJPY2jKk jl6JSgaTZNxtqFPBs31SuYNzl6mDxFEx vrWByUCGn9moK9Evc5KwLOW2t7x12p5Q zzkvcyZC8eJvtTWD8cyWjIW8h58A0uZg e2F7DnP6YxNTsrKmqFjSToXzeFzkqA6y u9fhngpJTaYELLdZj4cxAMy7Mj2ijAT4 Zd3R9iwfoTDIkYf4tct129OdAlZUqUhU lloI9PXhcoIRfScWvKnw9BijKgad4Q7s",
+            "ZZIC0cDxVcbvA13SxAtsA726ShclhzJo rMI6hHEp7T59sn9k67B1fdUEU2yhmmad lIO6eAfnBY0weyQOGHRuaonUn9WE1Bas neJhSrxrRyOaiEhcE4kg45670fnqn3sN qtbtyTBqYtW27q7Kesxd5ahvfSB8adcK iEtuefo6ksdlkP8bYJoTWQt4e1FeoYh1 tatb1v2Ere1ZpF3udwhINyxrAbFD8oQJ sAI6md4WIEKHfpmIdOqoKRTBdmJoND7A TYFDYGBsmE8JkIx2jqy4KwUxNWmN7KVB 5iVy5ZLmfNiTsiCwKN6uKfMVM1RXYPJI xLKGpbS6ahw8ri49etYvPIV1FVdXeCBB ujQ38loImERayNMZHCKhnWVQq6srEpLM yx0k5SyIiNRZY32JkJ6njpF1vv1zTPJM iZhFWrI0GZjonKrazGVhdrPodA1O7rfE DRvVSeGElmXeaIqq4DE8jD11M9uKcvWr LDMA7T5QgHZeB5JGuJmOh1XcvPtwcTUX BtxW8ZQpGZ7E7iKIkVG7YbPG0Ki3u4z0 OyNYAh2KZVCoCCw3sWnckGQv2pYVt4bJ mYhnYqIMVSB4i7CeDc6kSU5nzHD3DboY CI3nvgYofjjPNg7RFz3q9wKykxq7EuRD q8sRF4lG3CsrsqQdpBFNYJFoZMLFc2Ui Hs9DiBD1pm3lIeHslRHh47kiB11tgo52 3iJFvyKdoRczGJlYBAE3srdTslDwJOgj RiLq5kkiInxjeyMUY1z4bt1Y2HFPlken LLDfhLyKdeVA9iERV4ym0xXDz28EZpBs LyZSwBh1Fg6lRntH6lGj86rmXAlRGdgV AlVLKNjUgUzqaOpSkbdS7hyZ25sT5vQ3 wuHopsnGlIt29XZDeFiaTecuQ1G4tcTo Wjf0FbpnyNQAaQDGfZVPO8juIug4j0Lc fiGGdIbbubg9JZ9XKmORqenG3QQCtxVV z0V92gQDQPPUFzyIYc4PsrfXJjR8Aj7P DTFpJih1v7helHROPkV69ZHwbB7A70ZR v2EFObsBNm2h2598HNq89ovtphldcQ3z ypsifRp4TIko45j1GyMXXvDirkHLoQnf e2p6nQCvPw0BbDpjRbeYM45M7drpz43X t6zmRAJJwLVddlWV0IkltLkf6682cjqv DpYADYuSUKKsxoJVUBq2xaavi3grBG6z kR8KbB2Uae6jOsKSkrPVxrdHS6TCQfaU Jv6FaiomI2yX4lBuQbVVZnxw4ly7wfYC MeAjLJ8XFnrRL1W0jFcK0AwnIvoOsbDS 2VFFfrbykScOhw4xvZjP3KUZHUd78ep0 RqZ9WuHhtculk1B1AeSGCs33PPqPc458 Vo52j0sTziEqHP2wFDaC8fcsAuDcYlZI wR7BJvjYn5k0nJ6nMw0TIfdyffNPaypK 7gTvxc7s54aViE0t4roug8joPlddUyvl 2oiEqFI50EXSF7nNCz0z2660w6IrcXr3 cDoDSL7DbtUzaWFmnyrjf11Hc91UVO8U dlL8KJqT5T6QKmKYbAitMNQuZevYp92m qqquSBqjqji7Q4oLxVXYpQVHPkdwL8RG i4igAEj14HRkXAS2jXcAqJOw0R6BduC9 ByCKaqNYwHYlsDtVpWnX85n695NzhAbn uLfGXcTVcduiM4OibtTG8qHdoV2SNaj3 JdRckprqxhWALqKrRp6EBZ1TNzomRt7F QzqcM3xwiDshges69Heb7mSivY9Ao0xE jxN7mPxpgypwpVlxY33TzhjPNxAUeHiz pE2Uoo1FB45zrhuvrqDBdSwyDytI1Z3L CzXKqxxNZAzsPf5LttOpuclPdEPogPU6 8sOVXFqWmPbZ7Gr6QJnSvWSSxUDEc9jl 25jH9WNegqvKetzvqCFpwWOxnaJIv0MH zZ5cwbK8Oqe7VcNqzgju8aqVniJVH5ee kbsprX3lqr3kDJ6zZNmVIhhWYWN5mulR 8nPQb6of8YAhY11RnDddAptNcyfVWjX0 9YyTIuNX8U7X4K4tVx5rzzE25euWfwOF 1mC5RmEdKxeImf5cxtXaCWgPbZTtZKqZ uwijQX08eicNOEJKL2sJ6OJE4n6V6AW2 yfZnbfZ7Iy0mQGeOcUM8ADiA1WL44i6F nCi3ODn3ZXpROSU4uSeadqhHyWGMMvdD aZK0dPg1cfhAEISC4YADj73rNqR27VS5 U7vzkALLzkx4Oudlhuasfk1iOZKJD2pk NY2FU0wLnDqYM3pWkUIopkm0k4TublHM 7I80hGPH9sAZnSOxxFTEaV9aoO29PHtg FdeBp7CheXvlgfODs205rjPld1jEsOwE D8DjSOk58KN1DGuimq0r1B94xsJ43FUP ORP2q1zU73U4JfpP4f4CVyPCfaQvV86k oAFQeUkveoCuZG46UuGHfoHho62XiaRk 6ykWNKwzrgB8eVJek1GinXazgFpm3r6y sF9FwGLZbBaw249ywmr6Sk2nnngUA5Gg AI9zteDSxkqbMAqbU8AZ9yCgBXTiPNg4 9bXqnliRx75YJ1AlJ5j2GBSlcHcmU8sw TlXZIa1vNAuy8s8X5XVwIGm4P2XqcNFf AQZEZjZb53oxN8nOk21rzHrNmZLpt66W P0yvCgsHGXEtOQMwlkNqq9SgleBG3GeH lYuUi47rTWBVHOkSSgThl4DFdd8cuF5u BBkoK96Y0fupdwc9V1kczLnwEIwF7O4P E3YI9DZ3QEIwcMf9Qz5cUiws0umTNdeL ny4m9913vL7qfPMWDJEjfgkY1ahcJF2F jWVN7zK3CCILrrO07aB0jIKWme8iQs5f 9rUERCkCCKPZwHxbCWyYFMZPtbpINsIS pq4zOapJ3urqir5Q7rWgjwJDvRaR1BMD uE2XrT7mF0K4udUVnWCmXabE9v8nEFjn Kyw5epWqIDssvKqPL6XhgHjlnQQYXGQA zxuUfVB3j9Jbeki7GPLAPBamZoh3zgao tSCbI3YArzld6rcgpwObLrns7bRrNzPP b684lrBkIOUWvy36bjf3UpTRzhcyajDh VyggxnDYcC5Oz6dN6pZO9S5l83edEHbg B1kV5xKBBRNGMeVMohQdm7Hs6Vz9gAm0 CXn15NEeaXNQkh08wLM1CzZNedNlhgXo I5SHkqziYKNKSc0Lyl8g0eb9HPiaJj6k A3WVQO4v5yFkGA4J4Hb6pKTNRmrYV0sB PRv8ADX0AUHqGcwsL3CalqlCdB8j7u2n hGrRpQZ4D7lpLbsyYxlPxWJQFVswJLUk PhMaulJVAWN2K0ICFF7n4NAy7Y2fXuWU 2OlLGUDneK9nOOINfBPi9vViP2zszWCt WxHNKXWtsKntUiX2DPDQYmnGNjpKWQkc 5IMMSyVDe6QcbdDrvKHqaRUzjNLqIrFF WJWsjBOUtvx3l8cUHuz1zPSfr2lr1mCk gCt1lOjRtEzghcdwrYw6hNvsRRhwpUmA Rd9IaywdU6L6gP6JW7ThbX8klzqV0BgZ e4P2WDhyFrhOXAcVQQDEQXfBCz84JkxK khpXQN6GCpOrs9BIzkVBKn2lKG5djZVF 8jkp25MlRFmOwx2Anzi92oCJJ7Ju2KrH tQTidwAvCHwu2uPVdoV4X6jPPl7TrSiS 2GnTQdDaTq65MLkQtIgwgEuHKdmulnTl gAexZ0nfcDtO2ELI8mls3MSGJaBbocwN GbKFhtLYJhnsX3XQn3gIdypTGPEHzdV6 B8TraTJJVAN4grC0SVtyev4o090b7iUM nXizJuJUA9Xmzswhr1WQPkKoyYuliNZ1 W7Q2MBVrRWhjbmtc7nQyYDqtxGzcE5cu K8mVpmw4AvmiD49rEJKPoZTWLUzpdeii Mv5snvxVVWJFHRwbpxJ5mHJsXvDSGjYH SigTbV6lVyIyIflKHZfkYgqmXVNuQIaH j4OfwMF1P4DguxW5qjBDnhrDq0GPmb71 e4grUHgmqfau8Zg3a9X7Xy6gyravTixN HcxaoTlxV7bc43SXT2avfzfV04OAWD7p NbMGgHg86waF3NAp0nbzORl08H7BPK5q cvjkUksRpXXlYutsbk8FpOA94jOIYY0E lBKRlUZPP3jwlfuFuL54m0bbzCAUpDJ3 7HzhhM0nClSqgwGeM0awc0cv58aU0mmw wfnsT5MCfMYTUoMZrBy1O2lRxcLUz6vU"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 181
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

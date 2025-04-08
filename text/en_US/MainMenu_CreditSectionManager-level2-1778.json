@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 260
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1119
+  },
+  "m_Name": "",
+  "CreditSection": {
+    "m_FileID": 0,
+    "m_PathID": 1775
+  },
+  "creditAreas": {
+    "Array": [
+      {
+        "CreditNames": "Uprank",
+        "CreditCharacterAnimationName": "CreditChar_Uprank",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 166
+        },
+        "Title": 0,
+        "CreditDescription": "Role:\nDirector, Lead Programmer, Lead Writer, Sprite Artist\n\n\n\" i make video games \""
+      },
+      {
+        "CreditNames": "Trashei",
+        "CreditCharacterAnimationName": "CreditChar_Trashei",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 146
+        },
+        "Title": 0,
+        "CreditDescription": "Role:\nPlaytester\n\n\" chara apparition in sans's room \""
+      },
+      {
+        "CreditNames": "puzzlerat",
+        "CreditCharacterAnimationName": "CreditChar_Ratcastles",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 150
+        },
+        "Title": 0,
+        "CreditDescription": "Role:\nMusician,Writer ,Playtester\n\n\" i remember you're <color=green>game development</color> \""
+      },
+      {
+        "CreditNames": "Fillow",
+        "CreditCharacterAnimationName": "CreditChar_Fillow",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 161
+        },
+        "Title": 0,
+        "CreditDescription": "Role:\nIdeator\n\n\" The first rule is cardio? Now I get it..................... \""
+      },
+      {
+        "CreditNames": "Special Thanks",
+        "CreditCharacterAnimationName": "",
+        "CreditSound": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "Title": 1,
+        "CreditDescription": ""
+      },
+      {
+        "CreditNames": "Abbie Gonzalez",
+        "CreditCharacterAnimationName": "CreditChar_AbbieGonzalez",
+        "CreditSound": {
+          "m_FileID": 4,
+          "m_PathID": 1019
+        },
+        "Title": 0,
+        "CreditDescription": "Created of the OpenDyselxic Font\n\nSocials\nabbiegonzalez.com"
+      }
+    ]
+  },
+  "source": {
+    "m_FileID": 0,
+    "m_PathID": 604
+  },
+  "NameText": {
+    "m_FileID": 0,
+    "m_PathID": 1652
+  },
+  "DescriptionText": {
+    "m_FileID": 0,
+    "m_PathID": 1649
+  },
+  "CharacterIconAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 623
+  }
+}

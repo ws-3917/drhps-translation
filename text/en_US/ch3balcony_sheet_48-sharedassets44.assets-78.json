@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 13312
+  },
+  "m_Name": "ch3balcony_sheet_48",
+  "m_Sprite": {
+    "m_FileID": 0,
+    "m_PathID": 26
+  },
+  "m_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_Transform": {
+    "m00": 1.0,
+    "m10": 0.0,
+    "m20": 0.0,
+    "m30": 0.0,
+    "m01": 0.0,
+    "m11": 1.0,
+    "m21": 0.0,
+    "m31": 0.0,
+    "m02": 0.0,
+    "m12": 0.0,
+    "m22": 1.0,
+    "m32": 0.0,
+    "m03": 0.0,
+    "m13": 0.0,
+    "m23": 0.0,
+    "m33": 1.0
+  },
+  "m_InstancedGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Flags": 1,
+  "m_ColliderType": 1
+}

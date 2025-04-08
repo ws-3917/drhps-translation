@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1517
+  },
+  "m_Name": "EOTDRehabRoom_Carousel_Spin",
+  "PlaySound": 1,
+  "PossibleSounds": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 65
+      }
+    ]
+  },
+  "RunComponentFunction": 1,
+  "TargetComponentGameObjectName": "GenericCharacterAnimations",
+  "TargetComponentClassname": "EOTDRehabRoom_GenericCharacterAnimations",
+  "FunctionName": "CarouselStartSpin",
+  "SubActions": {
+    "Array": []
+  },
+  "RunActionOnChatEnd": 1
+}

@@ -1,0 +1,228 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDFountain_SusieRegress",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 616
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 227
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 223
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 313
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 616
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 616
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 228
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 218
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 217
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 230
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 228
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 222
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 616
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 313
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 223
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 228
+            },
+            {
+              "m_FileID": 8,
+              "m_PathID": 313
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 228
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 229
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "...",
+            "为什么...\n你不早点告诉我们？",
+            "Susie，我-..",
+            "我做不到..",
+            "...",
+            "你...\n做不到...？",
+            "..",
+            "你做不到是什么意思？！",
+            "我们玩得很开心..",
+            "我不想因为他\n而影响我们的旅程...！",
+            "那太自私了！\n那我们呢，伙计？！",
+            "你有考虑过\n我们的感受吗？！",
+            "Susie！？那当然了！;一直如此！",
+            "就为了最后跟我们说\n要对你痛下杀手吗？",
+            "...",
+            "拜托了，Susie，让我-£",
+            "打住。",
+            "...",
+            "我-我...@;没有-£",
+            "闭上你这嘴！！",
+            "我不在乎！！"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 191
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 175
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 178
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 189
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 191
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 189
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 188
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 191
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 176
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 186
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 188
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 161
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 194
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 178
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 191
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 186
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 152
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

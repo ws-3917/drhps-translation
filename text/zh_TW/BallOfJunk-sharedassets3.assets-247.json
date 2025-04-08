@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 531
+  },
+  "m_Name": "BallOfJunk",
+  "ItemName": "垃圾球",
+  "InfoText": {
+    "m_FileID": 0,
+    "m_PathID": 252
+  },
+  "DropText": {
+    "m_FileID": 0,
+    "m_PathID": 251
+  },
+  "UseText": {
+    "m_FileID": 0,
+    "m_PathID": 254
+  },
+  "Useable": 1,
+  "IsSharedItem": 0,
+  "RemoveOnUse": 0,
+  "TopbarInfo": "這是個物品！",
+  "BattleInfo": "回復50HP",
+  "ItemUseSound": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CharacterDialogue": {
+    "KrisItemUsed_SusieDialogue": "",
+    "KrisItemUsed_RalseiDialogue": "",
+    "KrisItemUsed_NoelleDialogue": "",
+    "SusieItemUsed_SusieDialogue": "",
+    "SusieItemUsed_RalseiDialogue": "",
+    "SusieItemUsed_NoelleDialogue": "",
+    "RalseiItemUsed_SusieDialogue": "",
+    "RalseiItemUsed_RalseiDialogue": "",
+    "RalseiItemUsed_NoelleDialogue": ""
+  },
+  "HealthAddition": 0
+}

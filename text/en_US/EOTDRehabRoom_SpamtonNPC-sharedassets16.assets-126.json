@@ -1,0 +1,462 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDRehabRoom_SpamtonNPC",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 315
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 315
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 302
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 305
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 310
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2586
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 137
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 10,
+              "m_PathID": 213
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 304
+            },
+            {
+              "m_FileID": 9,
+              "m_PathID": 314
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 138
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 139
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 136
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "KRIS!!@ [[It's Been So Long]] SINCE WE'VE SPOKEN!!!",
+            "YOU NEVER [[Give Forgiveness]] TO ME FOR ALL THE DEALS I GAVE!!!",
+            "BUT DON'' T [[Jinkies]], I CAN SEE IT IN YOUR [[Face]].",
+            "[[Oh Boy]] DO I HAVE THE [[Tale]] TO TELL YOU!!!",
+            "THANKS TO YOUR [[Fluffy Pillows]] FRIEND HERE...",
+            "... ME AND MY NEW [[Buddy's]] HAVE A PLACE TO CALL [[Call Home]]!!!",
+            "BUT ALAS, WE REMAIN TRAPPED, TRAPPED.",
+            "THE PRINCE CLAIMS WE'RE, <br>\"A DANGER TO THE PUBLIC!\".",
+            "W-What?! ;I never said that!",
+            "[[Liar@ Liar]]@ PANTS ON [[It Burns]]!!!",
+            "LET US BREAK FREE!;WE'VE CHANGED, CHANGED!",
+            "I believe you! ;It's just...",
+            "Spamton, you sold my entire castle to Lancer!",
+            "THE BOY'S A [[Persuasive Practices Tutorial]]!!",
+            "HE EVEN SAID,@ \"Pretty Please, with a cherry ontop!\".",
+            "Why wasn't I told my castle was for sale?",
+            "[[I Forgor]]@.@.@.",
+            "And Jevil, about that show you put on..",
+            "UEE HEE HEE, BUT A SPECTACLE, SPECTACLE!",
+            "A CIRCUS FOR ALL TO ENJOY,  T'WAS VERY RESPECTABLE!",
+            "You were firing attacks into the audience!",
+            "OH PLEASE, IT'S JUST A SIMPLE CHAOS!",
+            "YOU KIDS GOTTA LEARN HOW FUN BEING FREE IS!",
+            "[[EUREKA]]!! ;I'VE HAD THE [[Winner Winner Chicken Dinner]] IDEA!!",
+            "RALSEI,@ BUDDY,@ CHUM,@ PAL,@ I'VE GOT A [[Specil Deal]] JUST FOR [[U]]!!",
+            "YOU DARE [[Life Sentence]] US WHILST [[The End Is Nigh]]??",
+            "[[Pretty Please]], LET ME SMELL [[Beautiful Day Outside]] AIR ONE LAST TIME!!",
+            "UEE HEE HEE, A MARVELLOUS FUN IS ABOUT TO BREAK FREE.",
+            "You don't think I'm forcing you to stay in here, do you?",
+            "[[We Have A Winner!!]]",
+            "Listen, I know you've both had bad experiences with royalty..",
+            "But this isn't one of them, you can leave anytime you want!",
+            "It's not a prison.;I promise.",
+            "...",
+            "...",
+            "HA HA HA. WHAT A MIX-UP, MIX-UP!",
+            "BUT LO, OUR STORY ENDS HAPPY!",
+            "I [[ERROR 404]] MY EYES!!! ;I MUST BE [[Sweet Dreams]]!!!",
+            "RALSEI YOU [[Lovable Plushy]]!!",
+            "I COULD-@ I COULD-@ I COULD-@ I COULD-@ I COULD-@ I COULD- ",
+            "GIVE HIM A MOMENT.",
+            "I COULD-@ I COULD-@ I COULD-@<br>I COULD [[Free Smooches]] YOU!!",
+            "OUR VERY OWN [[Humble Abode]] TO CALL [[Mine All Mine]]?!?!",
+            "Yep! ;Well, that's how I see it atleast.",
+            "I WILL [[Never Leave]]!! EAHAHAHAHAHA!!",
+            "WE'RE TOO SCARY FOR THE OUTSIDE WORLD.",
+            "BUT IN OUR LITTLE RESIDENCE, WE'RE PERFECT, PERFECT!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 128
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 127
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 131
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 127
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 132
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 122
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 120
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 118
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 133
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 117
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 124
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 127
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 129
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 135
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 131
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 120
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 122
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 117
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 125
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 129
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 130
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 135
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 128
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 117
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 124
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 121
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 135
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 117
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 129
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 130
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 133
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 122
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 118
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 127
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 133
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 117
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 125
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

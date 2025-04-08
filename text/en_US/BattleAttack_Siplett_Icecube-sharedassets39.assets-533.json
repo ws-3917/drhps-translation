@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 245
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1418
+  },
+  "m_Name": "",
+  "fallSpeedCurve": {
+    "m_Curve": {
+      "Array": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 14.504284,
+          "outSlope": 14.504284,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.31575227
+        },
+        {
+          "time": 1.0,
+          "value": 10.549726,
+          "inSlope": 1.3650796,
+          "outSlope": 1.3650796,
+          "weightedMode": 0,
+          "inWeight": 1.0,
+          "outWeight": 0.5505384
+        },
+        {
+          "time": 2.4992137,
+          "value": 14.909526,
+          "inSlope": 0.24235116,
+          "outSlope": 0.24235116,
+          "weightedMode": 0,
+          "inWeight": 0.5200913,
+          "outWeight": 0.0
+        }
+      ]
+    },
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "curveDuration": 3.0,
+  "PossibleIceSprites": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 112
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 125
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 219
+      }
+    ]
+  },
+  "RareIceeIcecube": {
+    "m_FileID": 0,
+    "m_PathID": 161
+  },
+  "iceRotateRange": 240.0,
+  "Prefab_Kaplunk": {
+    "m_FileID": 0,
+    "m_PathID": 246
+  },
+  "thisRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 372
+  },
+  "KaplunkSFX": {
+    "m_FileID": 0,
+    "m_PathID": 81
+  }
+}

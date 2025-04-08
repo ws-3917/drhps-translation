@@ -1,0 +1,33 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 179
+    },
+    "m_Name": "Outlawed",
+    "HypothesisName": "Outlawed",
+    "HypothesisStartingScene": 42,
+    "HypothesisTagline": "This town ain't big enough for the three of us!",
+    "HypothesisDescription": "What if Chapter 3 of DELTARUNE included a secret boss that had a distinct cowboy/western theming? Additionally, what if Asgore accompanied us in the darkworld too?",
+    "HypothesisMenuSprite": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "HypothesisGoals": {
+        "Array": []
+    },
+    "TimeWhenWritten": "this Hypothetical was written before DELTARUNE Chapters 3 & 4's release",
+    "HypotheticalReleased": 1,
+    "LogRewardedOnCompletion": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "LogRewardedOnGoalsCompleted": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    }
+}

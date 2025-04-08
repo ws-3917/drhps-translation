@@ -1,0 +1,71 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 884
+  },
+  "m_Name": "",
+  "SavedFloatsToReset": {
+    "Array": []
+  },
+  "SavedStringsToReset": {
+    "Array": []
+  },
+  "SavedIntsToReset": {
+    "Array": [
+      {
+        "PP_IntName": "EOTD_FinishedArgueCutscene",
+        "PP_Value": 0
+      },
+      {
+        "PP_IntName": "EOTD_RehabRoomSong",
+        "PP_Value": 0
+      },
+      {
+        "PP_IntName": "EOTD_RouxlsRoomEntry",
+        "PP_Value": 0
+      },
+      {
+        "PP_IntName": "EOTD_CakeCutscene",
+        "PP_Value": 0
+      },
+      {
+        "PP_IntName": "EOTD_Carousel",
+        "PP_Value": 0
+      },
+      {
+        "PP_IntName": "EOTD_Car",
+        "PP_Value": 0
+      },
+      {
+        "PP_IntName": "EOTD_CastleRoomFloorOne_RalseiInform",
+        "PP_Value": 0
+      },
+      {
+        "PP_IntName": "EOTD_HasMetLancer",
+        "PP_Value": 0
+      }
+    ]
+  },
+  "ResetLightworldInventory": 1,
+  "ResetDarkworldInventory": 1,
+  "NewLightworldInventory": {
+    "Array": []
+  },
+  "NewDarkworldInventory": {
+    "Array": []
+  },
+  "NewDarkworldKeyItems": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 12
+      }
+    ]
+  },
+  "AllowShowTipText": 1
+}

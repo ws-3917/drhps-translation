@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 48
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1025
+  },
+  "m_Name": "",
+  "TargetGameobject": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 26
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 29
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 31
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 27
+      }
+    ]
+  },
+  "CollisonResult": 1
+}

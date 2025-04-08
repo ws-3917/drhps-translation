@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 21
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 235
+  },
+  "m_Name": "",
+  "_Renderer": {
+    "m_FileID": 0,
+    "m_PathID": 46
+  },
+  "Dealer": {
+    "m_FileID": 0,
+    "m_PathID": 60
+  },
+  "GrazeGain": 4,
+  "DefaultColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "Color_Heal": {
+    "r": 0.0,
+    "g": 1.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "DestroyOnDamage": 1,
+  "ChangeTargetAfterDamage": 1
+}

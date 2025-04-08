@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 41
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 79
+  },
+  "m_Name": "",
+  "Text": {
+    "m_FileID": 3,
+    "m_PathID": 208
+  },
+  "CurrentIndex": 0,
+  "FinishedText": 0,
+  "CanUse": 1,
+  "CurrentlyBeingUsed": 0,
+  "FirstTextPlayed": 0,
+  "LoopCertainText": 1,
+  "IndexToLoop": 1,
+  "ManualTextboxPosition": 0,
+  "OnBottom": 0
+}

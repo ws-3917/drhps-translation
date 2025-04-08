@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1517
+  },
+  "m_Name": "APF_FountainRoom_SusieKrisLookEachother",
+  "PlaySound": 0,
+  "PossibleSounds": {
+    "Array": []
+  },
+  "RunComponentFunction": 1,
+  "TargetComponentGameObjectName": "AcceptanceCutscene",
+  "TargetComponentClassname": "EOTDREWRITE_FountainRoom",
+  "FunctionName": "SusieIdle_Right",
+  "SubActions": {
+    "Array": [
+      {
+        "TargetComponentGameObjectName": "AcceptanceCutscene",
+        "TargetComponentClassname": "EOTDREWRITE_FountainRoom",
+        "FunctionName": "KrisIdle_Left",
+        "RunActionOnChatEnd": 0
+      },
+      {
+        "TargetComponentGameObjectName": "AcceptanceCutscene",
+        "TargetComponentClassname": "EOTDREWRITE_FountainRoom",
+        "FunctionName": "RalseiIdle_Down",
+        "RunActionOnChatEnd": 0
+      }
+    ]
+  },
+  "RunActionOnChatEnd": 0
+}

@@ -1,0 +1,103 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 182
+  },
+  "m_Name": "testchoice5",
+  "DefaultSelectedChoice": -1,
+  "Choices": {
+    "Array": [
+      "what",
+      "why",
+      "how",
+      "when",
+      "yes",
+      "no",
+      "idk",
+      "kys"
+    ]
+  },
+  "CanBackOut": 0,
+  "ShowOnTextScrollFinish": 0,
+  "ChoiceCharacterReference": {
+    "m_FileID": 8,
+    "m_PathID": 600
+  },
+  "ChoiceTextResults": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 26
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    ]
+  },
+  "ChoicePositions": {
+    "Array": [
+      {
+        "x": -400.0,
+        "y": 82.5
+      },
+      {
+        "x": -150.0,
+        "y": 82.5
+      },
+      {
+        "x": 150.0,
+        "y": 82.5
+      },
+      {
+        "x": 400.0,
+        "y": 82.5
+      },
+      {
+        "x": -400.0,
+        "y": -82.5
+      },
+      {
+        "x": -150.0,
+        "y": -82.5
+      },
+      {
+        "x": 150.0,
+        "y": -82.5
+      },
+      {
+        "x": 400.0,
+        "y": -82.5
+      }
+    ]
+  }
+}

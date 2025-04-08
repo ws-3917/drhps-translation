@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 264
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1316
+  },
+  "m_Name": "",
+  "LiquidFront_Renderer": {
+    "m_FileID": 0,
+    "m_PathID": 390
+  },
+  "LiquidBack_Renderer": {
+    "m_FileID": 0,
+    "m_PathID": 374
+  },
+  "AttackTime": 7.5,
+  "IceCubeSpawn_Y": 5.0,
+  "IceCubeSpawnRange_X": 1.75,
+  "IceCubesToSpawn": 35,
+  "IceCubePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 245
+  }
+}

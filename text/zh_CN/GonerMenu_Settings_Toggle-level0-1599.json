@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 126
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 878
+  },
+  "m_Name": "",
+  "AssosciatedElement": {
+    "m_FileID": 0,
+    "m_PathID": 1598
+  },
+  "ToggleTickRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 1740
+  },
+  "SettingName": "Fullscreen",
+  "UpdateDyslexicFontsOnChange": 0,
+  "IgnoreGonerMenuOpenState": 0,
+  "IgnoredGonerSettingsManager": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

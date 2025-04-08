@@ -1,0 +1,189 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 41
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 579
+  },
+  "m_Name": "",
+  "CutsceneIndex": 0,
+  "PapyrusTransform": {
+    "m_FileID": 0,
+    "m_PathID": 103
+  },
+  "PapyrusAngryEyebrows": {
+    "m_FileID": 0,
+    "m_PathID": 168
+  },
+  "PapyrusAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 178
+  },
+  "PapyrusArmorAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 176
+  },
+  "SansArmorAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Kris": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Sans": {
+    "m_FileID": 0,
+    "m_PathID": 107
+  },
+  "SansAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Candle": {
+    "m_FileID": 0,
+    "m_PathID": 42
+  },
+  "TableLighting": {
+    "m_FileID": 0,
+    "m_PathID": 10
+  },
+  "DarkRoomObjects": {
+    "m_FileID": 0,
+    "m_PathID": 52
+  },
+  "LightRoomObjects": {
+    "m_FileID": 0,
+    "m_PathID": 65
+  },
+  "RoomTourCutscene": {
+    "m_FileID": 0,
+    "m_PathID": 231
+  },
+  "KrisWalkPositions": {
+    "Array": [
+      {
+        "x": 2.5,
+        "y": -3.25
+      }
+    ]
+  },
+  "SusieWalkPositions": {
+    "Array": [
+      {
+        "x": 3.65,
+        "y": -2.25
+      }
+    ]
+  },
+  "KrisWalkDirections": {
+    "Array": [
+      {
+        "x": 0.0,
+        "y": 1.0
+      }
+    ]
+  },
+  "SusieWalkDirections": {
+    "Array": [
+      {
+        "x": 0.0,
+        "y": 1.0
+      }
+    ]
+  },
+  "PapyrusWalkDirections": {
+    "Array": [
+      {
+        "x": 1.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": -1.0
+      },
+      {
+        "x": -1.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": -1.0
+      }
+    ]
+  },
+  "PapyrusWalkPositions": {
+    "Array": [
+      {
+        "x": 2.135,
+        "y": -1.835
+      },
+      {
+        "x": 2.135,
+        "y": -3.135
+      },
+      {
+        "x": 1.175,
+        "y": -3.135
+      },
+      {
+        "x": 1.175,
+        "y": -4.1
+      }
+    ]
+  },
+  "CutsceneChatter": {
+    "m_FileID": 0,
+    "m_PathID": 254
+  },
+  "CutsceneChats": {
+    "Array": [
+      {
+        "m_FileID": 4,
+        "m_PathID": 451
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 453
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 443
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 463
+      }
+    ]
+  },
+  "CutsceneSource": {
+    "m_FileID": 0,
+    "m_PathID": 158
+  },
+  "CutsceneSounds": {
+    "Array": [
+      {
+        "m_FileID": 4,
+        "m_PathID": 253
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 1050
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 249
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 258
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "PhoneCall_EOTD_TorielSupplyCloset",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 244
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 243
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 245
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 242
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（嘀嘀嘀，嘀嘀嘀...）",
+            "Kris，你好。\n我现在很忙。",
+            "Susie是不是正好\n跟你在一起呢？",
+            "你俩在一块？;太好了！",
+            "我给你俩烤点心呢，\n早点回来！",
+            "（嘀...）"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 92
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 243
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 93
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "（嘀嘀嘀，嘀嘀嘀...）",
+            "你说什么？;你俩在学校储物间\n探险呢？",
+            "嗯...小心点！",
+            "我可不希望你回来时\n全身都是灰！",
+            "（嘀...）"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

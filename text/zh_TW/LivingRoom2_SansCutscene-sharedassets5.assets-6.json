@@ -1,0 +1,183 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "LivingRoom2_SansCutscene",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 5,
+              "m_PathID": 226
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 609
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 225
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 226
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 225
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 226
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 229
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 224
+            },
+            {
+              "m_FileID": 5,
+              "m_PathID": 236
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "嘿，走之前，\n和我稍微嘮一會，\n怎麼樣？",
+            "行，沒問題。",
+            "我發現，你倆好像\n不太想跟papyrus\n成為朋友。",
+            "...沒事，我能理解。",
+            "他確實有些...\n太外向了。",
+            "唉，確實。",
+            "是啊。\n剛剛發生的\n我都親眼看到了。",
+            "我親眼看到，\n那隻藍鳥把我家房門\n踹開了。",
+            "就不扯啥長篇大論了。\n總之，我很感激他。",
+            "大門敞開，papyrus\n應該就不會成天\n窩在自己房間裡了。",
+            "所以...\n你知道嗎，夥計？",
+            "有啥事，跟我\n打個電話就成。",
+            "（你得到了Sans的真正號碼。）",
+            "嘿嘿，這次保證\n號碼肯定是真的哦。",
+            "好吧，時間也不早了。\n你倆快點回去吧。",
+            "好嘞，多謝。"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 4
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 5
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 5
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 4
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 5
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 4
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 5
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

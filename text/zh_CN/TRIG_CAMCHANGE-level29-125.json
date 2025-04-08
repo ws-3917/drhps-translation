@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1469
+  },
+  "m_Name": "",
+  "Camera": {
+    "m_FileID": 0,
+    "m_PathID": 143
+  },
+  "CameraXResult": 0,
+  "CameraYResult": 0,
+  "OnTriggerExit": 1,
+  "XOnTriggerExit": 1,
+  "YOnTriggerExit": 0
+}

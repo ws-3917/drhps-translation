@@ -1,0 +1,169 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 31
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1448
+  },
+  "m_Name": "",
+  "keyPresses": {
+    "Array": [
+      {
+        "Key": 1,
+        "TimeSinceLast": 0.0
+      },
+      {
+        "Key": 2,
+        "TimeSinceLast": 0.5645313
+      },
+      {
+        "Key": 3,
+        "TimeSinceLast": 0.700058
+      },
+      {
+        "Key": 2,
+        "TimeSinceLast": 0.8006325
+      },
+      {
+        "Key": 3,
+        "TimeSinceLast": 0.33377457
+      },
+      {
+        "Key": 1,
+        "TimeSinceLast": 0.3997116
+      },
+      {
+        "Key": 2,
+        "TimeSinceLast": 0.8005409
+      },
+      {
+        "Key": 3,
+        "TimeSinceLast": 0.36611366
+      },
+      {
+        "Key": 2,
+        "TimeSinceLast": 0.36620903
+      },
+      {
+        "Key": 1,
+        "TimeSinceLast": 0.66740036
+      },
+      {
+        "Key": 2,
+        "TimeSinceLast": 0.39874077
+      },
+      {
+        "Key": 1,
+        "TimeSinceLast": 0.3682766
+      },
+      {
+        "Key": 3,
+        "TimeSinceLast": 0.39886093
+      },
+      {
+        "Key": 1,
+        "TimeSinceLast": 0.76725006
+      },
+      {
+        "Key": 3,
+        "TimeSinceLast": 0.36610985
+      },
+      {
+        "Key": 2,
+        "TimeSinceLast": 0.6673088
+      },
+      {
+        "Key": 1,
+        "TimeSinceLast": 0.80031204
+      },
+      {
+        "Key": 2,
+        "TimeSinceLast": 0.73197556
+      },
+      {
+        "Key": 3,
+        "TimeSinceLast": 0.8000431
+      },
+      {
+        "Key": 2,
+        "TimeSinceLast": 0.76667213
+      },
+      {
+        "Key": 3,
+        "TimeSinceLast": 0.7007408
+      },
+      {
+        "Key": 2,
+        "TimeSinceLast": 0.3991375
+      },
+      {
+        "Key": 1,
+        "TimeSinceLast": 0.634943
+      }
+    ]
+  },
+  "DWkeyPresses": {
+    "Array": [
+      {
+        "Key": 1,
+        "TimeSinceLast": 0.0
+      },
+      {
+        "Key": 2,
+        "TimeSinceLast": 58.545715
+      },
+      {
+        "Key": 1,
+        "TimeSinceLast": 3.5326843
+      },
+      {
+        "Key": 2,
+        "TimeSinceLast": 0.40086365
+      },
+      {
+        "Key": 3,
+        "TimeSinceLast": 0.33265686
+      },
+      {
+        "Key": 1,
+        "TimeSinceLast": 2.266983
+      },
+      {
+        "Key": 2,
+        "TimeSinceLast": 0.33383942
+      },
+      {
+        "Key": 3,
+        "TimeSinceLast": 0.36747742
+      },
+      {
+        "Key": 1,
+        "TimeSinceLast": 2.1656036
+      },
+      {
+        "Key": 2,
+        "TimeSinceLast": 0.86667633
+      },
+      {
+        "Key": 3,
+        "TimeSinceLast": 0.73236847
+      },
+      {
+        "Key": 2,
+        "TimeSinceLast": 0.73423004
+      },
+      {
+        "Key": 1,
+        "TimeSinceLast": 1.1661682
+      },
+      {
+        "Key": 4,
+        "TimeSinceLast": 0.4331894
+      }
+    ]
+  },
+  "IsDarkworldVarient": 0
+}

@@ -1,0 +1,160 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "PhoneCall_MeetPapyrus_Berdly",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 587
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 597
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 595
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 596
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 592
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 595
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 597
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 595
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "(Ring, ring...)",
+            "Ah Kris, exquisite timing as usual!",
+            "I've been needing a second opinion on something..",
+            "... Imagine you are in a fierce battle against an ogre!",
+            "This ogre is incredibly powerful and has two attacks, so listen up!",
+            "The first attack is a grand slam which does thirty damage.",
+            "... The second attack is a mighty roar, that does fourty damage!",
+            "You, in this scenario, only have thirty five HP.",
+            "Do you take the chance that it only does the first attack and fight?",
+            "Or play carefully and block the upcoming attack?",
+            "Oh wait!! ;I forgot to explain blocking and attacking!",
+            "(You hang up...)"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 597
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 587
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 596
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 587
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 591
+            },
+            {
+              "m_FileID": 4,
+              "m_PathID": 2584
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "(Ring, ring...)",
+            "It, uh, appears the line broke up for a moment.",
+            "Anyways, fear not Kris!",
+            "The ogre roared so loud my character died..",
+            "But I will get them next time, for sure!",
+            "Say, you should come round and join in on the fun sometime.",
+            "I've always needed a healer on my team!",
+            "(Click...)"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

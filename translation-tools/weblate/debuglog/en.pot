@@ -1,0 +1,304 @@
+#
+msgid ""
+msgstr ""
+
+msgid "prefab For CharacterIcon is Null"
+msgstr ""
+
+msgid "Battle_PlayerSoul.Instance is not set."
+msgstr ""
+
+msgid "AttemptRunActions started."
+msgstr ""
+
+msgid "storedchatboxtext.Textboxes is null"
+msgstr ""
+
+msgid "storedchatboxtext.Textboxes[CurrentAdditionalTextIndex] is null"
+msgstr ""
+
+msgid "currentTextbox.Action is null"
+msgstr ""
+
+msgid "currentTextbox.Action.Length is 0"
+msgstr ""
+
+msgid "currentTextbox.Action[CurrentTextIndex] is null"
+msgstr ""
+
+msgid "action.RunActionOnChatEnd is false"
+msgstr ""
+
+msgid "Action will be run: "
+msgstr ""
+
+msgid "action.PossibleSounds is null"
+msgstr ""
+
+msgid "action.PossibleSounds.Length is 0"
+msgstr ""
+
+msgid "Playing sound: "
+msgstr ""
+
+msgid "action.TargetComponentGameObjectName is null"
+msgstr ""
+
+msgid "TargetGameObject not found: "
+msgstr ""
+
+msgid "action.FunctionName is null"
+msgstr ""
+
+msgid "action.TargetComponentClassname is null"
+msgstr ""
+
+msgid "Couldn't find Component named: "
+msgstr ""
+
+msgid "Method not found: "
+msgstr ""
+
+msgid "Invoking method: "
+msgstr ""
+
+msgid "AttemptRunActions ended."
+msgstr ""
+
+msgid "Invalid index after '|' or index out of range."
+msgstr ""
+
+msgid "Player's Turn: "
+msgstr ""
+
+msgid "Enemy's Turn: "
+msgstr ""
+
+msgid "finished!"
+msgstr ""
+
+msgid "Failed to get Animator in children of Battle Member!"
+msgstr ""
+
+msgid "member in AddPartyMemberToBattle() is null!! WTF!!"
+msgstr ""
+
+msgid ""
+"SetupBattleScript FAILED! Either Battle or BattleScriptPrefab are null!"
+msgstr ""
+
+msgid ""
+"BattlePartyMembers[0] was null when trying to close battle box and lerp soul"
+msgstr ""
+
+msgid "No new targets available to spare?"
+msgstr ""
+
+msgid "FadeSpriteRenderer Failed | spriteRenderer is missing or null?"
+msgstr ""
+
+msgid "Scene Loaded: "
+msgstr ""
+
+msgid "PlayerPrefs saved!"
+msgstr ""
+
+msgid "AttemptRunMultipleActions started."
+msgstr ""
+
+msgid "storedchatboxtext is null"
+msgstr ""
+
+msgid "currentTextbox.SubActions is null"
+msgstr ""
+
+msgid "currentTextbox.SubActions.Length is 0"
+msgstr ""
+
+msgid "currentTextbox.SubActions.SubActions.Length is 0"
+msgstr ""
+
+msgid "Action is null, skipping"
+msgstr ""
+
+msgid "AttemptRunMultipleActions ended."
+msgstr ""
+
+msgid "Starting playback..."
+msgstr ""
+
+msgid "Playback finished."
+msgstr ""
+
+msgid ""
+"Unable to rotate Character! | targetAnimator isn't active and or enabled"
+msgstr ""
+
+msgid ""
+"Unable to rotate towards position! | targetAnimator isn't active and or "
+"enabled"
+msgstr ""
+
+msgid "Unable to shake transform! | transform gameobject not enabled"
+msgstr ""
+
+msgid "Unable to play sound! | clip is missing or null"
+msgstr ""
+
+msgid "Unable to run fresh chat! | CHATBOXTEXT is null"
+msgstr ""
+
+msgid "FadeInSprite failed! spriteRenderer is null"
+msgstr ""
+
+msgid "FadeOutSprite failed! spriteRenderer is null"
+msgstr ""
+
+msgid "Target Transform cannot be null."
+msgstr ""
+
+msgid "Party member null?"
+msgstr ""
+
+msgid "Markiplier is missing???"
+msgstr ""
+
+msgid "Discord initialized successfully."
+msgstr ""
+
+msgid "Failed to initialize Discord: "
+msgstr ""
+
+msgid ""
+"Common reasons are either, discord not being open or no internet connection."
+msgstr ""
+
+msgid "Discord disposed."
+msgstr ""
+
+msgid "Discord is not initialized, skipping ChangeActivity."
+msgstr ""
+
+msgid "Activity Updated!"
+msgstr ""
+
+msgid "Discord.RunCallbacks() failed: "
+msgstr ""
+
+msgid "Disabling Discord integration to prevent further issues."
+msgstr ""
+
+msgid "<color=green>DEBUG FREAKING MODE ENABLED!! WOAHH!!</color>"
+msgstr ""
+
+msgid "<color=green>Toggled output visibility</color>"
+msgstr ""
+
+msgid "<color=green>Stack trace saved to "
+msgstr ""
+
+msgid ""
+"TODO - Require player to interact with lancer before being able to return"
+msgstr ""
+
+msgid "New keycode set: "
+msgstr ""
+
+msgid "Goal already completed."
+msgstr ""
+
+msgid "All goals completed!"
+msgstr ""
+
+msgid "Not all goals completed."
+msgstr ""
+
+msgid "step size outside of bounds idiot"
+msgstr ""
+
+msgid "No bool of that name! | "
+msgstr ""
+
+msgid "Hypothesis or thisSection is null?"
+msgstr ""
+
+msgid "Gambling unlocked!"
+msgstr ""
+
+msgid "Susie is not in the party?????"
+msgstr ""
+
+msgid ""
+"Failed to set Party Member Walk Offset! ( No Susie_Follower in Prefab )"
+msgstr ""
+
+msgid "Failed to create Party Member! ( No PartyMemberPrefab )"
+msgstr ""
+
+msgid "Failed to create Party Member! ( No Member Provided )"
+msgstr ""
+
+msgid ""
+"Failed to remove Party Member! ( SpecificedMemberIndex is greater than "
+"ActivePartyMembers list )"
+msgstr ""
+
+msgid ""
+"Failed to remove Party Member! ( SpecificMember is not in ActivePartyMembers"
+" )"
+msgstr ""
+
+msgid ""
+"Failed to get Party Member Transform! ( Member not found in "
+"ActivePartyMembers )"
+msgstr ""
+
+msgid "One"
+msgstr ""
+
+msgid "Two"
+msgstr ""
+
+msgid "Three"
+msgstr ""
+
+msgid "Attempted to play player animation sound outside of index"
+msgstr ""
+
+msgid "Game data saved! | "
+msgstr ""
+
+msgid "No Scene Position!"
+msgstr ""
+
+msgid "Game data loaded!"
+msgstr ""
+
+msgid ""
+"Unable to find SpriteRenderer in SPR_Parallax object, defaulting to "
+"length/height = 1"
+msgstr ""
+
+msgid "Submesh TextMeshPro Detected"
+msgstr ""
+
+msgid "Incorrect elipse detected"
+msgstr ""
+
+msgid "Incorrect apostrophe detected"
+msgstr ""
+
+msgid "Text Prefab is not assigned."
+msgstr ""
+
+msgid "Text Prefab does not have a TextMeshPro component."
+msgstr ""
+
+msgid "Reverting CMenus to original states"
+msgstr ""
+
+msgid "UI_LoadingIcon instance is not set. Make sure it's added to the scene."
+msgstr ""
+
+msgid "LoadingIcon RawImage is not assigned in the UI_LoadingIcon."
+msgstr ""

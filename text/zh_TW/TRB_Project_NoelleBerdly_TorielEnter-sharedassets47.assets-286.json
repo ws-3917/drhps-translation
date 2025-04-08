@@ -1,0 +1,487 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "TRB_Project_NoelleBerdly_TorielEnter",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 243
+            },
+            {
+              "m_FileID": 15,
+              "m_PathID": 151
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 243
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 335
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 335
+            },
+            {
+              "m_FileID": 13,
+              "m_PathID": 510
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Oh dear, I'm not interrupting, am I?",
+            "N-Not at all!",
+            "Ah, good.",
+            "Noelle, I'm afraid you'll need to leave school today, urgently.",
+            "It's um... ;It's better if I tell you in private.",
+            "Oh-@ I-# um-@;Okay???"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 293
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 275
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 282
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 588
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 15,
+              "m_PathID": 154
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 586
+            },
+            {
+              "m_FileID": 13,
+              "m_PathID": 504
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 328
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Just a moment, what am I to do now??",
+            "We've still got so much important content to get through!",
+            "I-It's okay...@ I, um, think you're both already worthy of an A.",
+            "This is an unjust win! ;We've got more than enough for an A++!!",
+            "Berdly listen, it's fine. @Just finish presenting without me.",
+            "I've got to go.. ;Um...@ yeah, see you soon??"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 274
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 273
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 276
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 282
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 282
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 281
+                  },
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 288
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 275
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 597
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 596
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 590
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 597
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Um, continuing on from our last point...",
+            "Video games teach players...@ a lot...@ of...@ stuff.",
+            "For instance, it takes 3 seconds to break a single log of wood!!",
+            "How's that supposed to Help us, in the Real World?",
+            "Clearly, you don't forage for resources often.",
+            "And...@ um..",
+            "We've reached the conclusion of the presentation!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 274
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 275
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 273
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 278
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 276
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 273
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 288
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 15,
+              "m_PathID": 152
+            },
+            {
+              "m_FileID": 15,
+              "m_PathID": 154
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 597
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 594
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 589
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "T-That was...@ really well done!",
+            "I..@ um, think I'll stick with an A for you and Noelle, though.",
+            "B-But!!",
+            "...",
+            "...Actually, nevermind. ;Thank you, Ms. Alphys."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 276
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 279
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 275
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 276
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 291
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 289
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 291
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

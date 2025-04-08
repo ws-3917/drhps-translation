@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 182
+  },
+  "m_Name": "PapyrusClassChoice",
+  "DefaultSelectedChoice": 0,
+  "Choices": {
+    "Array": [
+      "骑士",
+      "射手",
+      "法师",
+      "我自己"
+    ]
+  },
+  "CanBackOut": 0,
+  "ShowOnTextScrollFinish": 0,
+  "ChoiceCharacterReference": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ChoiceTextResults": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 472
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 469
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 470
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 471
+      }
+    ]
+  },
+  "ChoicePositions": {
+    "Array": [
+      {
+        "x": -500.0,
+        "y": 0.0
+      },
+      {
+        "x": -200.0,
+        "y": 0.0
+      },
+      {
+        "x": 100.0,
+        "y": 0.0
+      },
+      {
+        "x": 350.0,
+        "y": 0.0
+      }
+    ]
+  }
+}

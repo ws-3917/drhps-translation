@@ -1,0 +1,81 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1693
+  },
+  "m_Name": "",
+  "CutsceneIndex": 0,
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Explosion": {
+    "m_FileID": 0,
+    "m_PathID": 12
+  },
+  "Cake": {
+    "m_FileID": 0,
+    "m_PathID": 25
+  },
+  "CakeRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 124
+  },
+  "Cake_Left": {
+    "m_FileID": 0,
+    "m_PathID": 13
+  },
+  "Cake_Right": {
+    "m_FileID": 0,
+    "m_PathID": 40
+  },
+  "CakeSplat": {
+    "m_FileID": 0,
+    "m_PathID": 21
+  },
+  "CutsceneChatter": {
+    "m_FileID": 0,
+    "m_PathID": 140
+  },
+  "CauldronChatter": {
+    "m_FileID": 0,
+    "m_PathID": 145
+  },
+  "CutsceneChats": {
+    "m_FileID": 3,
+    "m_PathID": 48
+  },
+  "SusieGlowAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "HealParticlePrefab": {
+    "m_FileID": 2,
+    "m_PathID": 2164
+  },
+  "CutsceneSource": {
+    "m_FileID": 0,
+    "m_PathID": 103
+  },
+  "CutsceneSounds": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 1007
+      },
+      {
+        "m_FileID": 6,
+        "m_PathID": 85
+      },
+      {
+        "m_FileID": 7,
+        "m_PathID": 78
+      }
+    ]
+  }
+}

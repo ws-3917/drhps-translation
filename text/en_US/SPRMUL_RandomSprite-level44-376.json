@@ -1,0 +1,198 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1399
+  },
+  "m_Name": "",
+  "spriteRenderers": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 306
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 304
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 280
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 352
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 356
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 334
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 362
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 329
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 292
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 318
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 290
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 316
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 301
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 319
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 331
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 302
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 289
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 320
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 309
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 327
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 312
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 279
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 357
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 310
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 339
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 274
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 340
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 278
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 285
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 360
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 314
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 333
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 355
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 300
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 303
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 350
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 361
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 287
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 294
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 272
+      }
+    ]
+  },
+  "sprites": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 29
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 14
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 54
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 10
+      }
+    ]
+  },
+  "setSeed": 1,
+  "seed": 80085
+}

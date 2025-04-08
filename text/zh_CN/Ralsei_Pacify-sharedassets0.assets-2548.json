@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1433
+  },
+  "m_Name": "Ralsei_Pacify",
+  "TargetPartyMember": {
+    "m_FileID": 0,
+    "m_PathID": 2570
+  },
+  "ActionName": "安抚",
+  "ActionDescription": "饶恕疲惫\n的敌人",
+  "TPRequired": 16,
+  "ActionTarget": 0,
+  "AnimationToAction": "PrepareSpell",
+  "BattleScript_FunctionToRun": ">DefaultSpell_Pacify",
+  "RequiredPartyMembers": {
+    "Array": []
+  }
+}

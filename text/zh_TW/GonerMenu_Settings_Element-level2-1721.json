@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 121
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1199
+  },
+  "m_Name": "",
+  "SettingsElementName": "奔跑",
+  "SettingsDescription": "按下後，角色會奔跑。\n如果開啟了「自動奔跑」，角色則會行走。",
+  "CurrentlySelected": 0,
+  "CanBeCanceled": 0,
+  "RawImages_AffectedByColor": {
+    "Array": []
+  },
+  "TMP_AffectedByColor": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1490
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1527
+      }
+    ]
+  }
+}

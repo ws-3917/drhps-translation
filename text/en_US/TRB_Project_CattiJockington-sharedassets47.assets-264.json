@@ -1,0 +1,815 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "TRB_Project_CattiJockington",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 322
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Yo, classmates, teacher, fellow...@ truth-seekers!!",
+            "You ever walk home, late at night, feelin' like...",
+            "Somethings...@ or, Someone...@ is watchin' ya??",
+            "Well, guess whaaaat? ;You ain't alone!!",
+            "...Never.",
+            "That's right!!",
+            "We have uncovered the most chilling, the most unexplained...",
+            "... The most totally real, Urban Legends of Hometown.",
+            "First up...@ the eyes, In the dumpster!!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 263
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 262
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 263
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 262
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 261
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 321
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 320
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 320
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 321
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "... You go.@ Take out the trash.",
+            "Somethings...@ looking.@ Behind the cans.",
+            "You leave.@ Next day...@ trash is gone.",
+            "But...@ you didn't hear the garbage truck.",
+            "Woah!!! ;What's back there?!",
+            "Secret government agent? ;Demon of the night?? ;A raccoon???"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 259
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 258
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 262
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 263
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 320
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 320
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 322
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Alright, Next!! ;We got the mysterious locker beast!!",
+            "...There's a locker, no one opens it. ~Ever.",
+            "One time... someone did.",
+            "Didn't come back."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 262
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 261
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 323
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 319
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 15,
+              "m_PathID": 150
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "H-Hey.. which locker.. was it?",
+            "Forgot.",
+            "Damn, Gotta watch out!! Or you might end up, Missing too!!",
+            "C-Could you two, uh, maybe move on to...@lighter urban legends?",
+            "You got it, Teach!!",
+            "Lastly, most fearsome, bone-chilling, Not-made-up tale of 'em all..."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 263
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 262
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 256
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 257
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 258
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": [
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 259
+                  }
+                ]
+              }
+            },
+            {
+              "SubActions": {
+                "Array": []
+              }
+            },
+            {
+              "SubActions": {
+                "Array": [
+                  {
+                    "m_FileID": 0,
+                    "m_PathID": 262
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 321
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "... ICE-E.@@@*"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 261
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Some say late at night, in the halls of this very school...",
+            "You can see his shadow. ;Lurking. @Waitin' for an Unlucky Student.",
+            "The second they're alone...@ SNATCH!",
+            "Gone! ;Never to be seen again!!"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 263
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 262
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 263
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 321
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 320
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 321
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 320
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "...But sometimes.",
+            "You hear them. ;Footsteps.",
+            "Dragging. ;Breathing. ;Closer.",
+            "Maybe tonight."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 262
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "And that concludes our totally real report!!",
+            "Are there Any, Questions?@*"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 263
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 262
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 319
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "...Hah.@ Got you."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 260
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 319
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "...Hah.@ Got you."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 260
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 326
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 318
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "So, like. ;What score, Did we get??",
+            "...@A..."
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 263
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      },
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 329
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "S-@Sorry... ;Force of habit..."
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

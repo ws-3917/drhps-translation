@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 179
+  },
+  "m_Name": "TheANGELSHEAVEN",
+  "HypothesisName": "The ANGEL'S HEAVEN",
+  "HypothesisStartingScene": 0,
+  "HypothesisTagline": "A disturbance within the darkworld leads the party into their most dangerous confrontation.\n",
+  "HypothesisDescription": "",
+  "HypothesisMenuSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "HypothesisGoals": {
+    "Array": []
+  },
+  "TimeWhenWritten": "this Hypothetical was written before DELTARUNE Chapters 3 & 4's release",
+  "HypotheticalReleased": 0,
+  "LogRewardedOnCompletion": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "LogRewardedOnGoalsCompleted": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

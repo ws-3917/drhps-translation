@@ -1,0 +1,41 @@
+{
+    "Discord_Controller": {
+        "State": "[Hypoaster埋头工作中]",
+        "Details": "* 多来点猜想吧！！",
+        "LargeText": "三角符文 - 猜想模拟器",
+        "SmallText": "在unity编辑器中，没有泄漏！嘻嘻！"
+    },
+    "GonerMenu_Settings_RevertKeybindings": {
+        "SettingText.text": "-- 恢复为默认 --"
+    },
+    "GonerMenu": {
+        "TipText.text": "小提示！ "
+    },
+    "HypotheticalEndScreen": {
+        "LogTitleText.text": "解锁新日志"
+    },
+    "NewMainMenu_ConsoleMenu": {
+        "CheckUpdateScreenText": "<b>>请选择一个条目</b>\n\n",
+        "array": "\"模拟猜想\",\"查看日志\",\"赌博\",\"设置\",\"制作人员\",\"额外内容\",\"Discord\",\"退出\""
+    },
+    "NewMainMenu_DiscordSubMenu": {
+        "CheckUpdateScreenText": "<b>在浏览器中\n打开链接？</b>"
+    },
+    "NewMainMenu_Hypothetical_ContextMenu": {
+        "HypotheticalDescription": "<color=grey>我们做如此\n猜想...\n\n</color>"
+    },
+    "NewMainMenu_QuitSubMenu": {
+        "HypotheticalDescription": "<b>你确定你想要退出吗？</b>\n"
+    },
+    "HypothesisName": {
+        "1": "幕后琐事",
+        "2": "尾声",
+        "3": "先知预言",
+        "4": "免费饮料",
+        "5": "无处容身",
+        "6": "万千世界与食人巨魔",
+        "7": "与Sans的兄弟会面",
+        "8": "避风港",
+        "10": "天使的乐园"
+    }
+}

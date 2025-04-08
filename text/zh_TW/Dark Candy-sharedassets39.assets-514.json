@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 531
+  },
+  "m_Name": "Dark Candy",
+  "ItemName": "黑暗糖果",
+  "InfoText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DropText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "UseText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Useable": 1,
+  "IsSharedItem": 0,
+  "RemoveOnUse": 1,
+  "TopbarInfo": "回復40HP。紅黑相間的星形糖果，\n嘗起來有棉花糖的味道。",
+  "BattleInfo": "回復40HP",
+  "ItemUseSound": {
+    "m_FileID": 4,
+    "m_PathID": 1023
+  },
+  "CharacterDialogue": {
+    "KrisItemUsed_SusieDialogue": "",
+    "KrisItemUsed_RalseiDialogue": "",
+    "KrisItemUsed_NoelleDialogue": "",
+    "SusieItemUsed_SusieDialogue": "好耶！！太好了！",
+    "SusieItemUsed_RalseiDialogue": "",
+    "SusieItemUsed_NoelleDialogue": "",
+    "RalseiItemUsed_SusieDialogue": "嘿，我也要吃！",
+    "RalseiItemUsed_RalseiDialogue": "棉花糖！！好吃！！！",
+    "RalseiItemUsed_NoelleDialogue": ""
+  },
+  "HealthAddition": 40
+}

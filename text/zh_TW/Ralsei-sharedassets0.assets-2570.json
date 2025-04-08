@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 421
+  },
+  "m_Name": "Ralsei",
+  "PartyMemberPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 2203
+  },
+  "PartyMemberName": "Ralsei",
+  "PartyMemberColor": {
+    "r": 0.0,
+    "g": 1.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "PartyMemberColor_Highlighted": {
+    "r": 0.5019608,
+    "g": 1.0,
+    "b": 0.5019608,
+    "a": 1.0
+  },
+  "MaximumHealth": 140,
+  "HasMagic": 1,
+  "ATK": 14,
+  "DF": 7,
+  "MAGIC": 11,
+  "PartyMemberBattleAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 1068
+  },
+  "PartyMember_DefaultSpells": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 2548
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2547
+      }
+    ]
+  },
+  "StartFromPlayer": 0,
+  "BattleEffect_AnimationName": "BattleEffect_RalseiAttack",
+  "PartyMemberBattle_NameIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1626
+  },
+  "PartyMemberBattleIcon_CMenuOffset": {
+    "x": -10.0,
+    "y": 2.5
+  },
+  "PartyMemberBattleIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1194
+  },
+  "PartyMemberBattleHurtIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1301
+  },
+  "PartyMemberBattleDefeatedIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2094
+  },
+  "PartyMemberBattleAttack": {
+    "m_FileID": 0,
+    "m_PathID": 2042
+  },
+  "PartyMemberBattleAct": {
+    "m_FileID": 0,
+    "m_PathID": 1106
+  },
+  "PartyMemberBattleMagic": {
+    "m_FileID": 0,
+    "m_PathID": 1107
+  },
+  "PartyMemberBattleItem": {
+    "m_FileID": 0,
+    "m_PathID": 1975
+  },
+  "PartyMemberBattleDefend": {
+    "m_FileID": 0,
+    "m_PathID": 1188
+  },
+  "PartyMemberBattleSpare": {
+    "m_FileID": 0,
+    "m_PathID": 1179
+  }
+}

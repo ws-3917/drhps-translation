@@ -1,0 +1,63 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTD_Town_Werewire",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 7,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 301
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 301
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "噴泉的封印使我深刻\n反思了自己的人生。",
+            "我遇見的那些人們，\n我經歷的那些冒險。",
+            "...",
+            "我之前在一棟平庸的\n辦公樓裡與我討厭的人\n共事。",
+            "是的，這不算什麼好事。;可是至少在接近尾聲時\n情況有所好轉。"
+          ]
+        },
+        "Action": {
+          "Array": []
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

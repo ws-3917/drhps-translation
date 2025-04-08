@@ -1,0 +1,104 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 47
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 425
+  },
+  "m_Name": "",
+  "SusiePartyMember": {
+    "PartyMemberDescription": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMemberTransform": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMemberFollowSettings": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "CurrentHealth": 0
+  },
+  "SusieSpriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 167
+  },
+  "CutsceneChatter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CutsceneChats": {
+    "Array": []
+  },
+  "SusieAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 157
+  },
+  "CutsceneAudioSource": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CutsceneAudioClips": {
+    "Array": [
+      {
+        "m_FileID": 3,
+        "m_PathID": 90
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 88
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 92
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 83
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 97
+      },
+      {
+        "m_FileID": 6,
+        "m_PathID": 150
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 87
+      }
+    ]
+  },
+  "SpringAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 158
+  },
+  "StoredOriginalSusiePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "SusieLandPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "JumpArcHeight": 3.0,
+  "JumpDuration": 0.5,
+  "JumpStartPos": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "JumpEndPos": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

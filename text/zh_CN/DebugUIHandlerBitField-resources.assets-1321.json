@@ -1,0 +1,164 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 303
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 696
+  },
+  "m_Name": "",
+  "colorDefault": {
+    "r": 0.8,
+    "g": 0.8,
+    "b": 0.8,
+    "a": 1.0
+  },
+  "colorSelected": {
+    "r": 0.25,
+    "g": 0.65,
+    "b": 0.8,
+    "a": 1.0
+  },
+  "nameLabel": {
+    "m_FileID": 0,
+    "m_PathID": 1315
+  },
+  "valueToggle": {
+    "m_FileID": 0,
+    "m_PathID": 1312
+  },
+  "toggles": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1231
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1288
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1376
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1219
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1175
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1328
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1354
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1255
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1371
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1352
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1232
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1370
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1184
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1330
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1203
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1216
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1234
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1377
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1361
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1331
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1388
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1292
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1387
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1372
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1322
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1195
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1181
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1381
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1344
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1335
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1178
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1266
+      }
+    ]
+  }
+}

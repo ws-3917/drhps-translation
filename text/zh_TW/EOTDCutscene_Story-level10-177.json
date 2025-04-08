@@ -1,0 +1,133 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 20
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 150
+  },
+  "m_Name": "",
+  "PanelAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 118
+  },
+  "BackgroundAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 120
+  },
+  "StoryText": {
+    "m_FileID": 0,
+    "m_PathID": 178
+  },
+  "StoryChatboxText": {
+    "m_FileID": 2,
+    "m_PathID": 210
+  },
+  "ArgueCutscene": {
+    "m_FileID": 0,
+    "m_PathID": 173
+  },
+  "fountainsong": {
+    "m_FileID": 6,
+    "m_PathID": 148
+  },
+  "storysong_1": {
+    "m_FileID": 2,
+    "m_PathID": 74
+  },
+  "storysong_2": {
+    "m_FileID": 2,
+    "m_PathID": 82
+  },
+  "CurrentStoryIndex": 0,
+  "StoryPanels": {
+    "Array": [
+      {
+        "StoryPanelName": "EOTDSTORY_Legend0",
+        "StoryPanelTextIndex": -1,
+        "PanelTimeLength": 1.0,
+        "StartSecondaryMusic": 0
+      },
+      {
+        "StoryPanelName": "EOTDSTORY_Legend1",
+        "StoryPanelTextIndex": 0,
+        "PanelTimeLength": 7.5,
+        "StartSecondaryMusic": 0
+      },
+      {
+        "StoryPanelName": "EOTDSTORY_Legend2",
+        "StoryPanelTextIndex": 1,
+        "PanelTimeLength": 4.0,
+        "StartSecondaryMusic": 0
+      },
+      {
+        "StoryPanelName": "EOTDSTORY_Legend3",
+        "StoryPanelTextIndex": -1,
+        "PanelTimeLength": 4.0,
+        "StartSecondaryMusic": 0
+      },
+      {
+        "StoryPanelName": "EOTDSTORY_LegendHidden",
+        "StoryPanelTextIndex": 2,
+        "PanelTimeLength": 5.5,
+        "StartSecondaryMusic": 0
+      },
+      {
+        "StoryPanelName": "EOTDSTORY_LegendHidden",
+        "StoryPanelTextIndex": -1,
+        "PanelTimeLength": 1.4,
+        "StartSecondaryMusic": 1
+      },
+      {
+        "StoryPanelName": "EOTDSTORY_Legend4",
+        "StoryPanelTextIndex": 3,
+        "PanelTimeLength": 6.5,
+        "StartSecondaryMusic": 0
+      },
+      {
+        "StoryPanelName": "EOTDSTORY_Legend5",
+        "StoryPanelTextIndex": 4,
+        "PanelTimeLength": 7.5,
+        "StartSecondaryMusic": 0
+      },
+      {
+        "StoryPanelName": "EOTDSTORY_Legend6",
+        "StoryPanelTextIndex": 5,
+        "PanelTimeLength": 4.0,
+        "StartSecondaryMusic": 0
+      },
+      {
+        "StoryPanelName": "EOTDSTORY_Legend7",
+        "StoryPanelTextIndex": 7,
+        "PanelTimeLength": 3.0,
+        "StartSecondaryMusic": 0
+      },
+      {
+        "StoryPanelName": "EOTDSTORY_Legend8",
+        "StoryPanelTextIndex": 6,
+        "PanelTimeLength": 3.0,
+        "StartSecondaryMusic": 0
+      },
+      {
+        "StoryPanelName": "EOTDSTORY_Legend9",
+        "StoryPanelTextIndex": -1,
+        "PanelTimeLength": 5.0,
+        "StartSecondaryMusic": 0
+      },
+      {
+        "StoryPanelName": "EOTDSTORY_Legend10",
+        "StoryPanelTextIndex": 7,
+        "PanelTimeLength": 4.0,
+        "StartSecondaryMusic": 0
+      },
+      {
+        "StoryPanelName": "EOTDSTORY_LegendHidden",
+        "StoryPanelTextIndex": -1,
+        "PanelTimeLength": 0.0,
+        "StartSecondaryMusic": 0
+      }
+    ]
+  }
+}

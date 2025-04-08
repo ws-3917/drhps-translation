@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 22
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1069
+  },
+  "m_Name": "",
+  "CarAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 79
+  },
+  "CarWalkPositions": {
+    "Array": [
+      {
+        "x": -4.4,
+        "y": -2.125,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": -2.125,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": -8.0,
+        "z": 0.0
+      }
+    ]
+  },
+  "CarAnimation": {
+    "Array": [
+      "rehabroom_car_walkdown",
+      "rehabroom_car_walkright",
+      "rehabroom_car_walkdown"
+    ]
+  },
+  "CarWalkIndex": 0,
+  "CarChat": {
+    "m_FileID": 0,
+    "m_PathID": 117
+  },
+  "CarSource": {
+    "m_FileID": 0,
+    "m_PathID": 72
+  },
+  "CarSounds": {
+    "Array": [
+      {
+        "m_FileID": 4,
+        "m_PathID": 61
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 64
+      }
+    ]
+  },
+  "CarCollision": {
+    "m_FileID": 0,
+    "m_PathID": 65
+  },
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Ralsei": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "RoomNPCs": {
+    "m_FileID": 0,
+    "m_PathID": 115
+  },
+  "CutsceneIndex": 0
+}

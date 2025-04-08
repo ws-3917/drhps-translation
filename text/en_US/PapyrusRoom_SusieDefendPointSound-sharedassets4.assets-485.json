@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1517
+  },
+  "m_Name": "PapyrusRoom_SusieDefendPointSound",
+  "PlaySound": 1,
+  "PossibleSounds": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 252
+      }
+    ]
+  },
+  "RunComponentFunction": 1,
+  "TargetComponentGameObjectName": "Ambush/GreetCutscene",
+  "TargetComponentClassname": "PapyrusRoom_AmbushGreetCutscene",
+  "FunctionName": "PlaySusieAnim_DefendPoint",
+  "SubActions": {
+    "Array": []
+  },
+  "RunActionOnChatEnd": 0
+}

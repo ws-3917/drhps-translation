@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 425
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 766
+  },
+  "m_Name": "",
+  "InteractionRadiusDirection": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "PlayerMovement": {
+    "m_FileID": 0,
+    "m_PathID": 1757
+  },
+  "PlayerManager": {
+    "m_FileID": 0,
+    "m_PathID": 1755
+  },
+  "InteractDIRController": {
+    "m_FileID": 0,
+    "m_PathID": 543
+  },
+  "InteractCollider": {
+    "m_FileID": 0,
+    "m_PathID": 522
+  },
+  "CanInteract": 1
+}

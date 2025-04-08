@@ -1,0 +1,41 @@
+{
+    "Discord_Controller": {
+        "State": "[Hypoaster is hard at work]",
+        "Details": "* LET ME WRITE MORE HYPOTHESES!!",
+        "LargeText": "DELTARUNE - Hypothesis",
+        "SmallText": "In unity editor, no leaks! tee-hee!"
+    },
+    "GonerMenu_Settings_RevertKeybindings": {
+        "SettingText.text": "-- Revert to Default --"
+    },
+    "GonerMenu": {
+        "TipText.text": "Tip! "
+    },
+    "HypotheticalEndScreen": {
+        "LogTitleText.text": "New Log Unlocked\n"
+    },
+    "NewMainMenu_ConsoleMenu": {
+        "CheckUpdateScreenText": "<b>>Select a menu</b>\r\n\n",
+        "array": "\"Hypotheticals\", \"Inspect Logs\", \"Gambling\", \"Settings\", \"Credits\", \"Extras\", \"Discord\", \"Quit\""
+    },
+    "NewMainMenu_DiscordSubMenu": {
+        "CheckUpdateScreenText": "<b>Open invite link in browser?</b>\n"
+    },
+    "NewMainMenu_Hypothetical_ContextMenu": {
+        "HypotheticalDescription": "<color=grey>Hypothetically..\n\n</color>"
+    },
+    "NewMainMenu_QuitSubMenu": {
+        "HypotheticalDescription": "<b>Are you sure you want to quit?</b>\n"
+    },
+    "HypothesisName": {
+        "1": "Behind The Scenes",
+        "2": "Concluding Melody",
+        "3": "A Prophecy Foretold",
+        "4": "Free Drinks",
+        "5": "Outlawed",
+        "6": "Overworlds and Ogres",
+        "7": "Meeting Sans's Brother",
+        "8": "Taking Shelter",
+        "10": "The ANGEL'S HEAVEN"
+    }
+}

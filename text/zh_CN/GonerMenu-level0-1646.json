@@ -1,0 +1,214 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 222
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 412
+  },
+  "m_Name": "",
+  "TargetSoulPosition": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "SoulLerpSpeed": 12.0,
+  "SoulTransform": {
+    "m_FileID": 0,
+    "m_PathID": 1277
+  },
+  "UnselectedGonerMaterial": {
+    "m_FileID": 2,
+    "m_PathID": 22
+  },
+  "SelectedGonerMaterial": {
+    "m_FileID": 2,
+    "m_PathID": 7
+  },
+  "GonerMenuSource": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CMenu_SoulIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1696
+  },
+  "gonerMenuWasOpen": 0,
+  "GonerMenuClips": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 1011
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 1008
+      }
+    ]
+  },
+  "DefaultLightworldKrisRuntimeController": {
+    "m_FileID": 2,
+    "m_PathID": 1064
+  },
+  "DefaultDarkworldKrisRuntimeController": {
+    "m_FileID": 2,
+    "m_PathID": 1063
+  },
+  "TipText": {
+    "m_FileID": 0,
+    "m_PathID": 1372
+  },
+  "MusicText": {
+    "m_FileID": 0,
+    "m_PathID": 1522
+  },
+  "CashText": {
+    "m_FileID": 0,
+    "m_PathID": 1489
+  },
+  "CashgainSFX": {
+    "m_FileID": 2,
+    "m_PathID": 1018
+  },
+  "CurrentQuestsText": {
+    "m_FileID": 0,
+    "m_PathID": 1362
+  },
+  "GonerMenuOpen": 0,
+  "CanOpenGonerMenu": 0,
+  "CurrentMenuState": "Default",
+  "CurrentCursorPosition": 0,
+  "BaseMenuOptions": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1303
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 937
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 954
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1258
+      }
+    ]
+  },
+  "BaseMenuOptionsColors": {
+    "Array": [
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    ]
+  },
+  "BaseMenuTexts": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1349
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1506
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1443
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1467
+      }
+    ]
+  },
+  "RestartBattleOption": {
+    "m_FileID": 0,
+    "m_PathID": 376
+  },
+  "SettingsMenu": {
+    "m_FileID": 0,
+    "m_PathID": 1629
+  },
+  "ReturnWarningMenu": {
+    "m_FileID": 0,
+    "m_PathID": 1158
+  },
+  "ReturnWarningOptions": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1057
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1023
+      }
+    ]
+  },
+  "ReturnWarningText": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1365
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1495
+      }
+    ]
+  },
+  "RestartWarningMenu": {
+    "m_FileID": 0,
+    "m_PathID": 1072
+  },
+  "RestartWarningOptions": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1165
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1254
+      }
+    ]
+  },
+  "RestartWarningText": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1514
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1463
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 260
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1119
+  },
+  "m_Name": "",
+  "CreditSection": {
+    "m_FileID": 0,
+    "m_PathID": 1775
+  },
+  "creditAreas": {
+    "Array": [
+      {
+        "CreditNames": "Uprank",
+        "CreditCharacterAnimationName": "CreditChar_Uprank",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 166
+        },
+        "Title": 0,
+        "CreditDescription": "职能：\n导演、程序、\n编剧、贴图美工\n\n“我是做游戏的”"
+      },
+      {
+        "CreditNames": "Trashei",
+        "CreditCharacterAnimationName": "CreditChar_Trashei",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 146
+        },
+        "Title": 0,
+        "CreditDescription": "职能：\n游戏测试\n\n“猹在鳝丝的房间里显灵了”"
+      },
+      {
+        "CreditNames": "puzzlerat",
+        "CreditCharacterAnimationName": "CreditChar_Ratcastles",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 150
+        },
+        "Title": 0,
+        "CreditDescription": "职能：\n作曲、编剧、游戏测试\n\n“我记得你是个\n<color=green>游戏开发者</color>”"
+      },
+      {
+        "CreditNames": "Fillow",
+        "CreditCharacterAnimationName": "CreditChar_Fillow",
+        "CreditSound": {
+          "m_FileID": 2,
+          "m_PathID": 161
+        },
+        "Title": 0,
+        "CreditDescription": "职能：\n提供灵感\n\n“第一法则是有氧运动？原来如此...\n...........”"
+      },
+      {
+        "CreditNames": "特别鸣谢",
+        "CreditCharacterAnimationName": "",
+        "CreditSound": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "Title": 1,
+        "CreditDescription": ""
+      },
+      {
+        "CreditNames": "Abbie Gonzalez",
+        "CreditCharacterAnimationName": "CreditChar_AbbieGonzalez",
+        "CreditSound": {
+          "m_FileID": 4,
+          "m_PathID": 1019
+        },
+        "Title": 0,
+        "CreditDescription": "OpenDyslexic字体制作人\n\n社交账号：\nabbiegonzalez.com"
+      }
+    ]
+  },
+  "source": {
+    "m_FileID": 0,
+    "m_PathID": 604
+  },
+  "NameText": {
+    "m_FileID": 0,
+    "m_PathID": 1652
+  },
+  "DescriptionText": {
+    "m_FileID": 0,
+    "m_PathID": 1649
+  },
+  "CharacterIconAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 623
+  }
+}

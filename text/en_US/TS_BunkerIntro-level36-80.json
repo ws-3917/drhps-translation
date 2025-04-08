@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1434
+  },
+  "m_Name": "",
+  "playerCamera": {
+    "m_FileID": 0,
+    "m_PathID": 82
+  },
+  "playerTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "shelterKeys": {
+    "m_FileID": 3,
+    "m_PathID": 22
+  },
+  "isNightTime": 0,
+  "CameraFollowBB_Top": 42.0,
+  "CameraFollowBB_Bottom": 0.0,
+  "BunkerAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 61
+  },
+  "Interaction": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "VineParticle": {
+    "m_FileID": 0,
+    "m_PathID": 66
+  },
+  "cutsceneSource": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CutsceneClips": {
+    "Array": []
+  },
+  "EarlyTimeText": {
+    "m_FileID": 6,
+    "m_PathID": 6
+  }
+}

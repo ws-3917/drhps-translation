@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 991
+  },
+  "m_Name": "",
+  "DisclaimerText": {
+    "m_FileID": 0,
+    "m_PathID": 20
+  },
+  "DenySFX": {
+    "m_FileID": 4,
+    "m_PathID": 11
+  },
+  "ConfirmSFX": {
+    "m_FileID": 5,
+    "m_PathID": 168
+  },
+  "FinishConfirmSFX": {
+    "m_FileID": 5,
+    "m_PathID": 164
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1553
+  },
+  "m_Name": "Papyrus_Sweat",
+  "CharacterIcon": {
+    "m_FileID": 0,
+    "m_PathID": 333
+  },
+  "CharacterSound": {
+    "m_FileID": 6,
+    "m_PathID": 93
+  },
+  "CharacterIconWidth": 148.5,
+  "CharacterIconHeight": 225.0,
+  "CharacterHasTalkingAnimation": 1,
+  "CharacterTalkingIcon": {
+    "m_FileID": 0,
+    "m_PathID": 298
+  },
+  "TellRecieverIfChatting": 1,
+  "CharacterFont": {
+    "m_FileID": 6,
+    "m_PathID": 168
+  },
+  "CharacterFontSize": 57.0,
+  "TextStyleSheet": 2127624236,
+  "GiveCharacterBulletpoint": 0,
+  "TextSpeedMultiplier": 1.0,
+  "TextColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  }
+}

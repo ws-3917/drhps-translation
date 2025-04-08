@@ -1,0 +1,219 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "EOTDTown_LancerSusieTalk",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 6,
+              "m_PathID": 234
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 294
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 294
+            },
+            {
+              "m_FileID": 7,
+              "m_PathID": 611
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 239
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 297
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 237
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 297
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 299
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 299
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 298
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 294
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 235
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 295
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 241
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 300
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 295
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 231
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 299
+            },
+            {
+              "m_FileID": 6,
+              "m_PathID": 240
+            }
+          ]
+        },
+        "Choice": {
+          "Array": []
+        },
+        "Text": {
+          "Array": [
+            "Damn, you got the timing on that perfect!",
+            "I've been practicing in the mirror!",
+            "Other me is getting really good at it too!",
+            "Well man, how's it been?",
+            "Anything cool happen the past two days whilst we've been gone?",
+            "It's been busy!",
+            "Yeah I noticed whilst walking here, what's going on?",
+            "Well ever since Ralsei spread the horrible news...",
+            "... everybody's been freaking out!",
+            "My fragile voice is so exhausted from calming everyone down!!",
+            "But don't fret!;It should be alot easier with you here!!",
+            "Grab a snorkel! You'll need it to swim through all the tears!",
+            "What..@ news?",
+            "Y'know,@ the big upcoming event??",
+            "What event?!",
+            "...",
+            "do..@ do you not know?",
+            "... No?",
+            "...",
+            "Lancer...?"
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 279
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 280
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 281
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 279
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 280
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 277
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 278
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 278
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 277
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 276
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

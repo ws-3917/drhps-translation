@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 179
+  },
+  "m_Name": "ConcludingMelody",
+  "HypothesisName": "Concluding Melody",
+  "HypothesisStartingScene": 38,
+  "HypothesisTagline": "A short and sweet final tune at the end of your adventure.",
+  "HypothesisDescription": "What would the final credits to DELTARUNE look and sound like, assuming the game has a happy ending.",
+  "HypothesisMenuSprite": {
+    "m_FileID": 0,
+    "m_PathID": 217
+  },
+  "HypothesisGoals": {
+    "Array": []
+  },
+  "TimeWhenWritten": "this Hypothetical was written before DELTARUNE Chapters 3 & 4's release",
+  "HypotheticalReleased": 1,
+  "LogRewardedOnCompletion": {
+    "m_FileID": 0,
+    "m_PathID": 515
+  },
+  "LogRewardedOnGoalsCompleted": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

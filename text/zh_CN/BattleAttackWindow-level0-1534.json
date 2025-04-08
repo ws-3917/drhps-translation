@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 308
+  },
+  "m_Name": "",
+  "AttackBars": {
+    "Array": []
+  },
+  "AttackBarComponents": {
+    "Array": []
+  },
+  "AttackBarHolder": {
+    "m_FileID": 0,
+    "m_PathID": 250
+  },
+  "AttackBarsActive": 0
+}

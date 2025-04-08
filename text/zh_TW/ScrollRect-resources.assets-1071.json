@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 159
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 170
+  },
+  "m_Name": "",
+  "m_Content": {
+    "m_FileID": 0,
+    "m_PathID": 739
+  },
+  "m_Horizontal": 0,
+  "m_Vertical": 1,
+  "m_MovementType": 2,
+  "m_Elasticity": 0.1,
+  "m_Inertia": 0,
+  "m_DecelerationRate": 0.135,
+  "m_ScrollSensitivity": 50.0,
+  "m_Viewport": {
+    "m_FileID": 0,
+    "m_PathID": 665
+  },
+  "m_HorizontalScrollbar": {
+    "m_FileID": 0,
+    "m_PathID": 977
+  },
+  "m_VerticalScrollbar": {
+    "m_FileID": 0,
+    "m_PathID": 1060
+  },
+  "m_HorizontalScrollbarVisibility": 0,
+  "m_VerticalScrollbarVisibility": 2,
+  "m_HorizontalScrollbarSpacing": -3.0,
+  "m_VerticalScrollbarSpacing": 3.0,
+  "m_OnValueChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1002
+  },
+  "m_Name": "OAO_Finale_BerdlyPwnage",
+  "Reaction": {
+    "Array": [
+      {
+        "Character": {
+          "m_FileID": 0,
+          "m_PathID": 586
+        },
+        "Text": "嘿！那我呢！",
+        "Offset": {
+          "x": 400.0,
+          "y": -80.0
+        }
+      }
+    ]
+  }
+}

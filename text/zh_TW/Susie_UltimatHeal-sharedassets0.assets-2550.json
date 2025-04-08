@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1433
+  },
+  "m_Name": "Susie_UltimatHeal",
+  "TargetPartyMember": {
+    "m_FileID": 0,
+    "m_PathID": 2572
+  },
+  "ActionName": "終極治療",
+  "ActionDescription": "最棒的\n治療法術",
+  "TPRequired": 100,
+  "ActionTarget": 1,
+  "AnimationToAction": "PrepareSpell",
+  "BattleScript_FunctionToRun": ">SusieSpell_UltimatHeal",
+  "RequiredPartyMembers": {
+    "Array": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 178
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 473
+  },
+  "m_Name": "",
+  "DebugModeEnabled": 0,
+  "DebugCanvas": {
+    "m_FileID": 0,
+    "m_PathID": 143
+  },
+  "DebugConsoleOutput": {
+    "m_FileID": 0,
+    "m_PathID": 1448
+  },
+  "SpeedUpIcon": {
+    "m_FileID": 0,
+    "m_PathID": 458
+  },
+  "controls": "---------------------------------------\n<color=yellow>除错模式快捷键</color>\nB+D+Enter = 调试模式（可切换）\nB+D+P = 切换输出日志（可切换）\nB+D+G = 100倍速度（可切换）\nB+D+H = 0.1倍速度（可切换）\nF8 = 将上一个报错保存到TXT文件\nALT+F4 = 免费土豆丝\n上键 = 刷新当前聊天框\n左键 = 切换到后一个文本",
+  "DebugFPSCounter": {
+    "m_FileID": 0,
+    "m_PathID": 1475
+  },
+  "debugSource": {
+    "m_FileID": 0,
+    "m_PathID": 528
+  },
+  "sfx_fiddlesticks": {
+    "m_FileID": 2,
+    "m_PathID": 1051
+  }
+}

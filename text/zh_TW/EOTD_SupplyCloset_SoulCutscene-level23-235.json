@@ -1,0 +1,331 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 51
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 692
+  },
+  "m_Name": "",
+  "CutsceneIndex": 0,
+  "CutsceneSource": {
+    "m_FileID": 0,
+    "m_PathID": 157
+  },
+  "CutsceneChatter": {
+    "m_FileID": 0,
+    "m_PathID": 234
+  },
+  "CutsceneSounds": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 1050
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 38
+      },
+      {
+        "m_FileID": 8,
+        "m_PathID": 79
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 1045
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 36
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 1042
+      }
+    ]
+  },
+  "CutsceneChats": {
+    "Array": []
+  },
+  "NormalKrisAnimations": {
+    "m_FileID": 2,
+    "m_PathID": 1064
+  },
+  "KrisHornsAnimation": {
+    "m_FileID": 3,
+    "m_PathID": 39
+  },
+  "KrisWalkPositions": {
+    "Array": [
+      {
+        "x": -3.77,
+        "y": -0.18,
+        "z": 0.0
+      },
+      {
+        "x": -2.98,
+        "y": -0.09,
+        "z": 0.0
+      },
+      {
+        "x": -2.31,
+        "y": 0.06,
+        "z": 0.0
+      },
+      {
+        "x": -1.56,
+        "y": 0.37,
+        "z": 0.0
+      },
+      {
+        "x": -0.54,
+        "y": 0.2,
+        "z": 0.0
+      },
+      {
+        "x": 0.83,
+        "y": 0.2,
+        "z": 0.0
+      },
+      {
+        "x": 2.02,
+        "y": 0.2,
+        "z": 0.0
+      },
+      {
+        "x": 3.28,
+        "y": 0.2,
+        "z": 0.0
+      },
+      {
+        "x": 4.425,
+        "y": 0.225,
+        "z": 0.0
+      },
+      {
+        "x": 3.32,
+        "y": -0.66,
+        "z": 0.0
+      },
+      {
+        "x": 1.7,
+        "y": -0.55,
+        "z": 0.0
+      },
+      {
+        "x": 0.18,
+        "y": -0.51,
+        "z": 0.0
+      },
+      {
+        "x": 1.1,
+        "y": -0.51,
+        "z": 0.0
+      },
+      {
+        "x": 2.19,
+        "y": -0.51,
+        "z": 0.0
+      },
+      {
+        "x": 3.11,
+        "y": -0.51,
+        "z": 0.0
+      },
+      {
+        "x": 4.35,
+        "y": -0.425,
+        "z": 0.0
+      },
+      {
+        "x": 4.625,
+        "y": -0.225,
+        "z": 0.0
+      }
+    ]
+  },
+  "KrisQueuedPositions": {
+    "Array": []
+  },
+  "KrisFootstepSounds": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 1047
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 1031
+      }
+    ]
+  },
+  "KrisCurrentZombieWalkAnimation": "Kris_Soulless_Walk",
+  "SoulRipOutParticle": {
+    "m_FileID": 0,
+    "m_PathID": 158
+  },
+  "ObjectsAffectedByLights": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 165
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 164
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 187
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 186
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 192
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 175
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 169
+      }
+    ]
+  },
+  "Horns": {
+    "m_FileID": 0,
+    "m_PathID": 192
+  },
+  "backgroundSprite": {
+    "m_FileID": 0,
+    "m_PathID": 165
+  },
+  "background_lightOn": {
+    "m_FileID": 3,
+    "m_PathID": 48
+  },
+  "background_lightOff": {
+    "m_FileID": 3,
+    "m_PathID": 55
+  },
+  "backgroundBoxes": {
+    "m_FileID": 0,
+    "m_PathID": 164
+  },
+  "backgroundBoxes_Open": {
+    "m_FileID": 3,
+    "m_PathID": 56
+  },
+  "backgroundBoxes_Close": {
+    "m_FileID": 3,
+    "m_PathID": 64
+  },
+  "ExclamationMarkBubble": {
+    "m_FileID": 0,
+    "m_PathID": 89
+  },
+  "LightOffColor": {
+    "r": 0.16470589,
+    "g": 0.27058825,
+    "b": 0.49411765,
+    "a": 1.0
+  },
+  "FountainTargetParticles": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 24
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 56
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 64
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 18
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 17
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 34
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 45
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 60
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 23
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 20
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 39
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 54
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 50
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 47
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 41
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 61
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 32
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 62
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 19
+      }
+    ]
+  },
+  "BeforeSoulChats": {
+    "m_FileID": 0,
+    "m_PathID": 55
+  },
+  "AfterSoulChats": {
+    "m_FileID": 0,
+    "m_PathID": 66
+  }
+}

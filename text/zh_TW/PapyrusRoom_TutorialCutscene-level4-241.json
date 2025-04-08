@@ -1,0 +1,250 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 25
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1439
+  },
+  "m_Name": "",
+  "CutsceneIndex": 0,
+  "PapyrusTransform": {
+    "m_FileID": 0,
+    "m_PathID": 103
+  },
+  "PapyrusAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 178
+  },
+  "PapyrusAngryEyebrows": {
+    "m_FileID": 0,
+    "m_PathID": 168
+  },
+  "PapyrusTalkController": {
+    "m_FileID": 0,
+    "m_PathID": 267
+  },
+  "PapyrusArmorAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 176
+  },
+  "SansArmorAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 165
+  },
+  "Susie": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Kris": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Berdly": {
+    "m_FileID": 0,
+    "m_PathID": 111
+  },
+  "BerdlyAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 161
+  },
+  "Sans": {
+    "m_FileID": 0,
+    "m_PathID": 107
+  },
+  "SansAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 164
+  },
+  "OAOShadow": {
+    "m_FileID": 0,
+    "m_PathID": 15
+  },
+  "OAOTable": {
+    "m_FileID": 0,
+    "m_PathID": 96
+  },
+  "PlayerCamera": {
+    "m_FileID": 0,
+    "m_PathID": 264
+  },
+  "DungeonReverbPreset": 13,
+  "OAOCutscene": {
+    "m_FileID": 0,
+    "m_PathID": 238
+  },
+  "SansWalkPositions": {
+    "Array": [
+      {
+        "x": -2.0,
+        "y": -0.7
+      },
+      {
+        "x": -2.0,
+        "y": 0.08
+      },
+      {
+        "x": 1.4,
+        "y": 0.08
+      },
+      {
+        "x": 1.4,
+        "y": -1.75
+      },
+      {
+        "x": 3.0,
+        "y": -1.75
+      },
+      {
+        "x": 3.0,
+        "y": -5.0
+      },
+      {
+        "x": 3.0,
+        "y": -2.1
+      },
+      {
+        "x": 1.4,
+        "y": -2.1
+      },
+      {
+        "x": 1.4,
+        "y": -0.7
+      },
+      {
+        "x": -0.55,
+        "y": -0.7
+      }
+    ]
+  },
+  "SansWalkDirections": {
+    "Array": [
+      {
+        "x": 0.0,
+        "y": -1.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.0
+      },
+      {
+        "x": 1.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": -1.0
+      },
+      {
+        "x": 1.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": -1.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.0
+      },
+      {
+        "x": -1.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.0
+      },
+      {
+        "x": -1.0,
+        "y": 0.0
+      }
+    ]
+  },
+  "BerdlyWalkPositions": {
+    "Array": [
+      {
+        "x": 3.0,
+        "y": -4.0
+      },
+      {
+        "x": -1.3,
+        "y": -4.0
+      },
+      {
+        "x": -1.3,
+        "y": -3.75
+      }
+    ]
+  },
+  "BerdlyWalkDirections": {
+    "Array": [
+      {
+        "x": 0.0,
+        "y": 1.0
+      },
+      {
+        "x": -1.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.0
+      }
+    ]
+  },
+  "CutsceneChatter": {
+    "m_FileID": 0,
+    "m_PathID": 240
+  },
+  "CutsceneChats": {
+    "Array": [
+      {
+        "m_FileID": 4,
+        "m_PathID": 510
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 509
+      }
+    ]
+  },
+  "CutsceneSource": {
+    "m_FileID": 0,
+    "m_PathID": 156
+  },
+  "CutsceneSounds": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 1050
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 263
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 96
+      }
+    ]
+  },
+  "Music_TGAOATLEWMB": {
+    "m_FileID": 6,
+    "m_PathID": 158
+  },
+  "Music_NoSound": {
+    "m_FileID": 2,
+    "m_PathID": 1019
+  },
+  "Music_TGAOATLEOTT": {
+    "m_FileID": 6,
+    "m_PathID": 174
+  },
+  "Music_AdventureStart": {
+    "m_FileID": 2,
+    "m_PathID": 1044
+  }
+}

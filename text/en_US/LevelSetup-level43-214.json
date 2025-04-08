@@ -1,0 +1,113 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 17
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 638
+  },
+  "m_Name": "",
+  "ContainsKris": 1,
+  "ResetKrisHealth": 0,
+  "KrisStartingState": 0,
+  "IsDarkworld": 1,
+  "PlayerStartPosition": {
+    "m_FileID": 0,
+    "m_PathID": 101
+  },
+  "PlayerStartRotation": {
+    "x": 1.0,
+    "y": 0.0
+  },
+  "ClearAllMembers": 0,
+  "ReplaceMembers": 1,
+  "NewPartyMembers": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 192
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 2572
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 2570
+      }
+    ]
+  },
+  "ReplaceCalls": 0,
+  "ClearCalls": 0,
+  "NewCalls": {
+    "Array": []
+  },
+  "CallNames": {
+    "Array": []
+  },
+  "FadeIn": 1,
+  "DisableGonerMenu": 0,
+  "PlaySongOnLevelLoad": 0,
+  "Song": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "RoomHasMultipleEntrances": 1,
+  "RoomContainsPartyMembers": 1,
+  "RoomPositions": {
+    "DefaultStartPosition": {
+      "x": -16.98,
+      "y": -0.95
+    },
+    "DefaultKrisRotation": {
+      "x": 1.0,
+      "y": 0.0
+    },
+    "DefaultCameraStartPosition": {
+      "x": -9.95,
+      "y": 0.05
+    },
+    "SpawnPositions": {
+      "Array": [
+        {
+          "PreviousSceneIndex": 42,
+          "StartPosition": {
+            "x": -16.98,
+            "y": -0.95
+          },
+          "KrisStartRotation": {
+            "x": 1.0,
+            "y": 0.0
+          },
+          "CameraStartPosition": {
+            "x": -9.95,
+            "y": 0.05
+          }
+        },
+        {
+          "PreviousSceneIndex": 44,
+          "StartPosition": {
+            "x": 1.25,
+            "y": -0.19
+          },
+          "KrisStartRotation": {
+            "x": -1.0,
+            "y": 0.0
+          },
+          "CameraStartPosition": {
+            "x": -4.05,
+            "y": 0.05
+          }
+        }
+      ]
+    }
+  },
+  "SetNewActivity": 0,
+  "LargeImage": "",
+  "LargeImageText": "",
+  "State": "",
+  "Details": "",
+  "VesselText": ""
+}

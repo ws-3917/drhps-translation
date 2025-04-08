@@ -1,0 +1,622 @@
+#
+msgid ""
+msgstr ""
+
+msgid "- Overworld -"
+msgstr ""
+
+msgid "- Stats -"
+msgstr ""
+
+msgid "- Setup -"
+msgstr ""
+
+msgid "Warning! Must match PartyMembers"
+msgstr ""
+
+msgid "Warning! Must match Enemies"
+msgstr ""
+
+msgid ""
+"Will choose a random dialogue, or use the default if none are present\n"
+"Try add dialogues that fit whos in the party"
+msgstr ""
+
+msgid "NOTE, Kris acts always have blank descriptions"
+msgstr ""
+
+msgid "What this action targets"
+msgstr ""
+
+msgid "This is the function that the battle script will run"
+msgstr ""
+
+msgid "Use > in function name to call method in BattleSystem instead"
+msgstr ""
+
+msgid "Keep empty to not require any"
+msgstr ""
+
+msgid "-- References --"
+msgstr ""
+
+msgid "- References -"
+msgstr ""
+
+msgid "- Dialogue -"
+msgstr ""
+
+msgid "-= Movement =-"
+msgstr ""
+
+msgid "-= Lifetime =-"
+msgstr ""
+
+msgid "-= Arc Utility =-"
+msgstr ""
+
+msgid "- Enemy Settings -"
+msgstr ""
+
+msgid "when the player uses \\"
+msgstr ""
+
+msgid "- Enemy Visuals -"
+msgstr ""
+
+msgid "- Animations -"
+msgstr ""
+
+msgid "- Attack Settings -"
+msgstr ""
+
+msgid ""
+"-1 will make the attack last forever, allowing the battle script to take "
+"over."
+msgstr ""
+
+msgid "Will fade away all enemies and party members, good for wide attacks"
+msgstr ""
+
+msgid "Will destroy every child in bullet holder on attack end"
+msgstr ""
+
+msgid "UI"
+msgstr ""
+
+msgid "Battle Numbers"
+msgstr ""
+
+msgid "Bottom Bar"
+msgstr ""
+
+msgid "TP Bar"
+msgstr ""
+
+msgid "Prefabs"
+msgstr ""
+
+msgid "Holders"
+msgstr ""
+
+msgid "Backgrounds"
+msgstr ""
+
+msgid "UI Windows"
+msgstr ""
+
+msgid "- Sounds -"
+msgstr ""
+
+msgid "- Default Spell Sounds -"
+msgstr ""
+
+msgid "- Effects -"
+msgstr ""
+
+msgid "- Battle Settings -"
+msgstr ""
+
+msgid "- Stored Values -"
+msgstr ""
+
+msgid "- Temporary Debug -"
+msgstr ""
+
+msgid "-- Choices --"
+msgstr ""
+
+msgid "-- Sounds --"
+msgstr ""
+
+msgid "- Settings -"
+msgstr ""
+
+msgid "-= References =-"
+msgstr ""
+
+msgid "Computer Screen"
+msgstr ""
+
+msgid "BIOS loading Text"
+msgstr ""
+
+msgid "Logo Glitched"
+msgstr ""
+
+msgid "Messenger"
+msgstr ""
+
+msgid "Play a sound during this action, add multiple to the list for random"
+msgstr ""
+
+msgid "Run a function in a certain component."
+msgstr ""
+
+msgid "WARNING! Will fail if two objects have the same name"
+msgstr ""
+
+msgid ""
+"Runs everything this action will do when the players ends the chat that this"
+" action is on"
+msgstr ""
+
+msgid "Edit monospace StyleSheet in font folder to add"
+msgstr ""
+
+msgid "1 = Default Speed | 2 = 50% slower | 0.5 = 50% faster"
+msgstr ""
+
+msgid ""
+"0 - ChoiceCount | Default selected (OOB values = No default selection, soul "
+"in center)"
+msgstr ""
+
+msgid "Use < br> for new lines, slash N doesn't work for some reason"
+msgstr ""
+
+msgid "Player can press X to prematurely exit dialogue"
+msgstr ""
+
+msgid "Only show and allow input from options at end of Text running"
+msgstr ""
+
+msgid "For customizing text size, font and color"
+msgstr ""
+
+msgid "- Some Default Choice Position Values -"
+msgstr ""
+
+msgid ""
+"2 choice positions\\r\n"
+"\\r\n"
+"option1 -253.4, -82.5\\r\n"
+"option2 46.6, -82.5\\r\n"
+"\\r\n"
+"3 choice positions\\r\n"
+"\\r\n"
+"option1 -230, -82.5\\r\n"
+"option2 -30, -82.5\\r\n"
+"option3 170, -82.5\\r\n"
+"\\r\n"
+"4 choice positions\\r\n"
+"\\r\n"
+"option1 -400, -82.5\\r\n"
+"option2 -150, -82.5\\r\n"
+"option3 150, -82.5\\r\n"
+"option4 400, -82.5"
+msgstr ""
+
+msgid "- Text inner workings -"
+msgstr ""
+
+msgid "- Text Settings -"
+msgstr ""
+
+msgid "Each reaction is shown in sequential order, starting from the top."
+msgstr ""
+
+msgid ""
+"# = 0.5 second pause\n"
+"@ = 0.125 second pause\n"
+"; = new line in dialogue\n"
+"~ = new line in dialogue but bulletpoint is one below than normal\n"
+"£ = Forcefully end chat, useful for when rich text is used"
+msgstr ""
+
+msgid ""
+"WARNING FOR RICH TEXT! Only use ONE per dialogue, and try avoid pausing "
+"characters."
+msgstr ""
+
+msgid ""
+"Battle Specific - use Empty text to continue dialogue but show no bubble."
+msgstr ""
+
+msgid "Intro Disclaimer"
+msgstr ""
+
+msgid "Credits Intro"
+msgstr ""
+
+msgid "Ending Cutscene"
+msgstr ""
+
+msgid "Debug"
+msgstr ""
+
+msgid "Before Cutscene Stuff"
+msgstr ""
+
+msgid "Cutscene Stuff"
+msgstr ""
+
+msgid "- Shared References -"
+msgstr ""
+
+msgid "Item used on Kris"
+msgstr ""
+
+msgid "Item used on Susie"
+msgstr ""
+
+msgid "Item used on Ralsei"
+msgstr ""
+
+msgid "-- Variables --"
+msgstr ""
+
+msgid "Menu States and SubStates"
+msgstr ""
+
+msgid "-- Animations --"
+msgstr ""
+
+msgid "-- Top and Bottom Row References --"
+msgstr ""
+
+msgid "-- Item Menu References --"
+msgstr ""
+
+msgid "References"
+msgstr ""
+
+msgid "Panel Settings"
+msgstr ""
+
+msgid "Fade Settings"
+msgstr ""
+
+msgid "Misc"
+msgstr ""
+
+msgid "-- Cutscene References --"
+msgstr ""
+
+msgid "Landing from the fall"
+msgstr ""
+
+msgid "-- Cutscene Audio --"
+msgstr ""
+
+msgid "Characters"
+msgstr ""
+
+msgid "-- Character Move Positions --"
+msgstr ""
+
+msgid "Kris and Susie"
+msgstr ""
+
+msgid "Jigsaw Joe"
+msgstr ""
+
+msgid "Tasque and Tasque Manager"
+msgstr ""
+
+msgid "Rudinn"
+msgstr ""
+
+msgid "-- Cutscene Chats --"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Cutscene References"
+msgstr ""
+
+msgid "Cutscene Chats"
+msgstr ""
+
+msgid "Cutscene Sounds"
+msgstr ""
+
+msgid "Character Positions"
+msgstr ""
+
+msgid "-- Cutscene Settings --"
+msgstr ""
+
+msgid "Kris, Susie and Ralsei"
+msgstr ""
+
+msgid "Cutscene"
+msgstr ""
+
+msgid "Dialogue"
+msgstr ""
+
+msgid "Character Animations"
+msgstr ""
+
+msgid "- Walk Positions -"
+msgstr ""
+
+msgid "- Cutscene Info -"
+msgstr ""
+
+msgid "Base Menu References"
+msgstr ""
+
+msgid "Settings Menu References"
+msgstr ""
+
+msgid "Return Menu References"
+msgstr ""
+
+msgid "Restart Menu References"
+msgstr ""
+
+msgid "-= Main =-"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "-= Sounds =-"
+msgstr ""
+
+msgid "-= Dyslexic Font Setup -="
+msgstr ""
+
+msgid ""
+"Only used for the main menu settings, keep null to use global reference"
+msgstr ""
+
+msgid "-= Settings =-"
+msgstr ""
+
+msgid "Is saved as Setting_<KeyBinding>"
+msgstr ""
+
+msgid "Is saved as Setting_<SettingName>"
+msgstr ""
+
+msgid "Will start as \\"
+msgstr ""
+
+msgid "Hypothetical this goal will be in, used for tracking logs"
+msgstr ""
+
+msgid "Below are saved flags that will be reset upon loading this scene"
+msgstr ""
+
+msgid "Choose to reset the player inventory to a specific set of items"
+msgstr ""
+
+msgid "For text that requires the player to interact multiple times"
+msgstr ""
+
+msgid "WARNING! This component is removed once ran"
+msgstr ""
+
+msgid "Chat Variables"
+msgstr ""
+
+msgid "Generic component used for detecting player interactions."
+msgstr ""
+
+msgid ""
+"When interacted, Interacted will be the opposite of what it currently is"
+msgstr ""
+
+msgid "-= Variables =-"
+msgstr ""
+
+msgid "Used for more basic NPCs, that don't usually move"
+msgstr ""
+
+msgid "For more advanced NPCs like Papyrus or Toriel"
+msgstr ""
+
+msgid "-- Base Variables --"
+msgstr ""
+
+msgid "-- Darkworld Specific Variables --"
+msgstr ""
+
+msgid "-- Item Attributes --"
+msgstr ""
+
+msgid "Leave Empty to continue previous panel"
+msgstr ""
+
+msgid "For if RoomHasMultipleEntrances is false"
+msgstr ""
+
+msgid "Range: -1,1"
+msgstr ""
+
+msgid "-= Party System =-"
+msgstr ""
+
+msgid "-= Calls =-"
+msgstr ""
+
+msgid ""
+"Make sure this matches current queued call amount, keep empty to not change"
+msgstr ""
+
+msgid "Use a # to not have the \\"
+msgstr ""
+
+msgid "-= Music =-"
+msgstr ""
+
+msgid "Keep empty to stop the current song, if previous bool is true"
+msgstr ""
+
+msgid "-= Room spawn Positions =-"
+msgstr ""
+
+msgid "-= Discord RPC =-"
+msgstr ""
+
+msgid "Spacing for if SelectionMode is 1"
+msgstr ""
+
+msgid "Selection Index 1, Scene Transition"
+msgstr ""
+
+msgid "Selection Mode 1 Specific"
+msgstr ""
+
+msgid "Selection Mode 2 Specific"
+msgstr ""
+
+msgid "Whether to preload (True) or unload (False)"
+msgstr ""
+
+msgid "-= Slot Settings =-"
+msgstr ""
+
+msgid "-= Slot Sound =-"
+msgstr ""
+
+msgid "-= Symbols =-"
+msgstr ""
+
+msgid "Range : -1 to 1"
+msgstr ""
+
+msgid "Sounds"
+msgstr ""
+
+msgid "-- Settings --"
+msgstr ""
+
+msgid "-- Cutscene Sounds --"
+msgstr ""
+
+msgid "-- Debug --"
+msgstr ""
+
+msgid "-- OAO Shared --"
+msgstr ""
+
+msgid "-- Goblin Fight --"
+msgstr ""
+
+msgid "-- 3 Door Choice --"
+msgstr ""
+
+msgid "-- After OAO --"
+msgstr ""
+
+msgid "-- Walking Stuff --"
+msgstr ""
+
+msgid "Stats"
+msgstr ""
+
+msgid "Battle"
+msgstr ""
+
+msgid "-= Stats =-"
+msgstr ""
+
+msgid "-= Default PartyMembers =-"
+msgstr ""
+
+msgid "Game,Cutscene,NoPlayerMovement"
+msgstr ""
+
+msgid "Player Variables"
+msgstr ""
+
+msgid ""
+"If the previous scene index doesnt match any Spawn positions, will go to "
+"default"
+msgstr ""
+
+msgid "-- Player Specific --"
+msgstr ""
+
+msgid "-- Optional --"
+msgstr ""
+
+msgid "0 - 1 | Higher the number the more distance from camera"
+msgstr ""
+
+msgid "Sort by Y position (basically its like negative y pos * 6 rounded)"
+msgstr ""
+
+msgid "Arc Utility"
+msgstr ""
+
+msgid "1 = Susie | 1.125 = Ralsei"
+msgstr ""
+
+msgid "Multiplier, 1 = normal | 0.5 = half speed"
+msgstr ""
+
+msgid "-= Audio =-"
+msgstr ""
+
+msgid "WARNING! This can only run once!"
+msgstr ""
+
+msgid "Idle Sprites"
+msgstr ""
+
+msgid "Walk Sprites"
+msgstr ""
+
+msgid "Walk2 Sprites"
+msgstr ""
+
+msgid "- Camera Controls -"
+msgstr ""
+
+msgid "- Shelter -"
+msgstr ""
+
+msgid "-- Cutscene --"
+msgstr ""
+
+msgid "- Sound and Music -"
+msgstr ""
+
+msgid "-- Vessel Randomizer --"
+msgstr ""
+
+msgid "-- Custom Colors --"
+msgstr ""
+
+msgid "-- Additional Settings --"
+msgstr ""
+
+msgid ""
+"True clone copies the target texts position, bounds and maxvisible "
+"characters"
+msgstr ""
+
+msgid "Use sparingly, can be quite performance intenstive"
+msgstr ""
+
+msgid "Doesn't disable rich text itself, but removes the <> tags"
+msgstr ""
+
+msgid "Random Controls"
+msgstr ""

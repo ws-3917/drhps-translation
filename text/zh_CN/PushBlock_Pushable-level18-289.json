@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 40
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 806
+  },
+  "m_Name": "",
+  "CanPressPreasurePlates": 0,
+  "CanPush": 1,
+  "MoveSpeed": 10.0,
+  "Collision": {
+    "m_FileID": 0,
+    "m_PathID": 310
+  },
+  "PushSound": {
+    "m_FileID": 6,
+    "m_PathID": 78
+  },
+  "collision": {
+    "m_FileID": 0,
+    "m_PathID": 188
+  },
+  "Interaction": {
+    "m_FileID": 0,
+    "m_PathID": 290
+  }
+}

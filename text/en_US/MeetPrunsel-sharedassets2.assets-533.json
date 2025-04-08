@@ -1,0 +1,42 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 179
+    },
+    "m_Name": "MeetPrunsel",
+    "HypothesisName": "Meeting Sans's Brother",
+    "HypothesisStartingScene": 6,
+    "HypothesisTagline": "",
+    "HypothesisDescription": "hi dataminers, this hypothetical was cut cause it was a bland reskin of another.\n\nit was just like scary \"oo this hypothetical but glitchy!!\"\n\nand the end instead of papyrus it was prunsel AHH SCARY!!\n\nidk how broken it is, too lazy to test. it was made quite early on in development though, a long time before the whole simulation and hypoaster stuff.",
+    "HypothesisMenuSprite": {
+        "m_FileID": 0,
+        "m_PathID": 245
+    },
+    "HypothesisGoals": {
+        "Array": [
+            {
+                "m_FileID": 0,
+                "m_PathID": 535
+            },
+            {
+                "m_FileID": 0,
+                "m_PathID": 534
+            }
+        ]
+    },
+    "TimeWhenWritten": "this Hypothetical was written before DELTARUNE\nChapters 3 & 4's release",
+    "HypotheticalReleased": 0,
+    "LogRewardedOnCompletion": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "LogRewardedOnGoalsCompleted": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    }
+}

@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 76
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1169
+  },
+  "m_Name": "",
+  "TargetText": {
+    "m_FileID": 0,
+    "m_PathID": 1508
+  },
+  "thisText": {
+    "m_FileID": 0,
+    "m_PathID": 1376
+  },
+  "TextOpacity": 1.0,
+  "UseSpecificColor": 1,
+  "SpecificColor": {
+    "r": 0.1254902,
+    "g": 0.1254902,
+    "b": 0.36862746,
+    "a": 1.0
+  },
+  "TrueClone": 1,
+  "Offset": {
+    "x": 4.0,
+    "y": -2.0,
+    "z": 0.0
+  },
+  "DisableRichTextTags": 1,
+  "DarkenColorTags": 1,
+  "darkenAmount": 0.916
+}

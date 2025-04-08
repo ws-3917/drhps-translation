@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 231
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1246
+  },
+  "m_Name": "",
+  "battleSystem": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "SiplettBattleActions": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 420
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 421
+      }
+    ]
+  },
+  "ActDialogue_Cheers": {
+    "m_FileID": 0,
+    "m_PathID": 402
+  },
+  "ActDialogue_Cheers_X": {
+    "m_FileID": 0,
+    "m_PathID": 403
+  },
+  "Act_SusieAction_Cheers": {
+    "m_FileID": 0,
+    "m_PathID": 423
+  },
+  "ActDialogue_SusieCheers": {
+    "m_FileID": 0,
+    "m_PathID": 405
+  },
+  "Act_RalseiAction_Cheers": {
+    "m_FileID": 0,
+    "m_PathID": 422
+  },
+  "ActDialogue_RalseiCheers": {
+    "m_FileID": 0,
+    "m_PathID": 404
+  },
+  "Effect_ActionGlow": {
+    "m_FileID": 0,
+    "m_PathID": 249
+  },
+  "Dialogue_RandomSipletText": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 406
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 407
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 408
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 409
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 410
+      }
+    ]
+  },
+  "Dialogue_IntroFlavorText": {
+    "m_FileID": 0,
+    "m_PathID": 414
+  },
+  "Dialogue_RandomFlavorText": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 411
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 412
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 413
+      }
+    ]
+  },
+  "CurrentAliveEnemies": {
+    "Array": []
+  },
+  "DialogueBubble_Default": {
+    "m_FileID": 4,
+    "m_PathID": 2148
+  },
+  "DialogueBubble_Bubble": {
+    "m_FileID": 0,
+    "m_PathID": 232
+  },
+  "Attack_SplashJuice": {
+    "m_FileID": 0,
+    "m_PathID": 427
+  },
+  "Attack_SplashJuiceSingle": {
+    "m_FileID": 0,
+    "m_PathID": 426
+  },
+  "Attack_Kaplunk": {
+    "m_FileID": 0,
+    "m_PathID": 424
+  },
+  "Attack_TeamworkExclusive_LiquidFill": {
+    "m_FileID": 0,
+    "m_PathID": 425
+  },
+  "Attack_DoubleBubbleColumn": {
+    "m_FileID": 0,
+    "m_PathID": 418
+  },
+  "Attack_BubbleColumn": {
+    "m_FileID": 0,
+    "m_PathID": 417
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 44
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1505
+  },
+  "m_Name": "",
+  "Sparklers": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 144
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 143
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 138
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 156
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 153
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 148
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 141
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 158
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 147
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 151
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 139
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 146
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 150
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 145
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 142
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 149
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 155
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 157
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 140
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 154
+      }
+    ]
+  }
+}

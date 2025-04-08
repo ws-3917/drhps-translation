@@ -1,0 +1,728 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 30
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 627
+  },
+  "m_Name": "",
+  "vesselTransform": {
+    "m_FileID": 0,
+    "m_PathID": 61
+  },
+  "CopyAnimationsEnabled": 1,
+  "CopyTransformsEnabled": 1,
+  "HeadRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 96
+  },
+  "headIndex": 0,
+  "BodyRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 95
+  },
+  "bodyIndex": 0,
+  "LegsRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 93
+  },
+  "legsIndex": 0,
+  "HeadMask": {
+    "m_FileID": 0,
+    "m_PathID": 60
+  },
+  "BodyMask": {
+    "m_FileID": 0,
+    "m_PathID": 50
+  },
+  "LegsMask": {
+    "m_FileID": 0,
+    "m_PathID": 59
+  },
+  "HeadVarients": {
+    "Array": [
+      {
+        "HeadSprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 237
+        },
+        "HeadSprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 159
+        },
+        "HeadSprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 228
+        },
+        "HeadSprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 231
+        },
+        "HeadSprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 194
+        },
+        "HeadSprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 195
+        },
+        "HeadSprite_Hug": {
+          "m_FileID": 3,
+          "m_PathID": 255
+        }
+      },
+      {
+        "HeadSprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 174
+        },
+        "HeadSprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 233
+        },
+        "HeadSprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 163
+        },
+        "HeadSprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 222
+        },
+        "HeadSprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 250
+        },
+        "HeadSprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 199
+        },
+        "HeadSprite_Hug": {
+          "m_FileID": 3,
+          "m_PathID": 264
+        }
+      },
+      {
+        "HeadSprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 245
+        },
+        "HeadSprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 154
+        },
+        "HeadSprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 223
+        },
+        "HeadSprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 257
+        },
+        "HeadSprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 215
+        },
+        "HeadSprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 200
+        },
+        "HeadSprite_Hug": {
+          "m_FileID": 3,
+          "m_PathID": 266
+        }
+      },
+      {
+        "HeadSprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 244
+        },
+        "HeadSprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 172
+        },
+        "HeadSprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 236
+        },
+        "HeadSprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 202
+        },
+        "HeadSprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 201
+        },
+        "HeadSprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 265
+        },
+        "HeadSprite_Hug": {
+          "m_FileID": 3,
+          "m_PathID": 192
+        }
+      },
+      {
+        "HeadSprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 234
+        },
+        "HeadSprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 178
+        },
+        "HeadSprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 220
+        },
+        "HeadSprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 170
+        },
+        "HeadSprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 153
+        },
+        "HeadSprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 249
+        },
+        "HeadSprite_Hug": {
+          "m_FileID": 3,
+          "m_PathID": 232
+        }
+      },
+      {
+        "HeadSprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 209
+        },
+        "HeadSprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 254
+        },
+        "HeadSprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 167
+        },
+        "HeadSprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 206
+        },
+        "HeadSprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 203
+        },
+        "HeadSprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 268
+        },
+        "HeadSprite_Hug": {
+          "m_FileID": 3,
+          "m_PathID": 216
+        }
+      },
+      {
+        "HeadSprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 219
+        },
+        "HeadSprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 179
+        },
+        "HeadSprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 240
+        },
+        "HeadSprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 213
+        },
+        "HeadSprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 221
+        },
+        "HeadSprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 193
+        },
+        "HeadSprite_Hug": {
+          "m_FileID": 3,
+          "m_PathID": 272
+        }
+      },
+      {
+        "HeadSprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 260
+        },
+        "HeadSprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 161
+        },
+        "HeadSprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 217
+        },
+        "HeadSprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 207
+        },
+        "HeadSprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 152
+        },
+        "HeadSprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 158
+        },
+        "HeadSprite_Hug": {
+          "m_FileID": 3,
+          "m_PathID": 190
+        }
+      }
+    ]
+  },
+  "BodyVarients": {
+    "Array": [
+      {
+        "BodySprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 262
+        },
+        "BodySprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 183
+        },
+        "BodySprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 186
+        },
+        "BodySprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 156
+        },
+        "BodySprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 175
+        },
+        "BodySprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 168
+        },
+        "BodySprite_Walk2_Down": {
+          "m_FileID": 3,
+          "m_PathID": 271
+        },
+        "BodySprite_Walk2_Right": {
+          "m_FileID": 3,
+          "m_PathID": 259
+        },
+        "BodySprite_Walk2_Up": {
+          "m_FileID": 3,
+          "m_PathID": 258
+        },
+        "BodySprite_Hug": {
+          "m_FileID": 3,
+          "m_PathID": 269
+        }
+      },
+      {
+        "BodySprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 177
+        },
+        "BodySprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 253
+        },
+        "BodySprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 157
+        },
+        "BodySprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 248
+        },
+        "BodySprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 211
+        },
+        "BodySprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 197
+        },
+        "BodySprite_Walk2_Down": {
+          "m_FileID": 3,
+          "m_PathID": 276
+        },
+        "BodySprite_Walk2_Right": {
+          "m_FileID": 3,
+          "m_PathID": 184
+        },
+        "BodySprite_Walk2_Up": {
+          "m_FileID": 3,
+          "m_PathID": 218
+        },
+        "BodySprite_Hug": {
+          "m_FileID": 3,
+          "m_PathID": 181
+        }
+      },
+      {
+        "BodySprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 160
+        },
+        "BodySprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 225
+        },
+        "BodySprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 165
+        },
+        "BodySprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 238
+        },
+        "BodySprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 229
+        },
+        "BodySprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 242
+        },
+        "BodySprite_Walk2_Down": {
+          "m_FileID": 3,
+          "m_PathID": 176
+        },
+        "BodySprite_Walk2_Right": {
+          "m_FileID": 3,
+          "m_PathID": 270
+        },
+        "BodySprite_Walk2_Up": {
+          "m_FileID": 3,
+          "m_PathID": 274
+        },
+        "BodySprite_Hug": {
+          "m_FileID": 3,
+          "m_PathID": 241
+        }
+      },
+      {
+        "BodySprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 173
+        },
+        "BodySprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 164
+        },
+        "BodySprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 171
+        },
+        "BodySprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 205
+        },
+        "BodySprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 243
+        },
+        "BodySprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 191
+        },
+        "BodySprite_Walk2_Down": {
+          "m_FileID": 3,
+          "m_PathID": 261
+        },
+        "BodySprite_Walk2_Right": {
+          "m_FileID": 3,
+          "m_PathID": 210
+        },
+        "BodySprite_Walk2_Up": {
+          "m_FileID": 3,
+          "m_PathID": 230
+        },
+        "BodySprite_Hug": {
+          "m_FileID": 3,
+          "m_PathID": 212
+        }
+      },
+      {
+        "BodySprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 226
+        },
+        "BodySprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 273
+        },
+        "BodySprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 263
+        },
+        "BodySprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 188
+        },
+        "BodySprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 187
+        },
+        "BodySprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 155
+        },
+        "BodySprite_Walk2_Down": {
+          "m_FileID": 3,
+          "m_PathID": 256
+        },
+        "BodySprite_Walk2_Right": {
+          "m_FileID": 3,
+          "m_PathID": 185
+        },
+        "BodySprite_Walk2_Up": {
+          "m_FileID": 3,
+          "m_PathID": 198
+        },
+        "BodySprite_Hug": {
+          "m_FileID": 3,
+          "m_PathID": 239
+        }
+      },
+      {
+        "BodySprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 235
+        },
+        "BodySprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 166
+        },
+        "BodySprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 227
+        },
+        "BodySprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 252
+        },
+        "BodySprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 247
+        },
+        "BodySprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 246
+        },
+        "BodySprite_Walk2_Down": {
+          "m_FileID": 3,
+          "m_PathID": 189
+        },
+        "BodySprite_Walk2_Right": {
+          "m_FileID": 3,
+          "m_PathID": 196
+        },
+        "BodySprite_Walk2_Up": {
+          "m_FileID": 3,
+          "m_PathID": 214
+        },
+        "BodySprite_Hug": {
+          "m_FileID": 3,
+          "m_PathID": 208
+        }
+      }
+    ]
+  },
+  "LegVarients": {
+    "Array": [
+      {
+        "isFlippedVarient": 0,
+        "LegSprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 267
+        },
+        "LegSprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 204
+        },
+        "LegSprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 182
+        },
+        "LegSprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 180
+        },
+        "LegSprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 162
+        },
+        "LegSprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 224
+        },
+        "LegSprite_Walk2_Down": {
+          "m_FileID": 3,
+          "m_PathID": 251
+        },
+        "LegSprite_Walk2_Up": {
+          "m_FileID": 3,
+          "m_PathID": 275
+        }
+      },
+      {
+        "isFlippedVarient": 0,
+        "LegSprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 267
+        },
+        "LegSprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 204
+        },
+        "LegSprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 182
+        },
+        "LegSprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 180
+        },
+        "LegSprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 162
+        },
+        "LegSprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 224
+        },
+        "LegSprite_Walk2_Down": {
+          "m_FileID": 3,
+          "m_PathID": 251
+        },
+        "LegSprite_Walk2_Up": {
+          "m_FileID": 3,
+          "m_PathID": 275
+        }
+      },
+      {
+        "isFlippedVarient": 0,
+        "LegSprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 267
+        },
+        "LegSprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 204
+        },
+        "LegSprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 182
+        },
+        "LegSprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 180
+        },
+        "LegSprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 162
+        },
+        "LegSprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 224
+        },
+        "LegSprite_Walk2_Down": {
+          "m_FileID": 3,
+          "m_PathID": 251
+        },
+        "LegSprite_Walk2_Up": {
+          "m_FileID": 3,
+          "m_PathID": 275
+        }
+      },
+      {
+        "isFlippedVarient": 0,
+        "LegSprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 267
+        },
+        "LegSprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 204
+        },
+        "LegSprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 182
+        },
+        "LegSprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 180
+        },
+        "LegSprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 162
+        },
+        "LegSprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 224
+        },
+        "LegSprite_Walk2_Down": {
+          "m_FileID": 3,
+          "m_PathID": 251
+        },
+        "LegSprite_Walk2_Up": {
+          "m_FileID": 3,
+          "m_PathID": 275
+        }
+      },
+      {
+        "isFlippedVarient": 1,
+        "LegSprite_Idle_Down": {
+          "m_FileID": 3,
+          "m_PathID": 267
+        },
+        "LegSprite_Idle_Right": {
+          "m_FileID": 3,
+          "m_PathID": 204
+        },
+        "LegSprite_Idle_Up": {
+          "m_FileID": 3,
+          "m_PathID": 182
+        },
+        "LegSprite_Walk_Down": {
+          "m_FileID": 3,
+          "m_PathID": 180
+        },
+        "LegSprite_Walk_Right": {
+          "m_FileID": 3,
+          "m_PathID": 162
+        },
+        "LegSprite_Walk_Up": {
+          "m_FileID": 3,
+          "m_PathID": 224
+        },
+        "LegSprite_Walk2_Down": {
+          "m_FileID": 3,
+          "m_PathID": 251
+        },
+        "LegSprite_Walk2_Up": {
+          "m_FileID": 3,
+          "m_PathID": 275
+        }
+      }
+    ]
+  },
+  "krisAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1517
+  },
+  "m_Name": "MP_OAO_SusieKrisBerdly_FacePapyrus",
+  "PlaySound": 0,
+  "PossibleSounds": {
+    "Array": []
+  },
+  "RunComponentFunction": 1,
+  "TargetComponentGameObjectName": "TutorialCutscene",
+  "TargetComponentClassname": "PapyrusRoom_TutorialCutscene",
+  "FunctionName": "SusieKris_FacePapyus",
+  "SubActions": {
+    "Array": [
+      {
+        "TargetComponentGameObjectName": "OAOCutscene",
+        "TargetComponentClassname": "PapyrusRoom_OverworldsAndOgres",
+        "FunctionName": "Berdly_Idle_Left",
+        "RunActionOnChatEnd": 0
+      }
+    ]
+  },
+  "RunActionOnChatEnd": 0
+}

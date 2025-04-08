@@ -1,0 +1,134 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 94
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1365
+  },
+  "m_Name": "",
+  "OptionTransforms": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1414
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1134
+      }
+    ]
+  },
+  "OriginalOptionTransform": {
+    "Array": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ]
+  },
+  "UnselectableTransforms": {
+    "Array": []
+  },
+  "OriginalUnselectableTransform": {
+    "Array": []
+  },
+  "ControlsText": {
+    "m_FileID": 0,
+    "m_PathID": 1517
+  },
+  "ThisControlText": "</A - Left | Z - Confirm | Right - D/>",
+  "lerpSpeed": 7.5,
+  "OptionSpacing": 400.0,
+  "cursorPos": 0,
+  "SelectionMode": 1,
+  "SelectionState": 1,
+  "SelectionActionIndex": 0,
+  "HoverAnimationStateName": "MMSection_Hover",
+  "UnHoverAnimationStateName": "MMSection_UnHover",
+  "SelectAnimationStateName": "MMSection_Select",
+  "SectionSource": {
+    "m_FileID": 0,
+    "m_PathID": 604
+  },
+  "SwitchSectionClip": {
+    "m_FileID": 4,
+    "m_PathID": 1011
+  },
+  "ConfirmSectionClip": {
+    "m_FileID": 4,
+    "m_PathID": 1008
+  },
+  "DenySectionClip": {
+    "m_FileID": 4,
+    "m_PathID": 1022
+  },
+  "ReturnSectionClip": {
+    "m_FileID": 2,
+    "m_PathID": 155
+  },
+  "EnterSectionClip": {
+    "m_FileID": 2,
+    "m_PathID": 154
+  },
+  "OtherSections": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1784
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1671
+      }
+    ]
+  },
+  "PreviousSection": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "GonerText": {
+    "m_FileID": 0,
+    "m_PathID": 1830
+  },
+  "ChatboxText": {
+    "m_FileID": 2,
+    "m_PathID": 539
+  },
+  "RanText": 0,
+  "TargetSceneName": {
+    "Array": []
+  },
+  "transition": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CreditOptionTransform": {
+    "m_FileID": 0,
+    "m_PathID": 1238
+  },
+  "OriginalCreditOptionTransform": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "CreditSection": {
+    "m_FileID": 0,
+    "m_PathID": 1775
+  },
+  "Hypotheticals": {
+    "Array": []
+  },
+  "ContextMenu": {
+    "m_FileID": 0,
+    "m_PathID": 1794
+  }
+}

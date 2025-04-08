@@ -1,0 +1,261 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1397
+  },
+  "m_Name": "IntroDisclaimer",
+  "Textboxes": {
+    "Array": [
+      {
+        "Character": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8
+            }
+          ]
+        },
+        "Choice": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 11
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 11
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 11
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            }
+          ]
+        },
+        "Text": {
+          "Array": [
+            "你在那里吗？",
+            "我们\n连上了吗？",
+            "...",
+            "太棒了。",
+            "真是\n太棒了。",
+            "我们可以开始\n模拟猜想了。",
+            "但在这之前，\n有几件事需要确认。",
+            "首先，这里的一切\n均为非官方内容，纯属虚构。\n你是否知晓？",
+            "有趣。",
+            "非常有趣。",
+            "现在。",
+            "你能否接受异常现象\n和可能存在的奇怪之处？",
+            "明白。",
+            "终于。",
+            "你已承认并接受\n遭遇痛苦与突发状况的风险。",
+            "我们继续。",
+            " "
+          ]
+        },
+        "Action": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 10
+            }
+          ]
+        },
+        "Reaction": {
+          "Array": []
+        },
+        "SubActions": {
+          "Array": []
+        }
+      }
+    ]
+  }
+}

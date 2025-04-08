@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1002
+  },
+  "m_Name": "OAO_OgreSpeak",
+  "Reaction": {
+    "Array": [
+      {
+        "Character": {
+          "m_FileID": 6,
+          "m_PathID": 240
+        },
+        "Text": "就这？？？",
+        "Offset": {
+          "x": 52.0,
+          "y": -78.0
+        }
+      },
+      {
+        "Character": {
+          "m_FileID": 0,
+          "m_PathID": 594
+        },
+        "Text": "装蒜！",
+        "Offset": {
+          "x": 420.0,
+          "y": -78.0
+        }
+      }
+    ]
+  }
+}

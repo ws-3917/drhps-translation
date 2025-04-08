@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 119
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 145
+  },
+  "m_Name": "",
+  "ThisAssosciatedTab": 1,
+  "Settings": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1834
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1711
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1677
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1814
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1872
+      }
+    ]
+  }
+}

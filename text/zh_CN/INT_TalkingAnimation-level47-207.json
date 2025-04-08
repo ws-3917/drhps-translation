@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 12
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 135
+  },
+  "m_Name": "",
+  "TargetChat": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "TargetAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 137
+  },
+  "TalkAnimationName": "",
+  "IdleAnimationName": "",
+  "UseTalkBool": 1,
+  "TalkBoolName": "Talking",
+  "ListenDialogueGlobally": 1,
+  "CharactersToListen": {
+    "Array": [
+      {
+        "m_FileID": 4,
+        "m_PathID": 334
+      },
+      {
+        "m_FileID": 9,
+        "m_PathID": 92
+      },
+      {
+        "m_FileID": 10,
+        "m_PathID": 242
+      },
+      {
+        "m_FileID": 10,
+        "m_PathID": 243
+      },
+      {
+        "m_FileID": 10,
+        "m_PathID": 244
+      },
+      {
+        "m_FileID": 10,
+        "m_PathID": 245
+      },
+      {
+        "m_FileID": 9,
+        "m_PathID": 93
+      },
+      {
+        "m_FileID": 10,
+        "m_PathID": 246
+      },
+      {
+        "m_FileID": 4,
+        "m_PathID": 335
+      }
+    ]
+  }
+}

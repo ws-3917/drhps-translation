@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 182
+  },
+  "m_Name": "EOTDLancerRoom_MusicPlayerChoice",
+  "DefaultSelectedChoice": -1,
+  "Choices": {
+    "Array": [
+      "聽聽",
+      "不了"
+    ]
+  },
+  "CanBackOut": 0,
+  "ShowOnTextScrollFinish": 1,
+  "ChoiceCharacterReference": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ChoiceTextResults": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 18
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 17
+      }
+    ]
+  },
+  "ChoicePositions": {
+    "Array": [
+      {
+        "x": -380.1,
+        "y": 0.0
+      },
+      {
+        "x": 154.0,
+        "y": 0.0
+      }
+    ]
+  }
+}

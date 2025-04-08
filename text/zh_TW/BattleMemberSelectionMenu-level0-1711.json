@@ -1,0 +1,98 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 335
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1661
+  },
+  "m_Name": "",
+  "SoulSelection": {
+    "m_FileID": 0,
+    "m_PathID": 1117
+  },
+  "currentIndex": 0,
+  "targetItem": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "storedTargetMember": {
+    "PartyMemberInBattle": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "ActiveMemberInBattle": {
+      "PartyMemberDescription": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "PartyMemberTransform": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "PartyMemberFollowSettings": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "CurrentHealth": 0
+    },
+    "PartyMemberInBattle_Gameobjects": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMemberInBattle_Animator": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMemberInBattle_MainSpriteRenderer": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMemberInBattle_AfterImageParticleRenderer": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "StoredPartyMembePositions": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "StoredOriginalOverworldPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "PartyMemberStatus": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMember_Health": 0.0,
+    "PartyMember_MaxHealth": 0.0,
+    "IsDefending": 0,
+    "SkippingTurn": 0,
+    "PartyMemberAction": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "MemberNameStatusPrefab": {
+    "m_FileID": 2,
+    "m_PathID": 2181
+  },
+  "MemberStatuses": {
+    "Array": []
+  },
+  "MemberNameStatusHolder": {
+    "m_FileID": 0,
+    "m_PathID": 8
+  },
+  "ActItemWindow": {
+    "m_FileID": 0,
+    "m_PathID": 1578
+  },
+  "MenuContext": 0,
+  "StoredBattleAction": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

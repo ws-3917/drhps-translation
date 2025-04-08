@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 268
+  },
+  "m_Name": "Reflecting",
+  "StartUnlocked": 0,
+  "LogName": "Reflecting",
+  "LogPlayerPrefName": "reflecting",
+  "LogType": 0,
+  "LogPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 329
+  },
+  "LogPreview": {
+    "m_FileID": 0,
+    "m_PathID": 205
+  },
+  "LogPreviewScale": {
+    "x": 272.0,
+    "y": 376.0
+  },
+  "LogOpenSound": {
+    "m_FileID": 5,
+    "m_PathID": 1009
+  }
+}

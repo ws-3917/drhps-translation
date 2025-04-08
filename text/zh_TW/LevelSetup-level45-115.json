@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 19
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 638
+  },
+  "m_Name": "",
+  "ContainsKris": 1,
+  "ResetKrisHealth": 1,
+  "KrisStartingState": 1,
+  "IsDarkworld": 0,
+  "PlayerStartPosition": {
+    "m_FileID": 0,
+    "m_PathID": 55
+  },
+  "PlayerStartRotation": {
+    "x": 0.0,
+    "y": -1.0
+  },
+  "ClearAllMembers": 1,
+  "ReplaceMembers": 0,
+  "NewPartyMembers": {
+    "Array": []
+  },
+  "ReplaceCalls": 1,
+  "ClearCalls": 0,
+  "NewCalls": {
+    "Array": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 2583
+      }
+    ]
+  },
+  "CallNames": {
+    "Array": [
+      "家裡"
+    ]
+  },
+  "FadeIn": 1,
+  "DisableGonerMenu": 0,
+  "PlaySongOnLevelLoad": 1,
+  "Song": {
+    "m_FileID": 4,
+    "m_PathID": 39
+  },
+  "RoomHasMultipleEntrances": 0,
+  "RoomContainsPartyMembers": 0,
+  "RoomPositions": {
+    "DefaultStartPosition": {
+      "x": 0.0,
+      "y": -1.75
+    },
+    "DefaultKrisRotation": {
+      "x": 1.0,
+      "y": 0.0
+    },
+    "DefaultCameraStartPosition": {
+      "x": 0.0,
+      "y": 0.75
+    },
+    "SpawnPositions": {
+      "Array": []
+    }
+  },
+  "SetNewActivity": 0,
+  "LargeImage": "",
+  "LargeImageText": "",
+  "State": "",
+  "Details": "",
+  "VesselText": ""
+}

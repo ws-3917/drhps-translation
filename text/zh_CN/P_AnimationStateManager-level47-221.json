@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 33
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 482
+  },
+  "m_Name": "",
+  "_AnimationState": "Base",
+  "CanUseBasePlayerAnimations": 0,
+  "FootstepsEnabled": 0,
+  "PlayerAudioSource": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PlayerAnimationAudioClips": {
+    "Array": [
+      {
+        "m_FileID": 5,
+        "m_PathID": 1050
+      },
+      {
+        "m_FileID": 5,
+        "m_PathID": 1053
+      },
+      {
+        "m_FileID": 5,
+        "m_PathID": 1002
+      },
+      {
+        "m_FileID": 5,
+        "m_PathID": 1045
+      },
+      {
+        "m_FileID": 5,
+        "m_PathID": 1052
+      },
+      {
+        "m_FileID": 5,
+        "m_PathID": 1042
+      },
+      {
+        "m_FileID": 5,
+        "m_PathID": 1026
+      },
+      {
+        "m_FileID": 5,
+        "m_PathID": 1046
+      }
+    ]
+  },
+  "FootstepSounds": {
+    "Array": [
+      {
+        "m_FileID": 5,
+        "m_PathID": 1047
+      },
+      {
+        "m_FileID": 5,
+        "m_PathID": 1031
+      }
+    ]
+  }
+}

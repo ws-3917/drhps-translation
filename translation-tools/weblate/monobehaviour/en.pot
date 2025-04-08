@@ -1,0 +1,66 @@
+#
+msgid ""
+msgstr ""
+
+msgid "setup new bar positon"
+msgstr ""
+
+msgid "Dice Equal = "
+msgstr ""
+
+msgid "did you forget to make the method public?"
+msgstr ""
+
+msgid "Couldn't find Component named: "
+msgstr ""
+
+msgid "test"
+msgstr ""
+
+msgid "DETECTED"
+msgstr ""
+
+msgid "SUCCESS!"
+msgstr ""
+
+msgid "subscribed to battle events"
+msgstr ""
+
+msgid "how?"
+msgstr ""
+
+msgid "null"
+msgstr ""
+
+msgid "Battle has begun"
+msgstr ""
+
+msgid "Error whilst grazing! Bullet_Generic not found in collider?"
+msgstr ""
+
+msgid "currently on "
+msgstr ""
+
+msgid "Susie Missing?"
+msgstr ""
+
+msgid "Ralsei Missing?"
+msgstr ""
+
+msgid "all text shown"
+msgstr ""
+
+msgid "FOUND YOU FUCKER"
+msgstr ""
+
+msgid "Disabled Disclaimer skip because currently in editor"
+msgstr ""
+
+msgid "done"
+msgstr ""
+
+msgid "running"
+msgstr ""
+
+msgid "Last Level was "
+msgstr ""

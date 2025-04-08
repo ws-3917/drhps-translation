@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2141
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 926
+  },
+  "m_Name": "",
+  "CurrentMember": {
+    "PartyMemberDescription": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMemberTransform": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PartyMemberFollowSettings": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "CurrentHealth": 0
+  },
+  "Icon": {
+    "m_FileID": 0,
+    "m_PathID": 2669
+  },
+  "Name": {
+    "m_FileID": 0,
+    "m_PathID": 2606
+  },
+  "currentHealth": {
+    "m_FileID": 0,
+    "m_PathID": 2644
+  },
+  "maxHealth": {
+    "m_FileID": 0,
+    "m_PathID": 2616
+  },
+  "healthBar": {
+    "m_FileID": 0,
+    "m_PathID": 2634
+  },
+  "selectedIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2666
+  },
+  "addhealthText": {
+    "m_FileID": 0,
+    "m_PathID": 2603
+  },
+  "addhealthAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 2345
+  },
+  "IsPlayers": 0
+}

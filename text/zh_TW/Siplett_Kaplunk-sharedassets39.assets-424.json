@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 670
+  },
+  "m_Name": "Siplett_Kaplunk",
+  "AttackPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 264
+  },
+  "AttackTime": 7.5,
+  "FadeCharactersAway": 0,
+  "ClearBulletHolderChildren": 1
+}
